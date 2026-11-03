@@ -1,0 +1,33 @@
+{
+  "name": "Finance Navy",
+  "dataColors": ["#1F3864", "#4472C4", "#8FAADC", "#ED7D31", "#A5A5A5", "#70AD47", "#FFC000", "#5B9BD5"],
+  "background": "#FFFFFF",
+  "foreground": "#1F1F1F",
+  "tableAccent": "#1F3864",
+  "good": "#1B7F3B",
+  "bad": "#C0392B",
+  "neutral": "#A5A5A5",
+  "maximum": "#1F3864",
+  "center": "#D9E1F2",
+  "minimum": "#FFFFFF",
+  "textClasses": {
+    "title":   { "fontFace": "Segoe UI Semibold", "fontSize": 12, "color": "#1F3864" },
+    "header":  { "fontFace": "Segoe UI Semibold", "fontSize": 11, "color": "#1F3864" },
+    "label":   { "fontFace": "Segoe UI", "fontSize": 10, "color": "#404040" },
+    "callout": { "fontFace": "Segoe UI Semibold", "fontSize": 26, "color": "#1F3864" }
+  },
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [{ "show": true, "color": { "solid": { "color": "#FFFFFF" } } }],
+        "border": [{ "show": true, "color": { "solid": { "color": "#E1E5EE" } }, "radius": 6 }],
+        "dropShadow": [{ "show": false }]
+      }
+    },
+    "page": {
+      "*": {
+        "background": [{ "color": { "solid": { "color": "#F3F5F9" } }, "transparency": 0 }]
+      }
+    }
+  }
+}

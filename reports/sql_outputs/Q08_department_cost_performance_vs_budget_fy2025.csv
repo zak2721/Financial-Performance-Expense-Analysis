@@ -1,0 +1,8 @@
+department_name,division,actual_spend,budget,variance,variance_pct
+Marketing,Commercial,8682641.0,7957400.0,-725241.0,-9.1
+Unassigned,Unassigned,544908.0,0.0,-544908.0,
+Operations,Operations,47037070.0,46840200.0,-196870.0,-0.4
+HR,Support,6137785.0,5999800.0,-137985.0,-2.3
+IT,Support,6527384.0,6395500.0,-131884.0,-2.1
+Finance,Support,5974913.0,5982700.0,7787.0,0.1
+Sales,Commercial,6470644.0,6492500.0,21856.0,0.3

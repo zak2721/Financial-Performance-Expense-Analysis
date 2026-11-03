@@ -1,0 +1,18 @@
+account_type,account_name,fy2024,fy2025,yoy_pct
+Revenue,Subscription Revenue,8646221.0,12523832.0,44.8
+Revenue,Product Sales,57171900.0,61771792.0,8.0
+Revenue,Service Revenue,17462139.0,17736365.0,1.6
+Expense,Marketing & Advertising,4071271.0,5518131.0,35.5
+Expense,Software & IT Services,2372320.0,3047278.0,28.5
+Expense,Travel & Entertainment,1609486.0,1766735.0,9.8
+Expense,Training & Development,693482.0,748159.0,7.9
+Expense,Office Supplies,322093.0,344100.0,6.8
+Expense,Rent & Utilities,3701116.0,3924253.0,6.0
+Expense,Employee Benefits,3426335.0,3615870.0,5.5
+Expense,Salaries & Wages,19608332.0,20666177.0,5.4
+Expense,Depreciation,1437818.0,1465418.0,1.9
+Expense,Insurance,760006.0,773992.0,1.8
+Expense,Professional Fees,1225014.0,1000752.0,-18.3
+COGS,Freight & Logistics,3433244.0,4322624.0,25.9
+COGS,Materials,21705050.0,24987405.0,15.1
+COGS,Direct Labor,8495055.0,9194450.0,8.2

@@ -1,0 +1,18 @@
+risk_rank,account_name,account_type,actual,budget,variance,variance_pct,status
+1,Product Sales,Revenue,61771792.0,65848100.0,-4076308.0,-6.2,Unfavourable
+2,Service Revenue,Revenue,17736365.0,19025400.0,-1289035.0,-6.8,Unfavourable
+3,Subscription Revenue,Revenue,12523832.0,13562300.0,-1038468.0,-7.7,Unfavourable
+4,Marketing & Advertising,Expense,5518131.0,4634600.0,-883531.0,-19.1,Unfavourable
+5,Freight & Logistics,COGS,4322624.0,3651300.0,-671324.0,-18.4,Unfavourable
+6,Salaries & Wages,Expense,20666177.0,20488600.0,-177577.0,-0.9,Unfavourable
+7,Direct Labor,COGS,9194450.0,9099900.0,-94550.0,-1.0,Unfavourable
+8,Training & Development,Expense,748159.0,660000.0,-88159.0,-13.4,Unfavourable
+9,Rent & Utilities,Expense,3924253.0,3839000.0,-85253.0,-2.2,Unfavourable
+10,Software & IT Services,Expense,3047278.0,2966400.0,-80878.0,-2.7,Unfavourable
+11,Employee Benefits,Expense,3615870.0,3578200.0,-37670.0,-1.1,Unfavourable
+12,Office Supplies,Expense,344100.0,336000.0,-8100.0,-2.4,Unfavourable
+13,Travel & Entertainment,Expense,1766735.0,1763900.0,-2835.0,-0.2,Unfavourable
+14,Depreciation,Expense,1465418.0,1462800.0,-2618.0,-0.2,Unfavourable
+15,Insurance,Expense,773992.0,773700.0,-292.0,-0.0,Unfavourable
+16,Professional Fees,Expense,1000752.0,1020000.0,19248.0,1.9,Favourable
+17,Materials,COGS,24987405.0,25393700.0,406295.0,1.6,Favourable

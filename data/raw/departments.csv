@@ -1,0 +1,7 @@
+department_id,department_name,division
+D10,Sales,Commercial
+D20,Marketing,Commercial
+D30,Operations,Operations
+D40,IT,Support
+D50,HR,Support
+D60,Finance,Support

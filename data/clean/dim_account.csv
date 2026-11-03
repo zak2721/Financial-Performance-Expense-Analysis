@@ -1,0 +1,18 @@
+account_id,account_name,account_type,account_category
+4000,Product Sales,Revenue,Revenue
+4100,Service Revenue,Revenue,Revenue
+4200,Subscription Revenue,Revenue,Revenue
+5000,Materials,COGS,Cost of Goods Sold
+5100,Direct Labor,COGS,Cost of Goods Sold
+5200,Freight & Logistics,COGS,Cost of Goods Sold
+6000,Salaries & Wages,Expense,Personnel
+6100,Employee Benefits,Expense,Personnel
+6200,Training & Development,Expense,Personnel
+6300,Rent & Utilities,Expense,Facilities
+6400,Marketing & Advertising,Expense,Sales & Marketing
+6500,Travel & Entertainment,Expense,Sales & Marketing
+6600,Software & IT Services,Expense,Technology
+6700,Professional Fees,Expense,Administrative
+6800,Office Supplies,Expense,Administrative
+6900,Insurance,Expense,Administrative
+7000,Depreciation,Expense,Administrative

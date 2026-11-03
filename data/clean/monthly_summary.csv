@@ -1,0 +1,563 @@
+month_start,account_id,department_id,actual_amount,budget_amount,account_name,account_type,account_category,department_name,division,variance,variance_pct,status
+2024-01-01,4000,D10,4291288.46,4200000.0,Product Sales,Revenue,Revenue,Sales,Commercial,91288.45999999996,0.0217,Favourable
+2024-01-01,4100,D30,1696946.92,1350000.0,Service Revenue,Revenue,Revenue,Operations,Operations,346946.9199999999,0.257,Favourable
+2024-01-01,4200,D10,631439.3,620000.0,Subscription Revenue,Revenue,Revenue,Sales,Commercial,11439.300000000047,0.0185,Favourable
+2024-01-01,5000,D30,1917882.84,1780000.0,Materials,COGS,Cost of Goods Sold,Operations,Operations,-137882.84000000008,-0.0775,Unfavourable
+2024-01-01,5100,D30,694913.6799999999,690000.0,Direct Labor,COGS,Cost of Goods Sold,Operations,Operations,-4913.679999999935,-0.0071,Unfavourable
+2024-01-01,5200,D30,247935.48,260000.0,Freight & Logistics,COGS,Cost of Goods Sold,Operations,Operations,12064.51999999999,0.0464,Favourable
+2024-01-01,6000,D10,400194.12,410000.0,Salaries & Wages,Expense,Personnel,Sales,Commercial,9805.880000000005,0.0239,Favourable
+2024-01-01,6000,D20,222927.69,220000.0,Salaries & Wages,Expense,Personnel,Marketing,Commercial,-2927.6900000000023,-0.0133,Unfavourable
+2024-01-01,6000,D30,379394.14,380000.0,Salaries & Wages,Expense,Personnel,Operations,Operations,605.859999999986,0.0016,Favourable
+2024-01-01,6000,D40,262078.83000000002,260000.0,Salaries & Wages,Expense,Personnel,IT,Support,-2078.8300000000163,-0.008,Unfavourable
+2024-01-01,6000,D50,137385.87,140000.0,Salaries & Wages,Expense,Personnel,HR,Support,2614.1300000000047,0.0187,Favourable
+2024-01-01,6000,D60,191650.81,190000.0,Salaries & Wages,Expense,Personnel,Finance,Support,-1650.8099999999977,-0.0087,Unfavourable
+2024-01-01,6100,D50,263804.15,280000.0,Employee Benefits,Expense,Personnel,HR,Support,16195.849999999977,0.0578,Favourable
+2024-01-01,6200,D50,55580.86,55000.0,Training & Development,Expense,Personnel,HR,Support,-580.8600000000006,-0.0106,Unfavourable
+2024-01-01,6300,D30,335280.89,310000.0,Rent & Utilities,Expense,Facilities,Operations,Operations,-25280.890000000014,-0.0816,Unfavourable
+2024-01-01,6400,D20,259387.47,330000.0,Marketing & Advertising,Expense,Sales & Marketing,Marketing,Commercial,70612.53,0.214,Favourable
+2024-01-01,6500,D10,83890.42,95000.0,Travel & Entertainment,Expense,Sales & Marketing,Sales,Commercial,11109.580000000002,0.1169,Favourable
+2024-01-01,6500,D20,43762.17,40000.0,Travel & Entertainment,Expense,Sales & Marketing,Marketing,Commercial,-3762.1699999999983,-0.0941,Unfavourable
+2024-01-01,6600,D40,161146.47,175000.0,Software & IT Services,Expense,Technology,IT,Support,13853.529999999999,0.0792,Favourable
+2024-01-01,6700,D60,82008.19,85000.0,Professional Fees,Expense,Administrative,Finance,Support,2991.8099999999977,0.0352,Favourable
+2024-01-01,6800,D60,18621.78,28000.0,Office Supplies,Expense,Administrative,Finance,Support,9378.220000000001,0.3349,Favourable
+2024-01-01,6900,D60,91768.93,90000.0,Insurance,Expense,Administrative,Finance,Support,-1768.929999999993,-0.0197,Unfavourable
+2024-01-01,7000,D60,120000.0,120000.0,Depreciation,Expense,Administrative,Finance,Support,0.0,0.0,Favourable
+2024-02-01,4000,D10,3972089.04,4258000.0,Product Sales,Revenue,Revenue,Sales,Commercial,-285910.95999999996,-0.0671,Unfavourable
+2024-02-01,4100,D30,1590636.16,1362400.0,Service Revenue,Revenue,Revenue,Operations,Operations,228236.15999999992,0.1675,Favourable
+2024-02-01,4200,D10,654198.25,641400.0,Subscription Revenue,Revenue,Revenue,Sales,Commercial,12798.25,0.02,Favourable
+2024-02-01,5000,D30,1588893.51,1797600.0,Materials,COGS,Cost of Goods Sold,Operations,Operations,208706.49,0.1161,Favourable
+2024-02-01,5100,D30,633134.52,693700.0,Direct Labor,COGS,Cost of Goods Sold,Operations,Operations,60565.47999999998,0.0873,Favourable
+2024-02-01,5200,D30,211888.41999999998,262300.0,Freight & Logistics,COGS,Cost of Goods Sold,Operations,Operations,50411.580000000016,0.1922,Favourable
+2024-02-01,6000,D10,403515.4,411500.0,Salaries & Wages,Expense,Personnel,Sales,Commercial,7984.599999999977,0.0194,Favourable
+2024-02-01,6000,D20,214806.26,220800.0,Salaries & Wages,Expense,Personnel,Marketing,Commercial,5993.739999999991,0.0271,Favourable
+2024-02-01,6000,D30,383291.55,381400.0,Salaries & Wages,Expense,Personnel,Operations,Operations,-1891.5499999999884,-0.005,Unfavourable
+2024-02-01,6000,D40,266857.72000000003,261400.0,Salaries & Wages,Expense,Personnel,IT,Support,-5457.72000000003,-0.0209,Unfavourable
+2024-02-01,6000,D50,140420.23,140400.0,Salaries & Wages,Expense,Personnel,HR,Support,-20.230000000010477,-0.0001,Unfavourable
+2024-02-01,6000,D60,196566.68,190500.0,Salaries & Wages,Expense,Personnel,Finance,Support,-6066.679999999993,-0.0318,Unfavourable
+2024-02-01,6100,D50,294514.16,281000.0,Employee Benefits,Expense,Personnel,HR,Support,-13514.159999999974,-0.0481,Unfavourable
+2024-02-01,6200,D50,33000.0,55000.0,Training & Development,Expense,Personnel,HR,Support,22000.0,0.4,Favourable
+2024-02-01,6300,D30,308691.27,310600.0,Rent & Utilities,Expense,Facilities,Operations,Operations,1908.7299999999814,0.0061,Favourable
+2024-02-01,6400,D20,351057.86,333000.0,Marketing & Advertising,Expense,Sales & Marketing,Marketing,Commercial,-18057.859999999986,-0.0542,Unfavourable
+2024-02-01,6500,D10,145094.86,95500.0,Travel & Entertainment,Expense,Sales & Marketing,Sales,Commercial,-49594.859999999986,-0.5193,Unfavourable
+2024-02-01,6500,D20,0.0,40100.0,Travel & Entertainment,Expense,Sales & Marketing,Marketing,Commercial,40100.0,1.0,Favourable
+2024-02-01,6500,D99,27474.68,0.0,Travel & Entertainment,Expense,Sales & Marketing,Unassigned,Unassigned,-27474.68,,Unfavourable
+2024-02-01,6600,D40,203635.91999999998,178500.0,Software & IT Services,Expense,Technology,IT,Support,-25135.919999999984,-0.1408,Unfavourable
+2024-02-01,6700,D60,86414.1,85000.0,Professional Fees,Expense,Administrative,Finance,Support,-1414.1000000000058,-0.0166,Unfavourable
+2024-02-01,6800,D60,32381.16,28000.0,Office Supplies,Expense,Administrative,Finance,Support,-4381.16,-0.1565,Unfavourable
+2024-02-01,6900,D60,61528.3,60100.0,Insurance,Expense,Administrative,Finance,Support,-1428.300000000003,-0.0238,Unfavourable
+2024-02-01,7000,D60,120120.0,120100.0,Depreciation,Expense,Administrative,Finance,Support,-20.0,-0.0002,Unfavourable
+2024-03-01,4000,D10,4575633.89,4316700.0,Product Sales,Revenue,Revenue,Sales,Commercial,258933.88999999966,0.06,Favourable
+2024-03-01,4100,D30,1347402.84,1375000.0,Service Revenue,Revenue,Revenue,Operations,Operations,-27597.159999999916,-0.0201,Unfavourable
+2024-03-01,4200,D10,685443.71,663500.0,Subscription Revenue,Revenue,Revenue,Sales,Commercial,21943.709999999963,0.0331,Favourable
+2024-03-01,5000,D30,1483139.7400000002,1815400.0,Materials,COGS,Cost of Goods Sold,Operations,Operations,332260.2599999998,0.183,Favourable
+2024-03-01,5100,D30,694200.83,697500.0,Direct Labor,COGS,Cost of Goods Sold,Operations,Operations,3299.170000000042,0.0047,Favourable
+2024-03-01,5200,D30,213647.27000000002,264700.0,Freight & Logistics,COGS,Cost of Goods Sold,Operations,Operations,51052.72999999998,0.1929,Favourable
+2024-03-01,6000,D10,410931.78,413000.0,Salaries & Wages,Expense,Personnel,Sales,Commercial,2068.219999999972,0.005,Favourable
+2024-03-01,6000,D20,227652.16,221600.0,Salaries & Wages,Expense,Personnel,Marketing,Commercial,-6052.1600000000035,-0.0273,Unfavourable
+2024-03-01,6000,D30,393415.8,382700.0,Salaries & Wages,Expense,Personnel,Operations,Operations,-10715.799999999988,-0.028,Unfavourable
+2024-03-01,6000,D40,255337.91,262800.0,Salaries & Wages,Expense,Personnel,IT,Support,7462.0899999999965,0.0284,Favourable
+2024-03-01,6000,D50,143104.82,140800.0,Salaries & Wages,Expense,Personnel,HR,Support,-2304.820000000007,-0.0164,Unfavourable
+2024-03-01,6000,D60,192956.39,191000.0,Salaries & Wages,Expense,Personnel,Finance,Support,-1956.390000000014,-0.0102,Unfavourable
+2024-03-01,6100,D50,275414.16,282000.0,Employee Benefits,Expense,Personnel,HR,Support,6585.840000000026,0.0234,Favourable
+2024-03-01,6200,D50,61326.75,55000.0,Training & Development,Expense,Personnel,HR,Support,-6326.75,-0.115,Unfavourable
+2024-03-01,6300,D30,305050.87,311100.0,Rent & Utilities,Expense,Facilities,Operations,Operations,6049.130000000005,0.0194,Favourable
+2024-03-01,6400,D20,340837.08,336000.0,Marketing & Advertising,Expense,Sales & Marketing,Marketing,Commercial,-4837.080000000016,-0.0144,Unfavourable
+2024-03-01,6500,D10,57686.05,96000.0,Travel & Entertainment,Expense,Sales & Marketing,Sales,Commercial,38313.95,0.3991,Favourable
+2024-03-01,6500,D20,63753.76,40300.0,Travel & Entertainment,Expense,Sales & Marketing,Marketing,Commercial,-23453.760000000002,-0.582,Unfavourable
+2024-03-01,6600,D40,176832.08,182000.0,Software & IT Services,Expense,Technology,IT,Support,5167.920000000013,0.0284,Favourable
+2024-03-01,6700,D60,107606.85,85000.0,Professional Fees,Expense,Administrative,Finance,Support,-22606.850000000006,-0.266,Unfavourable
+2024-03-01,6800,D60,29249.239999999998,28000.0,Office Supplies,Expense,Administrative,Finance,Support,-1249.239999999998,-0.0446,Unfavourable
+2024-03-01,6900,D60,60034.93,60200.0,Insurance,Expense,Administrative,Finance,Support,165.0699999999997,0.0027,Favourable
+2024-03-01,7000,D60,110111.5,120200.0,Depreciation,Expense,Administrative,Finance,Support,10088.5,0.0839,Favourable
+2024-04-01,4000,D10,4760267.36,4376300.0,Product Sales,Revenue,Revenue,Sales,Commercial,383967.36000000034,0.0877,Favourable
+2024-04-01,4100,D30,1624079.88,1387600.0,Service Revenue,Revenue,Revenue,Operations,Operations,236479.8799999999,0.1704,Favourable
+2024-04-01,4200,D10,620362.41,686400.0,Subscription Revenue,Revenue,Revenue,Sales,Commercial,-66037.58999999997,-0.0962,Unfavourable
+2024-04-01,5000,D30,1687489.95,1833400.0,Materials,COGS,Cost of Goods Sold,Operations,Operations,145910.05000000005,0.0796,Favourable
+2024-04-01,5100,D30,670893.13,701200.0,Direct Labor,COGS,Cost of Goods Sold,Operations,Operations,30306.869999999995,0.0432,Favourable
+2024-04-01,5200,D30,321568.54000000004,267100.0,Freight & Logistics,COGS,Cost of Goods Sold,Operations,Operations,-54468.54000000004,-0.2039,Unfavourable
+2024-04-01,6000,D10,406042.3,414400.0,Salaries & Wages,Expense,Personnel,Sales,Commercial,8357.700000000012,0.0202,Favourable
+2024-04-01,6000,D20,217411.1,222400.0,Salaries & Wages,Expense,Personnel,Marketing,Commercial,4988.899999999994,0.0224,Favourable
+2024-04-01,6000,D30,386493.74,384100.0,Salaries & Wages,Expense,Personnel,Operations,Operations,-2393.7399999999907,-0.0062,Unfavourable
+2024-04-01,6000,D40,262465.49,264200.0,Salaries & Wages,Expense,Personnel,IT,Support,1734.5100000000093,0.0066,Favourable
+2024-04-01,6000,D50,141946.53999999998,141100.0,Salaries & Wages,Expense,Personnel,HR,Support,-846.539999999979,-0.006,Unfavourable
+2024-04-01,6000,D60,189274.16,191500.0,Salaries & Wages,Expense,Personnel,Finance,Support,2225.8399999999965,0.0116,Favourable
+2024-04-01,6100,D50,264267.31,283000.0,Employee Benefits,Expense,Personnel,HR,Support,18732.690000000002,0.0662,Favourable
+2024-04-01,6200,D50,39472.97,55000.0,Training & Development,Expense,Personnel,HR,Support,15527.029999999999,0.2823,Favourable
+2024-04-01,6300,D30,300268.64999999997,311700.0,Rent & Utilities,Expense,Facilities,Operations,Operations,11431.350000000035,0.0367,Favourable
+2024-04-01,6400,D20,276315.59,339000.0,Marketing & Advertising,Expense,Sales & Marketing,Marketing,Commercial,62684.409999999974,0.1849,Favourable
+2024-04-01,6500,D10,87711.25,96500.0,Travel & Entertainment,Expense,Sales & Marketing,Sales,Commercial,8788.75,0.0911,Favourable
+2024-04-01,6500,D20,46851.84,40400.0,Travel & Entertainment,Expense,Sales & Marketing,Marketing,Commercial,-6451.8399999999965,-0.1597,Unfavourable
+2024-04-01,6600,D40,160941.98,185600.0,Software & IT Services,Expense,Technology,IT,Support,24658.01999999999,0.1329,Favourable
+2024-04-01,6700,D60,120442.61,85000.0,Professional Fees,Expense,Administrative,Finance,Support,-35442.61,-0.417,Unfavourable
+2024-04-01,6800,D60,23133.34,28000.0,Office Supplies,Expense,Administrative,Finance,Support,4866.66,0.1738,Favourable
+2024-04-01,6900,D60,59969.84,60300.0,Insurance,Expense,Administrative,Finance,Support,330.1600000000035,0.0055,Favourable
+2024-04-01,7000,D60,120360.36,120300.0,Depreciation,Expense,Administrative,Finance,Support,-60.36000000000058,-0.0005,Unfavourable
+2024-05-01,4000,D10,4751001.95,4436700.0,Product Sales,Revenue,Revenue,Sales,Commercial,314301.9500000002,0.0708,Favourable
+2024-05-01,4100,D30,1240664.48,1400400.0,Service Revenue,Revenue,Revenue,Operations,Operations,-159735.52000000002,-0.1141,Unfavourable
+2024-05-01,4200,D10,661700.78,710100.0,Subscription Revenue,Revenue,Revenue,Sales,Commercial,-48399.21999999997,-0.0682,Unfavourable
+2024-05-01,5000,D30,1693068.71,1851500.0,Materials,COGS,Cost of Goods Sold,Operations,Operations,158431.29000000004,0.0856,Favourable
+2024-05-01,5100,D30,739601.25,705000.0,Direct Labor,COGS,Cost of Goods Sold,Operations,Operations,-34601.25,-0.0491,Unfavourable
+2024-05-01,5200,D30,255471.46,269500.0,Freight & Logistics,COGS,Cost of Goods Sold,Operations,Operations,14028.540000000008,0.0521,Favourable
+2024-05-01,6000,D10,414106.0,415900.0,Salaries & Wages,Expense,Personnel,Sales,Commercial,1794.0,0.0043,Favourable
+2024-05-01,6000,D20,190112.32,223200.0,Salaries & Wages,Expense,Personnel,Marketing,Commercial,33087.67999999999,0.1482,Favourable
+2024-05-01,6000,D30,391034.98,385500.0,Salaries & Wages,Expense,Personnel,Operations,Operations,-5534.979999999981,-0.0144,Unfavourable
+2024-05-01,6000,D40,266741.74,265700.0,Salaries & Wages,Expense,Personnel,IT,Support,-1041.7399999999907,-0.0039,Unfavourable
+2024-05-01,6000,D50,146587.11,141500.0,Salaries & Wages,Expense,Personnel,HR,Support,-5087.109999999986,-0.036,Unfavourable
+2024-05-01,6000,D60,188085.0,192100.0,Salaries & Wages,Expense,Personnel,Finance,Support,4015.0,0.0209,Favourable
+2024-05-01,6000,D99,37251.5,0.0,Salaries & Wages,Expense,Personnel,Unassigned,Unassigned,-37251.5,,Unfavourable
+2024-05-01,6100,D50,269682.41,284100.0,Employee Benefits,Expense,Personnel,HR,Support,14417.590000000026,0.0507,Favourable
+2024-05-01,6200,D50,89603.06,55000.0,Training & Development,Expense,Personnel,HR,Support,-34603.06,-0.6291,Unfavourable
+2024-05-01,6300,D30,292192.76,312200.0,Rent & Utilities,Expense,Facilities,Operations,Operations,20007.23999999999,0.0641,Favourable
+2024-05-01,6400,D20,367584.12,342000.0,Marketing & Advertising,Expense,Sales & Marketing,Marketing,Commercial,-25584.119999999995,-0.0748,Unfavourable
+2024-05-01,6500,D10,65667.24,97100.0,Travel & Entertainment,Expense,Sales & Marketing,Sales,Commercial,31432.759999999995,0.3237,Favourable
+2024-05-01,6500,D20,39031.56,40600.0,Travel & Entertainment,Expense,Sales & Marketing,Marketing,Commercial,1568.4400000000023,0.0386,Favourable
+2024-05-01,6600,D40,181323.08000000002,189300.0,Software & IT Services,Expense,Technology,IT,Support,7976.919999999984,0.0421,Favourable
+2024-05-01,6700,D60,60787.13,85000.0,Professional Fees,Expense,Administrative,Finance,Support,24212.870000000003,0.2849,Favourable
+2024-05-01,6800,D60,29781.86,28000.0,Office Supplies,Expense,Administrative,Finance,Support,-1781.8600000000006,-0.0636,Unfavourable
+2024-05-01,6900,D60,61950.16,60400.0,Insurance,Expense,Administrative,Finance,Support,-1550.1600000000035,-0.0257,Unfavourable
+2024-05-01,7000,D60,120480.72,120400.0,Depreciation,Expense,Administrative,Finance,Support,-80.72000000000116,-0.0007,Unfavourable
+2024-06-01,4000,D10,5307419.91,4497900.0,Product Sales,Revenue,Revenue,Sales,Commercial,809519.9100000001,0.18,Favourable
+2024-06-01,4100,D30,1397017.04,1413300.0,Service Revenue,Revenue,Revenue,Operations,Operations,-16282.959999999963,-0.0115,Unfavourable
+2024-06-01,4200,D10,674147.2,734600.0,Subscription Revenue,Revenue,Revenue,Sales,Commercial,-60452.80000000005,-0.0823,Unfavourable
+2024-06-01,5000,D30,1938689.67,1869900.0,Materials,COGS,Cost of Goods Sold,Operations,Operations,-68789.66999999993,-0.0368,Unfavourable
+2024-06-01,5100,D30,729769.22,708800.0,Direct Labor,COGS,Cost of Goods Sold,Operations,Operations,-20969.219999999972,-0.0296,Unfavourable
+2024-06-01,5200,D30,237724.59,271900.0,Freight & Logistics,COGS,Cost of Goods Sold,Operations,Operations,34175.41,0.1257,Favourable
+2024-06-01,6000,D10,434010.85000000003,417400.0,Salaries & Wages,Expense,Personnel,Sales,Commercial,-16610.850000000035,-0.0398,Unfavourable
+2024-06-01,6000,D20,224775.2,224000.0,Salaries & Wages,Expense,Personnel,Marketing,Commercial,-775.2000000000116,-0.0035,Unfavourable
+2024-06-01,6000,D30,378738.14,386900.0,Salaries & Wages,Expense,Personnel,Operations,Operations,8161.859999999986,0.0211,Favourable
+2024-06-01,6000,D40,242125.15,267100.0,Salaries & Wages,Expense,Personnel,IT,Support,24974.850000000006,0.0935,Favourable
+2024-06-01,6000,D50,116459.7,141900.0,Salaries & Wages,Expense,Personnel,HR,Support,25440.300000000003,0.1793,Favourable
+2024-06-01,6000,D60,194609.78,192600.0,Salaries & Wages,Expense,Personnel,Finance,Support,-2009.7799999999988,-0.0104,Unfavourable
+2024-06-01,6000,D99,29064.51,0.0,Salaries & Wages,Expense,Personnel,Unassigned,Unassigned,-29064.51,,Unfavourable
+2024-06-01,6100,D50,311272.14,285100.0,Employee Benefits,Expense,Personnel,HR,Support,-26172.140000000014,-0.0918,Unfavourable
+2024-06-01,6200,D50,86124.83,55000.0,Training & Development,Expense,Personnel,HR,Support,-31124.83,-0.5659,Unfavourable
+2024-06-01,6300,D30,312443.41000000003,312800.0,Rent & Utilities,Expense,Facilities,Operations,Operations,356.5899999999674,0.0011,Favourable
+2024-06-01,6400,D20,329178.37,345100.0,Marketing & Advertising,Expense,Sales & Marketing,Marketing,Commercial,15921.630000000005,0.0461,Favourable
+2024-06-01,6500,D10,43677.64,97600.0,Travel & Entertainment,Expense,Sales & Marketing,Sales,Commercial,53922.36,0.5525,Favourable
+2024-06-01,6500,D20,48543.1,40700.0,Travel & Entertainment,Expense,Sales & Marketing,Marketing,Commercial,-7843.0999999999985,-0.1927,Unfavourable
+2024-06-01,6500,D99,15053.0,0.0,Travel & Entertainment,Expense,Sales & Marketing,Unassigned,Unassigned,-15053.0,,Unfavourable
+2024-06-01,6600,D40,218206.23,193000.0,Software & IT Services,Expense,Technology,IT,Support,-25206.23000000001,-0.1306,Unfavourable
+2024-06-01,6700,D60,82668.15,85000.0,Professional Fees,Expense,Administrative,Finance,Support,2331.850000000006,0.0274,Favourable
+2024-06-01,6800,D60,25678.95,28000.0,Office Supplies,Expense,Administrative,Finance,Support,2321.0499999999993,0.0829,Favourable
+2024-06-01,6900,D60,60148.08,60500.0,Insurance,Expense,Administrative,Finance,Support,351.91999999999825,0.0058,Favourable
+2024-06-01,7000,D60,120601.2,120500.0,Depreciation,Expense,Administrative,Finance,Support,-101.19999999999709,-0.0008,Unfavourable
+2024-07-01,4000,D10,4359652.74,4560000.0,Product Sales,Revenue,Revenue,Sales,Commercial,-200347.25999999978,-0.0439,Unfavourable
+2024-07-01,4100,D30,1508314.71,1426300.0,Service Revenue,Revenue,Revenue,Operations,Operations,82014.70999999996,0.0575,Favourable
+2024-07-01,4200,D10,794134.99,759900.0,Subscription Revenue,Revenue,Revenue,Sales,Commercial,34234.98999999999,0.0451,Favourable
+2024-07-01,5000,D30,1790262.6099999999,1888400.0,Materials,COGS,Cost of Goods Sold,Operations,Operations,98137.39000000013,0.052,Favourable
+2024-07-01,5100,D30,691754.5599999999,712700.0,Direct Labor,COGS,Cost of Goods Sold,Operations,Operations,20945.44000000006,0.0294,Favourable
+2024-07-01,5200,D30,301418.51,274400.0,Freight & Logistics,COGS,Cost of Goods Sold,Operations,Operations,-27018.51000000001,-0.0985,Unfavourable
+2024-07-01,6000,D10,425824.15,418900.0,Salaries & Wages,Expense,Personnel,Sales,Commercial,-6924.150000000023,-0.0165,Unfavourable
+2024-07-01,6000,D20,229119.67,224800.0,Salaries & Wages,Expense,Personnel,Marketing,Commercial,-4319.670000000013,-0.0192,Unfavourable
+2024-07-01,6000,D30,380242.31,388300.0,Salaries & Wages,Expense,Personnel,Operations,Operations,8057.690000000002,0.0208,Favourable
+2024-07-01,6000,D40,269927.29,268500.0,Salaries & Wages,Expense,Personnel,IT,Support,-1427.289999999979,-0.0053,Unfavourable
+2024-07-01,6000,D50,142547.84,142300.0,Salaries & Wages,Expense,Personnel,HR,Support,-247.8399999999965,-0.0017,Unfavourable
+2024-07-01,6000,D60,192733.2,193100.0,Salaries & Wages,Expense,Personnel,Finance,Support,366.79999999998836,0.0019,Favourable
+2024-07-01,6100,D50,262726.65,286100.0,Employee Benefits,Expense,Personnel,HR,Support,23373.349999999977,0.0817,Favourable
+2024-07-01,6200,D50,41797.34,55000.0,Training & Development,Expense,Personnel,HR,Support,13202.660000000003,0.24,Favourable
+2024-07-01,6300,D30,314439.44,313400.0,Rent & Utilities,Expense,Facilities,Operations,Operations,-1039.4400000000023,-0.0033,Unfavourable
+2024-07-01,6400,D20,210180.99,348200.0,Marketing & Advertising,Expense,Sales & Marketing,Marketing,Commercial,138019.01,0.3964,Favourable
+2024-07-01,6500,D10,112447.42,98100.0,Travel & Entertainment,Expense,Sales & Marketing,Sales,Commercial,-14347.419999999998,-0.1463,Unfavourable
+2024-07-01,6500,D20,32716.18,40900.0,Travel & Entertainment,Expense,Sales & Marketing,Marketing,Commercial,8183.82,0.2001,Favourable
+2024-07-01,6500,D99,11604.53,0.0,Travel & Entertainment,Expense,Sales & Marketing,Unassigned,Unassigned,-11604.53,,Unfavourable
+2024-07-01,6600,D40,176792.53999999998,196800.0,Software & IT Services,Expense,Technology,IT,Support,20007.46000000002,0.1017,Favourable
+2024-07-01,6700,D60,66707.11,85000.0,Professional Fees,Expense,Administrative,Finance,Support,18292.89,0.2152,Favourable
+2024-07-01,6800,D60,21564.45,28000.0,Office Supplies,Expense,Administrative,Finance,Support,6435.549999999999,0.2298,Favourable
+2024-07-01,6900,D60,59798.21,60700.0,Insurance,Expense,Administrative,Finance,Support,901.7900000000009,0.0149,Favourable
+2024-07-01,7000,D60,120721.79999999999,120600.0,Depreciation,Expense,Administrative,Finance,Support,-121.79999999998836,-0.001,Unfavourable
+2024-08-01,4000,D10,4845623.04,4622900.0,Product Sales,Revenue,Revenue,Sales,Commercial,222723.04000000004,0.0482,Favourable
+2024-08-01,4100,D30,1042067.34,1439400.0,Service Revenue,Revenue,Revenue,Operations,Operations,-397332.66000000003,-0.276,Unfavourable
+2024-08-01,4200,D10,765819.9099999999,786100.0,Subscription Revenue,Revenue,Revenue,Sales,Commercial,-20280.090000000084,-0.0258,Unfavourable
+2024-08-01,5000,D30,2070372.9700000002,1907100.0,Materials,COGS,Cost of Goods Sold,Operations,Operations,-163272.9700000002,-0.0856,Unfavourable
+2024-08-01,5100,D30,689429.45,716500.0,Direct Labor,COGS,Cost of Goods Sold,Operations,Operations,27070.550000000047,0.0378,Favourable
+2024-08-01,5200,D30,303573.66000000003,276800.0,Freight & Logistics,COGS,Cost of Goods Sold,Operations,Operations,-26773.660000000033,-0.0967,Unfavourable
+2024-08-01,6000,D10,416360.25,420400.0,Salaries & Wages,Expense,Personnel,Sales,Commercial,4039.75,0.0096,Favourable
+2024-08-01,6000,D20,231635.17,225600.0,Salaries & Wages,Expense,Personnel,Marketing,Commercial,-6035.170000000013,-0.0268,Unfavourable
+2024-08-01,6000,D30,396988.31000000006,389700.0,Salaries & Wages,Expense,Personnel,Operations,Operations,-7288.310000000056,-0.0187,Unfavourable
+2024-08-01,6000,D40,236274.83,270000.0,Salaries & Wages,Expense,Personnel,IT,Support,33725.17000000001,0.1249,Favourable
+2024-08-01,6000,D50,143703.27000000002,142700.0,Salaries & Wages,Expense,Personnel,HR,Support,-1003.2700000000186,-0.007,Unfavourable
+2024-08-01,6000,D60,189534.52,193600.0,Salaries & Wages,Expense,Personnel,Finance,Support,4065.4800000000105,0.021,Favourable
+2024-08-01,6000,D99,45707.48,0.0,Salaries & Wages,Expense,Personnel,Unassigned,Unassigned,-45707.48,,Unfavourable
+2024-08-01,6100,D50,296617.15,287100.0,Employee Benefits,Expense,Personnel,HR,Support,-9517.150000000023,-0.0331,Unfavourable
+2024-08-01,6200,D50,33000.0,55000.0,Training & Development,Expense,Personnel,HR,Support,22000.0,0.4,Favourable
+2024-08-01,6300,D30,301632.15,313900.0,Rent & Utilities,Expense,Facilities,Operations,Operations,12267.849999999977,0.0391,Favourable
+2024-08-01,6400,D20,429615.96,351400.0,Marketing & Advertising,Expense,Sales & Marketing,Marketing,Commercial,-78215.96000000002,-0.2226,Unfavourable
+2024-08-01,6500,D10,127814.44,98600.0,Travel & Entertainment,Expense,Sales & Marketing,Sales,Commercial,-29214.440000000002,-0.2963,Unfavourable
+2024-08-01,6500,D20,39605.71,41000.0,Travel & Entertainment,Expense,Sales & Marketing,Marketing,Commercial,1394.2900000000009,0.034,Favourable
+2024-08-01,6600,D40,210512.00999999998,200700.0,Software & IT Services,Expense,Technology,IT,Support,-9812.00999999998,-0.0489,Unfavourable
+2024-08-01,6700,D60,80456.66,85000.0,Professional Fees,Expense,Administrative,Finance,Support,4543.3399999999965,0.0535,Favourable
+2024-08-01,6800,D60,40935.13,28000.0,Office Supplies,Expense,Administrative,Finance,Support,-12935.129999999997,-0.462,Unfavourable
+2024-08-01,6900,D60,59272.97,60800.0,Insurance,Expense,Administrative,Finance,Support,1527.0299999999988,0.0251,Favourable
+2024-08-01,7000,D60,120842.53,120800.0,Depreciation,Expense,Administrative,Finance,Support,-42.529999999998836,-0.0004,Unfavourable
+2024-09-01,4000,D10,5018838.16,4686700.0,Product Sales,Revenue,Revenue,Sales,Commercial,332138.16000000015,0.0709,Favourable
+2024-09-01,4100,D30,1760411.6300000001,1452600.0,Service Revenue,Revenue,Revenue,Operations,Operations,307811.6300000001,0.2119,Favourable
+2024-09-01,4200,D10,785052.09,813300.0,Subscription Revenue,Revenue,Revenue,Sales,Commercial,-28247.910000000033,-0.0347,Unfavourable
+2024-09-01,5000,D30,2070941.24,1926000.0,Materials,COGS,Cost of Goods Sold,Operations,Operations,-144941.24,-0.0753,Unfavourable
+2024-09-01,5100,D30,736874.1799999999,720400.0,Direct Labor,COGS,Cost of Goods Sold,Operations,Operations,-16474.179999999935,-0.0229,Unfavourable
+2024-09-01,5200,D30,345584.15,279300.0,Freight & Logistics,COGS,Cost of Goods Sold,Operations,Operations,-66284.15000000002,-0.2373,Unfavourable
+2024-09-01,6000,D10,419958.98,422000.0,Salaries & Wages,Expense,Personnel,Sales,Commercial,2041.0200000000186,0.0048,Favourable
+2024-09-01,6000,D20,227551.58,226400.0,Salaries & Wages,Expense,Personnel,Marketing,Commercial,-1151.5799999999872,-0.0051,Unfavourable
+2024-09-01,6000,D30,390943.95,391100.0,Salaries & Wages,Expense,Personnel,Operations,Operations,156.04999999998836,0.0004,Favourable
+2024-09-01,6000,D40,265728.08999999997,271400.0,Salaries & Wages,Expense,Personnel,IT,Support,5671.910000000033,0.0209,Favourable
+2024-09-01,6000,D50,146622.02,143100.0,Salaries & Wages,Expense,Personnel,HR,Support,-3522.0199999999895,-0.0246,Unfavourable
+2024-09-01,6000,D60,193865.7,194100.0,Salaries & Wages,Expense,Personnel,Finance,Support,234.29999999998836,0.0012,Favourable
+2024-09-01,6100,D50,294289.75,288200.0,Employee Benefits,Expense,Personnel,HR,Support,-6089.75,-0.0211,Unfavourable
+2024-09-01,6200,D50,61351.42,55000.0,Training & Development,Expense,Personnel,HR,Support,-6351.419999999998,-0.1155,Unfavourable
+2024-09-01,6300,D30,303347.11,314500.0,Rent & Utilities,Expense,Facilities,Operations,Operations,11152.890000000014,0.0355,Favourable
+2024-09-01,6400,D20,378105.58999999997,354500.0,Marketing & Advertising,Expense,Sales & Marketing,Marketing,Commercial,-23605.589999999967,-0.0666,Unfavourable
+2024-09-01,6500,D10,80983.1,99200.0,Travel & Entertainment,Expense,Sales & Marketing,Sales,Commercial,18216.899999999994,0.1836,Favourable
+2024-09-01,6500,D20,40763.66,41200.0,Travel & Entertainment,Expense,Sales & Marketing,Marketing,Commercial,436.3399999999965,0.0106,Favourable
+2024-09-01,6600,D40,209410.46,204700.0,Software & IT Services,Expense,Technology,IT,Support,-4710.459999999992,-0.023,Unfavourable
+2024-09-01,6700,D60,51000.0,85000.0,Professional Fees,Expense,Administrative,Finance,Support,34000.0,0.4,Favourable
+2024-09-01,6800,D60,17166.63,28000.0,Office Supplies,Expense,Administrative,Finance,Support,10833.369999999999,0.3869,Favourable
+2024-09-01,6900,D60,62282.26,60900.0,Insurance,Expense,Administrative,Finance,Support,-1382.260000000002,-0.0227,Unfavourable
+2024-09-01,7000,D60,120963.36,120900.0,Depreciation,Expense,Administrative,Finance,Support,-63.36000000000058,-0.0005,Unfavourable
+2024-10-01,4000,D10,3886990.8499999996,4751400.0,Product Sales,Revenue,Revenue,Sales,Commercial,-864409.1500000004,-0.1819,Unfavourable
+2024-10-01,4100,D30,1577372.01,1466000.0,Service Revenue,Revenue,Revenue,Operations,Operations,111372.01000000001,0.076,Favourable
+2024-10-01,4200,D10,831213.95,841300.0,Subscription Revenue,Revenue,Revenue,Sales,Commercial,-10086.050000000047,-0.012,Unfavourable
+2024-10-01,5000,D30,1796420.65,1945000.0,Materials,COGS,Cost of Goods Sold,Operations,Operations,148579.3500000001,0.0764,Favourable
+2024-10-01,5100,D30,747540.8200000001,724300.0,Direct Labor,COGS,Cost of Goods Sold,Operations,Operations,-23240.820000000065,-0.0321,Unfavourable
+2024-10-01,5200,D30,286344.02,281800.0,Freight & Logistics,COGS,Cost of Goods Sold,Operations,Operations,-4544.020000000019,-0.0161,Unfavourable
+2024-10-01,6000,D10,426633.95,423500.0,Salaries & Wages,Expense,Personnel,Sales,Commercial,-3133.9500000000116,-0.0074,Unfavourable
+2024-10-01,6000,D20,232963.91,227200.0,Salaries & Wages,Expense,Personnel,Marketing,Commercial,-5763.9100000000035,-0.0254,Unfavourable
+2024-10-01,6000,D30,395050.64,392500.0,Salaries & Wages,Expense,Personnel,Operations,Operations,-2550.640000000014,-0.0065,Unfavourable
+2024-10-01,6000,D40,264694.84,272900.0,Salaries & Wages,Expense,Personnel,IT,Support,8205.159999999974,0.0301,Favourable
+2024-10-01,6000,D50,136881.47,143400.0,Salaries & Wages,Expense,Personnel,HR,Support,6518.529999999999,0.0455,Favourable
+2024-10-01,6000,D60,199757.69,194700.0,Salaries & Wages,Expense,Personnel,Finance,Support,-5057.690000000002,-0.026,Unfavourable
+2024-10-01,6100,D50,305020.6,289200.0,Employee Benefits,Expense,Personnel,HR,Support,-15820.599999999977,-0.0547,Unfavourable
+2024-10-01,6200,D50,33000.0,55000.0,Training & Development,Expense,Personnel,HR,Support,22000.0,0.4,Favourable
+2024-10-01,6300,D30,294791.05,315100.0,Rent & Utilities,Expense,Facilities,Operations,Operations,20308.95000000001,0.0645,Favourable
+2024-10-01,6400,D20,379233.37,357700.0,Marketing & Advertising,Expense,Sales & Marketing,Marketing,Commercial,-21533.369999999995,-0.0602,Unfavourable
+2024-10-01,6500,D10,93414.89,99700.0,Travel & Entertainment,Expense,Sales & Marketing,Sales,Commercial,6285.110000000001,0.063,Favourable
+2024-10-01,6500,D20,45997.57,41300.0,Travel & Entertainment,Expense,Sales & Marketing,Marketing,Commercial,-4697.57,-0.1137,Unfavourable
+2024-10-01,6600,D40,223763.13,208800.0,Software & IT Services,Expense,Technology,IT,Support,-14963.130000000005,-0.0717,Unfavourable
+2024-10-01,6700,D60,278784.17,85000.0,Professional Fees,Expense,Administrative,Finance,Support,-193784.16999999998,-2.2798,Unfavourable
+2024-10-01,6800,D60,25021.48,28000.0,Office Supplies,Expense,Administrative,Finance,Support,2978.5200000000004,0.1064,Favourable
+2024-10-01,6900,D60,59710.58,61000.0,Insurance,Expense,Administrative,Finance,Support,1289.4199999999983,0.0211,Favourable
+2024-10-01,7000,D60,121084.33,121000.0,Depreciation,Expense,Administrative,Finance,Support,-84.33000000000175,-0.0007,Unfavourable
+2024-11-01,4000,D10,5259483.01,5539500.0,Product Sales,Revenue,Revenue,Sales,Commercial,-280016.9900000002,-0.0505,Unfavourable
+2024-11-01,4100,D30,1393791.61,1479500.0,Service Revenue,Revenue,Revenue,Operations,Operations,-85708.3899999999,-0.0579,Unfavourable
+2024-11-01,4200,D10,809662.86,870400.0,Subscription Revenue,Revenue,Revenue,Sales,Commercial,-60737.140000000014,-0.0698,Unfavourable
+2024-11-01,5000,D30,1936377.46,1964300.0,Materials,COGS,Cost of Goods Sold,Operations,Operations,27922.540000000037,0.0142,Favourable
+2024-11-01,5100,D30,757726.36,728200.0,Direct Labor,COGS,Cost of Goods Sold,Operations,Operations,-29526.359999999986,-0.0405,Unfavourable
+2024-11-01,5200,D30,330950.42,284400.0,Freight & Logistics,COGS,Cost of Goods Sold,Operations,Operations,-46550.419999999984,-0.1637,Unfavourable
+2024-11-01,6000,D10,429035.33,425000.0,Salaries & Wages,Expense,Personnel,Sales,Commercial,-4035.3300000000163,-0.0095,Unfavourable
+2024-11-01,6000,D20,228282.05000000002,228000.0,Salaries & Wages,Expense,Personnel,Marketing,Commercial,-282.05000000001746,-0.0012,Unfavourable
+2024-11-01,6000,D30,398976.15,393900.0,Salaries & Wages,Expense,Personnel,Operations,Operations,-5076.150000000023,-0.0129,Unfavourable
+2024-11-01,6000,D40,278661.51,274400.0,Salaries & Wages,Expense,Personnel,IT,Support,-4261.510000000009,-0.0155,Unfavourable
+2024-11-01,6000,D50,147029.02,143800.0,Salaries & Wages,Expense,Personnel,HR,Support,-3229.0199999999895,-0.0225,Unfavourable
+2024-11-01,6000,D60,199429.36,195200.0,Salaries & Wages,Expense,Personnel,Finance,Support,-4229.359999999986,-0.0217,Unfavourable
+2024-11-01,6100,D50,298916.84,290200.0,Employee Benefits,Expense,Personnel,HR,Support,-8716.840000000026,-0.03,Unfavourable
+2024-11-01,6200,D50,71565.2,55000.0,Training & Development,Expense,Personnel,HR,Support,-16565.199999999997,-0.3012,Unfavourable
+2024-11-01,6300,D30,311959.04000000004,315600.0,Rent & Utilities,Expense,Facilities,Operations,Operations,3640.9599999999627,0.0115,Favourable
+2024-11-01,6400,D20,370296.95,360900.0,Marketing & Advertising,Expense,Sales & Marketing,Marketing,Commercial,-9396.950000000012,-0.026,Unfavourable
+2024-11-01,6500,D10,83085.87,100300.0,Travel & Entertainment,Expense,Sales & Marketing,Sales,Commercial,17214.130000000005,0.1716,Favourable
+2024-11-01,6500,D20,42037.43,41500.0,Travel & Entertainment,Expense,Sales & Marketing,Marketing,Commercial,-537.4300000000003,-0.013,Unfavourable
+2024-11-01,6600,D40,229054.25,212900.0,Software & IT Services,Expense,Technology,IT,Support,-16154.25,-0.0759,Unfavourable
+2024-11-01,6700,D60,99282.43,85000.0,Professional Fees,Expense,Administrative,Finance,Support,-14282.429999999993,-0.168,Unfavourable
+2024-11-01,6800,D60,27055.55,28000.0,Office Supplies,Expense,Administrative,Finance,Support,944.4500000000007,0.0337,Favourable
+2024-11-01,6900,D60,62013.479999999996,61100.0,Insurance,Expense,Administrative,Finance,Support,-913.4799999999959,-0.015,Unfavourable
+2024-11-01,7000,D60,121205.41,121100.0,Depreciation,Expense,Administrative,Finance,Support,-105.41000000000349,-0.0009,Unfavourable
+2024-12-01,4000,D10,6143611.66,5615900.0,Product Sales,Revenue,Revenue,Sales,Commercial,527711.6600000001,0.094,Favourable
+2024-12-01,4100,D30,1283434.6,1493100.0,Service Revenue,Revenue,Revenue,Operations,Operations,-209665.3999999999,-0.1404,Unfavourable
+2024-12-01,4200,D10,733046.02,900400.0,Subscription Revenue,Revenue,Revenue,Sales,Commercial,-167353.97999999998,-0.1859,Unfavourable
+2024-12-01,5000,D30,1731510.99,1983700.0,Materials,COGS,Cost of Goods Sold,Operations,Operations,252189.01,0.1271,Favourable
+2024-12-01,5100,D30,709216.55,732100.0,Direct Labor,COGS,Cost of Goods Sold,Operations,Operations,22883.449999999953,0.0313,Favourable
+2024-12-01,5200,D30,377137.81,286900.0,Freight & Logistics,COGS,Cost of Goods Sold,Operations,Operations,-90237.81,-0.3145,Unfavourable
+2024-12-01,6000,D10,413184.8,426500.0,Salaries & Wages,Expense,Personnel,Sales,Commercial,13315.200000000012,0.0312,Favourable
+2024-12-01,6000,D20,225165.65,228900.0,Salaries & Wages,Expense,Personnel,Marketing,Commercial,3734.350000000006,0.0163,Favourable
+2024-12-01,6000,D30,394784.36,395300.0,Salaries & Wages,Expense,Personnel,Operations,Operations,515.640000000014,0.0013,Favourable
+2024-12-01,6000,D40,274127.1,275900.0,Salaries & Wages,Expense,Personnel,IT,Support,1772.9000000000233,0.0064,Favourable
+2024-12-01,6000,D50,142564.76,144200.0,Salaries & Wages,Expense,Personnel,HR,Support,1635.2399999999907,0.0113,Favourable
+2024-12-01,6000,D60,196016.89,195700.0,Salaries & Wages,Expense,Personnel,Finance,Support,-316.89000000001397,-0.0016,Unfavourable
+2024-12-01,6100,D50,289809.47,291300.0,Employee Benefits,Expense,Personnel,HR,Support,1490.530000000028,0.0051,Favourable
+2024-12-01,6200,D50,87659.29,55000.0,Training & Development,Expense,Personnel,HR,Support,-32659.289999999994,-0.5938,Unfavourable
+2024-12-01,6300,D30,321019.69,316200.0,Rent & Utilities,Expense,Facilities,Operations,Operations,-4819.690000000002,-0.0152,Unfavourable
+2024-12-01,6400,D20,379478.0,364200.0,Marketing & Advertising,Expense,Sales & Marketing,Marketing,Commercial,-15278.0,-0.0419,Unfavourable
+2024-12-01,6500,D10,76919.56,100800.0,Travel & Entertainment,Expense,Sales & Marketing,Sales,Commercial,23880.440000000002,0.2369,Favourable
+2024-12-01,6500,D20,53897.6,41600.0,Travel & Entertainment,Expense,Sales & Marketing,Marketing,Commercial,-12297.599999999999,-0.2956,Unfavourable
+2024-12-01,6600,D40,220701.74,217100.0,Software & IT Services,Expense,Technology,IT,Support,-3601.7399999999907,-0.0166,Unfavourable
+2024-12-01,6700,D60,108856.91,85000.0,Professional Fees,Expense,Administrative,Finance,Support,-23856.910000000003,-0.2807,Unfavourable
+2024-12-01,6800,D60,31503.78,28000.0,Office Supplies,Expense,Administrative,Finance,Support,-3503.779999999999,-0.1251,Unfavourable
+2024-12-01,6900,D60,61528.69,61200.0,Insurance,Expense,Administrative,Finance,Support,-328.6900000000023,-0.0054,Unfavourable
+2024-12-01,7000,D60,121326.62,121200.0,Depreciation,Expense,Administrative,Finance,Support,-126.61999999999534,-0.001,Unfavourable
+2025-01-01,4000,D10,5120250.95,4950800.0,Product Sales,Revenue,Revenue,Sales,Commercial,169450.9500000002,0.0342,Favourable
+2025-01-01,4100,D30,1495044.74,1506800.0,Service Revenue,Revenue,Revenue,Operations,Operations,-11755.26000000001,-0.0078,Unfavourable
+2025-01-01,4200,D10,875308.64,931400.0,Subscription Revenue,Revenue,Revenue,Sales,Commercial,-56091.359999999986,-0.0602,Unfavourable
+2025-01-01,5000,D30,2155888.01,2003400.0,Materials,COGS,Cost of Goods Sold,Operations,Operations,-152488.00999999978,-0.0761,Unfavourable
+2025-01-01,5100,D30,677800.73,736100.0,Direct Labor,COGS,Cost of Goods Sold,Operations,Operations,58299.27000000002,0.0792,Favourable
+2025-01-01,5200,D30,246950.24,289500.0,Freight & Logistics,COGS,Cost of Goods Sold,Operations,Operations,42549.76000000001,0.147,Favourable
+2025-01-01,6000,D10,437957.58999999997,428100.0,Salaries & Wages,Expense,Personnel,Sales,Commercial,-9857.589999999967,-0.023,Unfavourable
+2025-01-01,6000,D20,231291.81,229700.0,Salaries & Wages,Expense,Personnel,Marketing,Commercial,-1591.8099999999977,-0.0069,Unfavourable
+2025-01-01,6000,D30,399186.22000000003,396700.0,Salaries & Wages,Expense,Personnel,Operations,Operations,-2486.2200000000303,-0.0063,Unfavourable
+2025-01-01,6000,D40,276423.95999999996,277400.0,Salaries & Wages,Expense,Personnel,IT,Support,976.0400000000373,0.0035,Favourable
+2025-01-01,6000,D50,144026.75,144600.0,Salaries & Wages,Expense,Personnel,HR,Support,573.25,0.004,Favourable
+2025-01-01,6000,D60,201913.74,196200.0,Salaries & Wages,Expense,Personnel,Finance,Support,-5713.739999999991,-0.0291,Unfavourable
+2025-01-01,6100,D50,285582.35,292300.0,Employee Benefits,Expense,Personnel,HR,Support,6717.650000000023,0.023,Favourable
+2025-01-01,6200,D50,69081.23,55000.0,Training & Development,Expense,Personnel,HR,Support,-14081.229999999996,-0.256,Unfavourable
+2025-01-01,6300,D30,321795.55,316800.0,Rent & Utilities,Expense,Facilities,Operations,Operations,-4995.549999999988,-0.0158,Unfavourable
+2025-01-01,6400,D20,417198.63,367500.0,Marketing & Advertising,Expense,Sales & Marketing,Marketing,Commercial,-49698.630000000005,-0.1352,Unfavourable
+2025-01-01,6500,D10,119804.87,101300.0,Travel & Entertainment,Expense,Sales & Marketing,Sales,Commercial,-18504.869999999995,-0.1827,Unfavourable
+2025-01-01,6500,D20,57663.759999999995,41800.0,Travel & Entertainment,Expense,Sales & Marketing,Marketing,Commercial,-15863.759999999995,-0.3795,Unfavourable
+2025-01-01,6600,D40,221774.17,221400.0,Software & IT Services,Expense,Technology,IT,Support,-374.1700000000128,-0.0017,Unfavourable
+2025-01-01,6700,D60,95221.86,85000.0,Professional Fees,Expense,Administrative,Finance,Support,-10221.86,-0.1203,Unfavourable
+2025-01-01,6800,D60,25908.91,28000.0,Office Supplies,Expense,Administrative,Finance,Support,2091.09,0.0747,Favourable
+2025-01-01,6900,D60,90335.86,92000.0,Insurance,Expense,Administrative,Finance,Support,1664.1399999999994,0.0181,Favourable
+2025-01-01,7000,D60,121447.95,121300.0,Depreciation,Expense,Administrative,Finance,Support,-147.9499999999971,-0.0012,Unfavourable
+2025-02-01,4000,D10,4414481.73,5019100.0,Product Sales,Revenue,Revenue,Sales,Commercial,-604618.2699999996,-0.1205,Unfavourable
+2025-02-01,4100,D30,1512792.29,1520700.0,Service Revenue,Revenue,Revenue,Operations,Operations,-7907.709999999963,-0.0052,Unfavourable
+2025-02-01,4200,D10,855367.48,963600.0,Subscription Revenue,Revenue,Revenue,Sales,Commercial,-108232.52000000002,-0.1123,Unfavourable
+2025-02-01,5000,D30,1661120.49,2023200.0,Materials,COGS,Cost of Goods Sold,Operations,Operations,362079.51,0.179,Favourable
+2025-02-01,5100,D30,728815.88,740000.0,Direct Labor,COGS,Cost of Goods Sold,Operations,Operations,11184.119999999995,0.0151,Favourable
+2025-02-01,5200,D30,177542.55,292100.0,Freight & Logistics,COGS,Cost of Goods Sold,Operations,Operations,114557.45000000001,0.3922,Favourable
+2025-02-01,6000,D10,414702.64,429600.0,Salaries & Wages,Expense,Personnel,Sales,Commercial,14897.359999999986,0.0347,Favourable
+2025-02-01,6000,D20,233002.15,230500.0,Salaries & Wages,Expense,Personnel,Marketing,Commercial,-2502.149999999994,-0.0109,Unfavourable
+2025-02-01,6000,D30,387590.93,398200.0,Salaries & Wages,Expense,Personnel,Operations,Operations,10609.070000000007,0.0266,Favourable
+2025-02-01,6000,D40,287786.2,278900.0,Salaries & Wages,Expense,Personnel,IT,Support,-8886.200000000012,-0.0319,Unfavourable
+2025-02-01,6000,D50,144082.23,145000.0,Salaries & Wages,Expense,Personnel,HR,Support,917.7699999999895,0.0063,Favourable
+2025-02-01,6000,D60,194028.47999999998,196800.0,Salaries & Wages,Expense,Personnel,Finance,Support,2771.5200000000186,0.0141,Favourable
+2025-02-01,6100,D50,295072.41000000003,293400.0,Employee Benefits,Expense,Personnel,HR,Support,-1672.4100000000326,-0.0057,Unfavourable
+2025-02-01,6200,D50,56076.83,55000.0,Training & Development,Expense,Personnel,HR,Support,-1076.8300000000017,-0.0196,Unfavourable
+2025-02-01,6300,D30,325888.32,317300.0,Rent & Utilities,Expense,Facilities,Operations,Operations,-8588.320000000007,-0.0271,Unfavourable
+2025-02-01,6400,D20,403927.75,370800.0,Marketing & Advertising,Expense,Sales & Marketing,Marketing,Commercial,-33127.75,-0.0893,Unfavourable
+2025-02-01,6500,D10,61609.63,101900.0,Travel & Entertainment,Expense,Sales & Marketing,Sales,Commercial,40290.37,0.3954,Favourable
+2025-02-01,6500,D20,54765.74,41900.0,Travel & Entertainment,Expense,Sales & Marketing,Marketing,Commercial,-12865.739999999998,-0.3071,Unfavourable
+2025-02-01,6600,D40,247723.53,225800.0,Software & IT Services,Expense,Technology,IT,Support,-21923.53,-0.0971,Unfavourable
+2025-02-01,6700,D60,102249.38,85000.0,Professional Fees,Expense,Administrative,Finance,Support,-17249.380000000005,-0.2029,Unfavourable
+2025-02-01,6800,D60,36411.36,28000.0,Office Supplies,Expense,Administrative,Finance,Support,-8411.36,-0.3004,Unfavourable
+2025-02-01,6900,D60,62344.41,61400.0,Insurance,Expense,Administrative,Finance,Support,-944.4100000000035,-0.0154,Unfavourable
+2025-02-01,7000,D60,121569.39,121400.0,Depreciation,Expense,Administrative,Finance,Support,-169.38999999999942,-0.0014,Unfavourable
+2025-03-01,4000,D10,4577975.319999999,5088400.0,Product Sales,Revenue,Revenue,Sales,Commercial,-510424.68000000063,-0.1003,Unfavourable
+2025-03-01,4100,D30,1637183.7,1534700.0,Service Revenue,Revenue,Revenue,Operations,Operations,102483.69999999995,0.0668,Favourable
+2025-03-01,4200,D10,964813.73,996800.0,Subscription Revenue,Revenue,Revenue,Sales,Commercial,-31986.27000000002,-0.0321,Unfavourable
+2025-03-01,5000,D30,1765708.75,2043200.0,Materials,COGS,Cost of Goods Sold,Operations,Operations,277491.25,0.1358,Favourable
+2025-03-01,5100,D30,713395.73,744000.0,Direct Labor,COGS,Cost of Goods Sold,Operations,Operations,30604.27000000002,0.0411,Favourable
+2025-03-01,5200,D30,331897.95999999996,294700.0,Freight & Logistics,COGS,Cost of Goods Sold,Operations,Operations,-37197.95999999996,-0.1262,Unfavourable
+2025-03-01,6000,D10,429594.43000000005,431200.0,Salaries & Wages,Expense,Personnel,Sales,Commercial,1605.5699999999488,0.0037,Favourable
+2025-03-01,6000,D20,228794.83,231400.0,Salaries & Wages,Expense,Personnel,Marketing,Commercial,2605.170000000013,0.0113,Favourable
+2025-03-01,6000,D30,409846.44,399600.0,Salaries & Wages,Expense,Personnel,Operations,Operations,-10246.440000000002,-0.0256,Unfavourable
+2025-03-01,6000,D40,281838.34,280400.0,Salaries & Wages,Expense,Personnel,IT,Support,-1438.3400000000256,-0.0051,Unfavourable
+2025-03-01,6000,D50,143735.78,145400.0,Salaries & Wages,Expense,Personnel,HR,Support,1664.2200000000012,0.0114,Favourable
+2025-03-01,6000,D60,196310.56,197300.0,Salaries & Wages,Expense,Personnel,Finance,Support,989.4400000000023,0.005,Favourable
+2025-03-01,6100,D50,296526.35,294400.0,Employee Benefits,Expense,Personnel,HR,Support,-2126.3499999999767,-0.0072,Unfavourable
+2025-03-01,6200,D50,89968.14,55000.0,Training & Development,Expense,Personnel,HR,Support,-34968.14,-0.6358,Unfavourable
+2025-03-01,6300,D30,318108.51,317900.0,Rent & Utilities,Expense,Facilities,Operations,Operations,-208.5100000000093,-0.0007,Unfavourable
+2025-03-01,6400,D20,437224.06,374100.0,Marketing & Advertising,Expense,Sales & Marketing,Marketing,Commercial,-63124.06,-0.1687,Unfavourable
+2025-03-01,6500,D10,128565.17,102400.0,Travel & Entertainment,Expense,Sales & Marketing,Sales,Commercial,-26165.17,-0.2555,Unfavourable
+2025-03-01,6500,D20,40749.97,42100.0,Travel & Entertainment,Expense,Sales & Marketing,Marketing,Commercial,1350.0299999999988,0.0321,Favourable
+2025-03-01,6600,D40,242054.83,230300.0,Software & IT Services,Expense,Technology,IT,Support,-11754.829999999987,-0.051,Unfavourable
+2025-03-01,6700,D60,104537.75,85000.0,Professional Fees,Expense,Administrative,Finance,Support,-19537.75,-0.2299,Unfavourable
+2025-03-01,6800,D60,24631.82,28000.0,Office Supplies,Expense,Administrative,Finance,Support,3368.1800000000003,0.1203,Favourable
+2025-03-01,6900,D60,59589.99,61500.0,Insurance,Expense,Administrative,Finance,Support,1910.010000000002,0.0311,Favourable
+2025-03-01,7000,D60,121690.96,121500.0,Depreciation,Expense,Administrative,Finance,Support,-190.9600000000064,-0.0016,Unfavourable
+2025-04-01,4000,D10,5365689.16,5158600.0,Product Sales,Revenue,Revenue,Sales,Commercial,207089.16000000015,0.0401,Favourable
+2025-04-01,4100,D30,1592419.71,1548800.0,Service Revenue,Revenue,Revenue,Operations,Operations,43619.70999999996,0.0282,Favourable
+2025-04-01,4200,D10,987167.1,1031200.0,Subscription Revenue,Revenue,Revenue,Sales,Commercial,-44032.90000000002,-0.0427,Unfavourable
+2025-04-01,5000,D30,2264275.7199999997,2063500.0,Materials,COGS,Cost of Goods Sold,Operations,Operations,-200775.71999999974,-0.0973,Unfavourable
+2025-04-01,5100,D30,808038.74,748100.0,Direct Labor,COGS,Cost of Goods Sold,Operations,Operations,-59938.73999999999,-0.0801,Unfavourable
+2025-04-01,5200,D30,380841.39,297400.0,Freight & Logistics,COGS,Cost of Goods Sold,Operations,Operations,-83441.39000000001,-0.2806,Unfavourable
+2025-04-01,6000,D10,431886.16,432700.0,Salaries & Wages,Expense,Personnel,Sales,Commercial,813.8400000000256,0.0019,Favourable
+2025-04-01,6000,D20,237922.36,232200.0,Salaries & Wages,Expense,Personnel,Marketing,Commercial,-5722.359999999986,-0.0246,Unfavourable
+2025-04-01,6000,D30,405155.87,401000.0,Salaries & Wages,Expense,Personnel,Operations,Operations,-4155.869999999995,-0.0104,Unfavourable
+2025-04-01,6000,D40,292105.34,281900.0,Salaries & Wages,Expense,Personnel,IT,Support,-10205.340000000026,-0.0362,Unfavourable
+2025-04-01,6000,D50,143545.66,145800.0,Salaries & Wages,Expense,Personnel,HR,Support,2254.3399999999965,0.0155,Favourable
+2025-04-01,6000,D60,203530.99,197800.0,Salaries & Wages,Expense,Personnel,Finance,Support,-5730.989999999991,-0.029,Unfavourable
+2025-04-01,6100,D50,304278.25,295500.0,Employee Benefits,Expense,Personnel,HR,Support,-8778.25,-0.0297,Unfavourable
+2025-04-01,6200,D50,86576.81999999999,55000.0,Training & Development,Expense,Personnel,HR,Support,-31576.819999999992,-0.5741,Unfavourable
+2025-04-01,6300,D30,344089.96,318500.0,Rent & Utilities,Expense,Facilities,Operations,Operations,-25589.96000000002,-0.0803,Unfavourable
+2025-04-01,6400,D20,552487.44,377500.0,Marketing & Advertising,Expense,Sales & Marketing,Marketing,Commercial,-174987.43999999994,-0.4635,Unfavourable
+2025-04-01,6500,D10,91462.44,103000.0,Travel & Entertainment,Expense,Sales & Marketing,Sales,Commercial,11537.559999999998,0.112,Favourable
+2025-04-01,6500,D20,36551.93,42200.0,Travel & Entertainment,Expense,Sales & Marketing,Marketing,Commercial,5648.07,0.1338,Favourable
+2025-04-01,6600,D40,252420.15000000002,234800.0,Software & IT Services,Expense,Technology,IT,Support,-17620.150000000023,-0.075,Unfavourable
+2025-04-01,6700,D60,87999.84,85000.0,Professional Fees,Expense,Administrative,Finance,Support,-2999.8399999999965,-0.0353,Unfavourable
+2025-04-01,6800,D60,35206.32,28000.0,Office Supplies,Expense,Administrative,Finance,Support,-7206.32,-0.2574,Unfavourable
+2025-04-01,6900,D60,61747.12,61600.0,Insurance,Expense,Administrative,Finance,Support,-147.12000000000262,-0.0024,Unfavourable
+2025-04-01,7000,D60,121812.66,121600.0,Depreciation,Expense,Administrative,Finance,Support,-212.6600000000035,-0.0017,Unfavourable
+2025-05-01,4000,D10,5518940.890000001,5229800.0,Product Sales,Revenue,Revenue,Sales,Commercial,289140.8900000006,0.0553,Favourable
+2025-05-01,4100,D30,1293973.12,1563000.0,Service Revenue,Revenue,Revenue,Operations,Operations,-269026.8799999999,-0.1721,Unfavourable
+2025-05-01,4200,D10,971544.12,1066800.0,Subscription Revenue,Revenue,Revenue,Sales,Commercial,-95255.88,-0.0893,Unfavourable
+2025-05-01,5000,D30,2002763.48,2083900.0,Materials,COGS,Cost of Goods Sold,Operations,Operations,81136.52000000002,0.0389,Favourable
+2025-05-01,5100,D30,734208.23,752100.0,Direct Labor,COGS,Cost of Goods Sold,Operations,Operations,17891.77000000002,0.0238,Favourable
+2025-05-01,5200,D30,419205.97,300100.0,Freight & Logistics,COGS,Cost of Goods Sold,Operations,Operations,-119105.96999999997,-0.3969,Unfavourable
+2025-05-01,6000,D10,436548.74,434300.0,Salaries & Wages,Expense,Personnel,Sales,Commercial,-2248.7399999999907,-0.0052,Unfavourable
+2025-05-01,6000,D20,241449.97999999998,233000.0,Salaries & Wages,Expense,Personnel,Marketing,Commercial,-8449.979999999981,-0.0363,Unfavourable
+2025-05-01,6000,D30,410536.67000000004,402500.0,Salaries & Wages,Expense,Personnel,Operations,Operations,-8036.670000000042,-0.02,Unfavourable
+2025-05-01,6000,D40,282432.62,283400.0,Salaries & Wages,Expense,Personnel,IT,Support,967.3800000000047,0.0034,Favourable
+2025-05-01,6000,D50,144360.26,146200.0,Salaries & Wages,Expense,Personnel,HR,Support,1839.7399999999907,0.0126,Favourable
+2025-05-01,6000,D60,200437.69,198400.0,Salaries & Wages,Expense,Personnel,Finance,Support,-2037.6900000000023,-0.0103,Unfavourable
+2025-05-01,6100,D50,293447.44,296600.0,Employee Benefits,Expense,Personnel,HR,Support,3152.5599999999977,0.0106,Favourable
+2025-05-01,6200,D50,44696.33,55000.0,Training & Development,Expense,Personnel,HR,Support,10303.669999999998,0.1873,Favourable
+2025-05-01,6300,D30,334528.51999999996,319000.0,Rent & Utilities,Expense,Facilities,Operations,Operations,-15528.51999999996,-0.0487,Unfavourable
+2025-05-01,6400,D20,639523.3,380900.0,Marketing & Advertising,Expense,Sales & Marketing,Marketing,Commercial,-258623.30000000005,-0.679,Unfavourable
+2025-05-01,6500,D10,164899.38999999998,103500.0,Travel & Entertainment,Expense,Sales & Marketing,Sales,Commercial,-61399.389999999985,-0.5932,Unfavourable
+2025-05-01,6500,D20,29901.91,42400.0,Travel & Entertainment,Expense,Sales & Marketing,Marketing,Commercial,12498.09,0.2948,Favourable
+2025-05-01,6600,D40,258879.08,239500.0,Software & IT Services,Expense,Technology,IT,Support,-19379.079999999987,-0.0809,Unfavourable
+2025-05-01,6700,D60,97333.41,85000.0,Professional Fees,Expense,Administrative,Finance,Support,-12333.410000000003,-0.1451,Unfavourable
+2025-05-01,6800,D60,33465.51,28000.0,Office Supplies,Expense,Administrative,Finance,Support,-5465.510000000002,-0.1952,Unfavourable
+2025-05-01,6900,D60,62250.64,61800.0,Insurance,Expense,Administrative,Finance,Support,-450.6399999999994,-0.0073,Unfavourable
+2025-05-01,7000,D60,121934.47,121700.0,Depreciation,Expense,Administrative,Finance,Support,-234.47000000000116,-0.0019,Unfavourable
+2025-06-01,4000,D10,5406627.53,5302000.0,Product Sales,Revenue,Revenue,Sales,Commercial,104627.53000000026,0.0197,Favourable
+2025-06-01,4100,D30,1422815.08,1577400.0,Service Revenue,Revenue,Revenue,Operations,Operations,-154584.91999999993,-0.098,Unfavourable
+2025-06-01,4200,D10,1025792.21,1103600.0,Subscription Revenue,Revenue,Revenue,Sales,Commercial,-77807.79000000004,-0.0705,Unfavourable
+2025-06-01,5000,D30,2027846.12,2104500.0,Materials,COGS,Cost of Goods Sold,Operations,Operations,76653.87999999989,0.0364,Favourable
+2025-06-01,5100,D30,826600.02,756200.0,Direct Labor,COGS,Cost of Goods Sold,Operations,Operations,-70400.02000000002,-0.0931,Unfavourable
+2025-06-01,5200,D30,392362.98,302800.0,Freight & Logistics,COGS,Cost of Goods Sold,Operations,Operations,-89562.97999999998,-0.2958,Unfavourable
+2025-06-01,6000,D10,428525.41,435800.0,Salaries & Wages,Expense,Personnel,Sales,Commercial,7274.590000000026,0.0167,Favourable
+2025-06-01,6000,D20,230654.15,233900.0,Salaries & Wages,Expense,Personnel,Marketing,Commercial,3245.850000000006,0.0139,Favourable
+2025-06-01,6000,D30,422551.99,403900.0,Salaries & Wages,Expense,Personnel,Operations,Operations,-18651.98999999999,-0.0462,Unfavourable
+2025-06-01,6000,D40,289584.49,284900.0,Salaries & Wages,Expense,Personnel,IT,Support,-4684.489999999991,-0.0164,Unfavourable
+2025-06-01,6000,D50,145305.73,146600.0,Salaries & Wages,Expense,Personnel,HR,Support,1294.2699999999895,0.0088,Favourable
+2025-06-01,6000,D60,197590.83,198900.0,Salaries & Wages,Expense,Personnel,Finance,Support,1309.1700000000128,0.0066,Favourable
+2025-06-01,6100,D50,283545.01,297600.0,Employee Benefits,Expense,Personnel,HR,Support,14054.98999999999,0.0472,Favourable
+2025-06-01,6200,D50,43255.6,55000.0,Training & Development,Expense,Personnel,HR,Support,11744.400000000001,0.2135,Favourable
+2025-06-01,6300,D30,348078.94999999995,319600.0,Rent & Utilities,Expense,Facilities,Operations,Operations,-28478.949999999953,-0.0891,Unfavourable
+2025-06-01,6400,D20,719225.55,384300.0,Marketing & Advertising,Expense,Sales & Marketing,Marketing,Commercial,-334925.55000000005,-0.8715,Unfavourable
+2025-06-01,6500,D10,27481.24,104100.0,Travel & Entertainment,Expense,Sales & Marketing,Sales,Commercial,76618.76,0.736,Favourable
+2025-06-01,6500,D20,38517.81,42500.0,Travel & Entertainment,Expense,Sales & Marketing,Marketing,Commercial,3982.1900000000023,0.0937,Favourable
+2025-06-01,6500,D99,62373.49,0.0,Travel & Entertainment,Expense,Sales & Marketing,Unassigned,Unassigned,-62373.49,,Unfavourable
+2025-06-01,6600,D40,243965.71000000002,244200.0,Software & IT Services,Expense,Technology,IT,Support,234.28999999997905,0.001,Favourable
+2025-06-01,6700,D60,76050.48999999999,85000.0,Professional Fees,Expense,Administrative,Finance,Support,8949.51000000001,0.1053,Favourable
+2025-06-01,6800,D60,25024.46,28000.0,Office Supplies,Expense,Administrative,Finance,Support,2975.540000000001,0.1063,Favourable
+2025-06-01,6900,D60,62089.4,61900.0,Insurance,Expense,Administrative,Finance,Support,-189.40000000000146,-0.0031,Unfavourable
+2025-06-01,7000,D60,122056.4,121800.0,Depreciation,Expense,Administrative,Finance,Support,-256.3999999999942,-0.0021,Unfavourable
+2025-07-01,4000,D10,4433816.45,5375100.0,Product Sales,Revenue,Revenue,Sales,Commercial,-941283.5499999998,-0.1751,Unfavourable
+2025-07-01,4100,D30,1309537.58,1591900.0,Service Revenue,Revenue,Revenue,Operations,Operations,-282362.4199999999,-0.1774,Unfavourable
+2025-07-01,4200,D10,1030893.15,1141700.0,Subscription Revenue,Revenue,Revenue,Sales,Commercial,-110806.84999999998,-0.0971,Unfavourable
+2025-07-01,5000,D30,2053578.77,2125400.0,Materials,COGS,Cost of Goods Sold,Operations,Operations,71821.22999999998,0.0338,Favourable
+2025-07-01,5100,D30,798396.2,760200.0,Direct Labor,COGS,Cost of Goods Sold,Operations,Operations,-38196.19999999995,-0.0502,Unfavourable
+2025-07-01,5200,D30,328568.26,305500.0,Freight & Logistics,COGS,Cost of Goods Sold,Operations,Operations,-23068.26000000001,-0.0755,Unfavourable
+2025-07-01,6000,D10,442683.33,437400.0,Salaries & Wages,Expense,Personnel,Sales,Commercial,-5283.330000000016,-0.0121,Unfavourable
+2025-07-01,6000,D20,238138.12,234700.0,Salaries & Wages,Expense,Personnel,Marketing,Commercial,-3438.1199999999953,-0.0146,Unfavourable
+2025-07-01,6000,D30,399123.98,405400.0,Salaries & Wages,Expense,Personnel,Operations,Operations,6276.020000000019,0.0155,Favourable
+2025-07-01,6000,D40,292671.32999999996,286500.0,Salaries & Wages,Expense,Personnel,IT,Support,-6171.329999999958,-0.0215,Unfavourable
+2025-07-01,6000,D50,148510.03,147000.0,Salaries & Wages,Expense,Personnel,HR,Support,-1510.0299999999988,-0.0103,Unfavourable
+2025-07-01,6000,D60,203877.11,199400.0,Salaries & Wages,Expense,Personnel,Finance,Support,-4477.109999999986,-0.0225,Unfavourable
+2025-07-01,6100,D50,303738.31,298700.0,Employee Benefits,Expense,Personnel,HR,Support,-5038.309999999998,-0.0169,Unfavourable
+2025-07-01,6200,D50,49928.06,55000.0,Training & Development,Expense,Personnel,HR,Support,5071.940000000002,0.0922,Favourable
+2025-07-01,6300,D30,320357.48,320200.0,Rent & Utilities,Expense,Facilities,Operations,Operations,-157.47999999998137,-0.0005,Unfavourable
+2025-07-01,6400,D20,332483.63,387800.0,Marketing & Advertising,Expense,Sales & Marketing,Marketing,Commercial,55316.369999999995,0.1426,Favourable
+2025-07-01,6500,D10,107048.19,104700.0,Travel & Entertainment,Expense,Sales & Marketing,Sales,Commercial,-2348.1900000000023,-0.0224,Unfavourable
+2025-07-01,6500,D20,45263.83,42700.0,Travel & Entertainment,Expense,Sales & Marketing,Marketing,Commercial,-2563.8300000000017,-0.06,Unfavourable
+2025-07-01,6600,D40,244164.37,249100.0,Software & IT Services,Expense,Technology,IT,Support,4935.630000000005,0.0198,Favourable
+2025-07-01,6700,D60,64151.64,85000.0,Professional Fees,Expense,Administrative,Finance,Support,20848.36,0.2453,Favourable
+2025-07-01,6800,D60,20372.52,28000.0,Office Supplies,Expense,Administrative,Finance,Support,7627.48,0.2724,Favourable
+2025-07-01,6900,D60,60728.530000000006,62000.0,Insurance,Expense,Administrative,Finance,Support,1271.469999999994,0.0205,Favourable
+2025-07-01,7000,D60,122178.46,122000.0,Depreciation,Expense,Administrative,Finance,Support,-178.4600000000064,-0.0015,Unfavourable
+2025-08-01,4000,D10,4914248.66,5449300.0,Product Sales,Revenue,Revenue,Sales,Commercial,-535051.3399999999,-0.0982,Unfavourable
+2025-08-01,4100,D30,1457062.88,1606600.0,Service Revenue,Revenue,Revenue,Operations,Operations,-149537.1200000001,-0.0931,Unfavourable
+2025-08-01,4200,D10,1041305.3600000001,1181100.0,Subscription Revenue,Revenue,Revenue,Sales,Commercial,-139794.6399999999,-0.1184,Unfavourable
+2025-08-01,5000,D30,2105272.14,2146400.0,Materials,COGS,Cost of Goods Sold,Operations,Operations,41127.85999999987,0.0192,Favourable
+2025-08-01,5100,D30,757605.3,764300.0,Direct Labor,COGS,Cost of Goods Sold,Operations,Operations,6694.699999999953,0.0088,Favourable
+2025-08-01,5200,D30,470149.32,308300.0,Freight & Logistics,COGS,Cost of Goods Sold,Operations,Operations,-161849.32,-0.525,Unfavourable
+2025-08-01,6000,D10,447207.95999999996,439000.0,Salaries & Wages,Expense,Personnel,Sales,Commercial,-8207.959999999963,-0.0187,Unfavourable
+2025-08-01,6000,D20,235240.66999999998,235500.0,Salaries & Wages,Expense,Personnel,Marketing,Commercial,259.3300000000163,0.0011,Favourable
+2025-08-01,6000,D30,122280.42,406900.0,Salaries & Wages,Expense,Personnel,Operations,Operations,284619.58,0.6995,Favourable
+2025-08-01,6000,D40,288710.17000000004,288000.0,Salaries & Wages,Expense,Personnel,IT,Support,-710.1700000000419,-0.0025,Unfavourable
+2025-08-01,6000,D50,150757.53,147400.0,Salaries & Wages,Expense,Personnel,HR,Support,-3357.529999999999,-0.0228,Unfavourable
+2025-08-01,6000,D60,199867.76,200000.0,Salaries & Wages,Expense,Personnel,Finance,Support,132.2399999999907,0.0007,Favourable
+2025-08-01,6000,D99,295665.23,0.0,Salaries & Wages,Expense,Personnel,Unassigned,Unassigned,-295665.23,,Unfavourable
+2025-08-01,6100,D50,313060.07,299800.0,Employee Benefits,Expense,Personnel,HR,Support,-13260.070000000007,-0.0442,Unfavourable
+2025-08-01,6200,D50,56234.63,55000.0,Training & Development,Expense,Personnel,HR,Support,-1234.6299999999974,-0.0224,Unfavourable
+2025-08-01,6300,D30,323080.33999999997,320800.0,Rent & Utilities,Expense,Facilities,Operations,Operations,-2280.3399999999674,-0.0071,Unfavourable
+2025-08-01,6400,D20,373690.70999999996,391200.0,Marketing & Advertising,Expense,Sales & Marketing,Marketing,Commercial,17509.290000000037,0.0448,Favourable
+2025-08-01,6500,D10,99015.57,105200.0,Travel & Entertainment,Expense,Sales & Marketing,Sales,Commercial,6184.429999999993,0.0588,Favourable
+2025-08-01,6500,D20,31280.22,42800.0,Travel & Entertainment,Expense,Sales & Marketing,Marketing,Commercial,11519.779999999999,0.2692,Favourable
+2025-08-01,6600,D40,257302.75,254000.0,Software & IT Services,Expense,Technology,IT,Support,-3302.75,-0.013,Unfavourable
+2025-08-01,6700,D60,51000.0,85000.0,Professional Fees,Expense,Administrative,Finance,Support,34000.0,0.4,Favourable
+2025-08-01,6800,D60,30719.86,28000.0,Office Supplies,Expense,Administrative,Finance,Support,-2719.8600000000006,-0.0971,Unfavourable
+2025-08-01,6900,D60,60480.27,62100.0,Insurance,Expense,Administrative,Finance,Support,1619.7300000000032,0.0261,Favourable
+2025-08-01,7000,D60,122300.64,122100.0,Depreciation,Expense,Administrative,Finance,Support,-200.63999999999942,-0.0016,Unfavourable
+2025-09-01,4000,D10,5319808.63,5524500.0,Product Sales,Revenue,Revenue,Sales,Commercial,-204691.3700000001,-0.0371,Unfavourable
+2025-09-01,4100,D30,1083238.13,1621400.0,Service Revenue,Revenue,Revenue,Operations,Operations,-538161.8700000001,-0.3319,Unfavourable
+2025-09-01,4200,D10,1113331.43,1221800.0,Subscription Revenue,Revenue,Revenue,Sales,Commercial,-108468.57000000007,-0.0888,Unfavourable
+2025-09-01,5000,D30,2556520.67,2167600.0,Materials,COGS,Cost of Goods Sold,Operations,Operations,-388920.6699999999,-0.1794,Unfavourable
+2025-09-01,5100,D30,834535.54,768500.0,Direct Labor,COGS,Cost of Goods Sold,Operations,Operations,-66035.54000000004,-0.0859,Unfavourable
+2025-09-01,5200,D30,418723.23,311000.0,Freight & Logistics,COGS,Cost of Goods Sold,Operations,Operations,-107723.22999999998,-0.3464,Unfavourable
+2025-09-01,6000,D10,456177.55000000005,440600.0,Salaries & Wages,Expense,Personnel,Sales,Commercial,-15577.550000000047,-0.0354,Unfavourable
+2025-09-01,6000,D20,243506.06,236400.0,Salaries & Wages,Expense,Personnel,Marketing,Commercial,-7106.059999999998,-0.0301,Unfavourable
+2025-09-01,6000,D30,393988.21,408300.0,Salaries & Wages,Expense,Personnel,Operations,Operations,14311.789999999979,0.0351,Favourable
+2025-09-01,6000,D40,300722.07999999996,289600.0,Salaries & Wages,Expense,Personnel,IT,Support,-11122.079999999958,-0.0384,Unfavourable
+2025-09-01,6000,D50,147938.41999999998,147800.0,Salaries & Wages,Expense,Personnel,HR,Support,-138.4199999999837,-0.0009,Unfavourable
+2025-09-01,6000,D60,201562.18,200500.0,Salaries & Wages,Expense,Personnel,Finance,Support,-1062.179999999993,-0.0053,Unfavourable
+2025-09-01,6100,D50,319310.64999999997,300900.0,Employee Benefits,Expense,Personnel,HR,Support,-18410.649999999965,-0.0612,Unfavourable
+2025-09-01,6200,D50,86726.16,55000.0,Training & Development,Expense,Personnel,HR,Support,-31726.160000000003,-0.5768,Unfavourable
+2025-09-01,6300,D30,343462.63,321400.0,Rent & Utilities,Expense,Facilities,Operations,Operations,-22062.630000000005,-0.0686,Unfavourable
+2025-09-01,6400,D20,428520.16,394800.0,Marketing & Advertising,Expense,Sales & Marketing,Marketing,Commercial,-33720.159999999974,-0.0854,Unfavourable
+2025-09-01,6500,D10,107477.85,105800.0,Travel & Entertainment,Expense,Sales & Marketing,Sales,Commercial,-1677.8500000000058,-0.0159,Unfavourable
+2025-09-01,6500,D20,43848.84,43000.0,Travel & Entertainment,Expense,Sales & Marketing,Marketing,Commercial,-848.8399999999965,-0.0197,Unfavourable
+2025-09-01,6600,D40,241795.57,259000.0,Software & IT Services,Expense,Technology,IT,Support,17204.429999999993,0.0664,Favourable
+2025-09-01,6700,D60,112773.74,85000.0,Professional Fees,Expense,Administrative,Finance,Support,-27773.740000000005,-0.3267,Unfavourable
+2025-09-01,6800,D60,32833.32,28000.0,Office Supplies,Expense,Administrative,Finance,Support,-4833.32,-0.1726,Unfavourable
+2025-09-01,6900,D60,62885.78,62200.0,Insurance,Expense,Administrative,Finance,Support,-685.7799999999988,-0.011,Unfavourable
+2025-09-01,7000,D60,122422.93,122200.0,Depreciation,Expense,Administrative,Finance,Support,-222.92999999999302,-0.0018,Unfavourable
+2025-10-01,4000,D10,4476139.17,5600800.0,Product Sales,Revenue,Revenue,Sales,Commercial,-1124660.83,-0.2008,Unfavourable
+2025-10-01,4100,D30,1610921.1199999999,1636300.0,Service Revenue,Revenue,Revenue,Operations,Operations,-25378.88000000012,-0.0155,Unfavourable
+2025-10-01,4200,D10,1128725.94,1264000.0,Subscription Revenue,Revenue,Revenue,Sales,Commercial,-135274.06000000006,-0.107,Unfavourable
+2025-10-01,5000,D30,1907755.05,2189100.0,Materials,COGS,Cost of Goods Sold,Operations,Operations,281344.94999999995,0.1285,Favourable
+2025-10-01,5100,D30,807035.73,772600.0,Direct Labor,COGS,Cost of Goods Sold,Operations,Operations,-34435.72999999998,-0.0446,Unfavourable
+2025-10-01,5200,D30,405835.9,313800.0,Freight & Logistics,COGS,Cost of Goods Sold,Operations,Operations,-92035.90000000002,-0.2933,Unfavourable
+2025-10-01,6000,D10,433850.22000000003,442100.0,Salaries & Wages,Expense,Personnel,Sales,Commercial,8249.77999999997,0.0187,Favourable
+2025-10-01,6000,D20,84909.67,237200.0,Salaries & Wages,Expense,Personnel,Marketing,Commercial,152290.33000000002,0.642,Favourable
+2025-10-01,6000,D30,425044.24,409800.0,Salaries & Wages,Expense,Personnel,Operations,Operations,-15244.23999999999,-0.0372,Unfavourable
+2025-10-01,6000,D40,298477.3,291100.0,Salaries & Wages,Expense,Personnel,IT,Support,-7377.299999999988,-0.0253,Unfavourable
+2025-10-01,6000,D50,154801.12,148200.0,Salaries & Wages,Expense,Personnel,HR,Support,-6601.119999999995,-0.0445,Unfavourable
+2025-10-01,6000,D60,203964.58,201100.0,Salaries & Wages,Expense,Personnel,Finance,Support,-2864.579999999987,-0.0142,Unfavourable
+2025-10-01,6000,D99,153017.62,0.0,Salaries & Wages,Expense,Personnel,Unassigned,Unassigned,-153017.62,,Unfavourable
+2025-10-01,6100,D50,304601.41000000003,301900.0,Employee Benefits,Expense,Personnel,HR,Support,-2701.4100000000326,-0.0089,Unfavourable
+2025-10-01,6200,D50,64391.75,55000.0,Training & Development,Expense,Personnel,HR,Support,-9391.75,-0.1708,Unfavourable
+2025-10-01,6300,D30,296884.05,321900.0,Rent & Utilities,Expense,Facilities,Operations,Operations,25015.95000000001,0.0777,Favourable
+2025-10-01,6400,D20,447796.44,398300.0,Marketing & Advertising,Expense,Sales & Marketing,Marketing,Commercial,-49496.44,-0.1243,Unfavourable
+2025-10-01,6500,D10,116369.33,106400.0,Travel & Entertainment,Expense,Sales & Marketing,Sales,Commercial,-9969.330000000002,-0.0937,Unfavourable
+2025-10-01,6500,D20,26098.72,43100.0,Travel & Entertainment,Expense,Sales & Marketing,Marketing,Commercial,17001.28,0.3945,Favourable
+2025-10-01,6600,D40,252897.88,264200.0,Software & IT Services,Expense,Technology,IT,Support,11302.119999999995,0.0428,Favourable
+2025-10-01,6700,D60,68399.69,85000.0,Professional Fees,Expense,Administrative,Finance,Support,16600.309999999998,0.1953,Favourable
+2025-10-01,6800,D60,31741.910000000003,28000.0,Office Supplies,Expense,Administrative,Finance,Support,-3741.9100000000035,-0.1336,Unfavourable
+2025-10-01,6900,D60,63140.81,62300.0,Insurance,Expense,Administrative,Finance,Support,-840.8099999999977,-0.0135,Unfavourable
+2025-10-01,7000,D60,122545.36,122300.0,Depreciation,Expense,Administrative,Finance,Support,-245.36000000000058,-0.002,Unfavourable
+2025-11-01,4000,D10,6624969.54,6529800.0,Product Sales,Revenue,Revenue,Sales,Commercial,95169.54000000004,0.0146,Favourable
+2025-11-01,4100,D30,1570282.08,1651300.0,Service Revenue,Revenue,Revenue,Operations,Operations,-81017.91999999993,-0.0491,Unfavourable
+2025-11-01,4200,D10,1232558.67,1307600.0,Subscription Revenue,Revenue,Revenue,Sales,Commercial,-75041.33000000007,-0.0574,Unfavourable
+2025-11-01,5000,D30,2272080.76,2210800.0,Materials,COGS,Cost of Goods Sold,Operations,Operations,-61280.75999999978,-0.0277,Unfavourable
+2025-11-01,5100,D30,757588.91,776800.0,Direct Labor,COGS,Cost of Goods Sold,Operations,Operations,19211.089999999967,0.0247,Favourable
+2025-11-01,5200,D30,368223.93,316600.0,Freight & Logistics,COGS,Cost of Goods Sold,Operations,Operations,-51623.92999999999,-0.1631,Unfavourable
+2025-11-01,6000,D10,444907.14,443700.0,Salaries & Wages,Expense,Personnel,Sales,Commercial,-1207.140000000014,-0.0027,Unfavourable
+2025-11-01,6000,D20,239893.5,238100.0,Salaries & Wages,Expense,Personnel,Marketing,Commercial,-1793.5,-0.0075,Unfavourable
+2025-11-01,6000,D30,425105.2,411300.0,Salaries & Wages,Expense,Personnel,Operations,Operations,-13805.200000000012,-0.0336,Unfavourable
+2025-11-01,6000,D40,295053.77999999997,292700.0,Salaries & Wages,Expense,Personnel,IT,Support,-2353.7799999999697,-0.008,Unfavourable
+2025-11-01,6000,D50,155947.46,148600.0,Salaries & Wages,Expense,Personnel,HR,Support,-7347.459999999992,-0.0494,Unfavourable
+2025-11-01,6000,D60,208751.66,201600.0,Salaries & Wages,Expense,Personnel,Finance,Support,-7151.6600000000035,-0.0355,Unfavourable
+2025-11-01,6100,D50,304014.95,303000.0,Employee Benefits,Expense,Personnel,HR,Support,-1014.9500000000116,-0.0033,Unfavourable
+2025-11-01,6200,D50,33000.0,55000.0,Training & Development,Expense,Personnel,HR,Support,22000.0,0.4,Favourable
+2025-11-01,6300,D30,325601.76,322500.0,Rent & Utilities,Expense,Facilities,Operations,Operations,-3101.7600000000093,-0.0096,Unfavourable
+2025-11-01,6400,D20,350802.25,401900.0,Marketing & Advertising,Expense,Sales & Marketing,Marketing,Commercial,51097.75,0.1271,Favourable
+2025-11-01,6500,D10,108698.54,106900.0,Travel & Entertainment,Expense,Sales & Marketing,Sales,Commercial,-1798.5399999999936,-0.0168,Unfavourable
+2025-11-01,6500,D20,27757.81,43300.0,Travel & Entertainment,Expense,Sales & Marketing,Marketing,Commercial,15542.189999999999,0.3589,Favourable
+2025-11-01,6600,D40,291891.78,269400.0,Software & IT Services,Expense,Technology,IT,Support,-22491.780000000028,-0.0835,Unfavourable
+2025-11-01,6700,D60,59246.91,85000.0,Professional Fees,Expense,Administrative,Finance,Support,25753.089999999997,0.303,Favourable
+2025-11-01,6800,D60,20709.79,28000.0,Office Supplies,Expense,Administrative,Finance,Support,7290.209999999999,0.2604,Favourable
+2025-11-01,6900,D60,64459.979999999996,62400.0,Insurance,Expense,Administrative,Finance,Support,-2059.979999999996,-0.033,Unfavourable
+2025-11-01,7000,D60,122667.9,122400.0,Depreciation,Expense,Administrative,Finance,Support,-267.8999999999942,-0.0022,Unfavourable
+2025-12-01,4000,D10,5598844.21,6619900.0,Product Sales,Revenue,Revenue,Sales,Commercial,-1021055.79,-0.1542,Unfavourable
+2025-12-01,4100,D30,1751094.32,1666500.0,Service Revenue,Revenue,Revenue,Operations,Operations,84594.32000000007,0.0508,Favourable
+2025-12-01,4200,D10,1297024.52,1352700.0,Subscription Revenue,Revenue,Revenue,Sales,Commercial,-55675.47999999998,-0.0412,Unfavourable
+2025-12-01,5000,D30,2214595.32,2232700.0,Materials,COGS,Cost of Goods Sold,Operations,Operations,18104.680000000168,0.0081,Favourable
+2025-12-01,5100,D30,750429.3400000001,781000.0,Direct Labor,COGS,Cost of Goods Sold,Operations,Operations,30570.659999999916,0.0391,Favourable
+2025-12-01,5200,D30,382322.44999999995,319500.0,Freight & Logistics,COGS,Cost of Goods Sold,Operations,Operations,-62822.44999999995,-0.1966,Unfavourable
+2025-12-01,6000,D10,446213.42,445300.0,Salaries & Wages,Expense,Personnel,Sales,Commercial,-913.4199999999837,-0.0021,Unfavourable
+2025-12-01,6000,D20,235734.96000000002,239000.0,Salaries & Wages,Expense,Personnel,Marketing,Commercial,3265.039999999979,0.0137,Favourable
+2025-12-01,6000,D30,407927.16000000003,412700.0,Salaries & Wages,Expense,Personnel,Operations,Operations,4772.839999999967,0.0116,Favourable
+2025-12-01,6000,D40,294300.26,294300.0,Salaries & Wages,Expense,Personnel,IT,Support,-0.2600000000093132,-0.0,Unfavourable
+2025-12-01,6000,D50,150745.12,149000.0,Salaries & Wages,Expense,Personnel,HR,Support,-1745.1199999999953,-0.0117,Unfavourable
+2025-12-01,6000,D60,178815.03,202200.0,Salaries & Wages,Expense,Personnel,Finance,Support,23384.97,0.1157,Favourable
+2025-12-01,6000,D99,33851.19,0.0,Salaries & Wages,Expense,Personnel,Unassigned,Unassigned,-33851.19,,Unfavourable
+2025-12-01,6100,D50,312692.31,304100.0,Employee Benefits,Expense,Personnel,HR,Support,-8592.309999999998,-0.0283,Unfavourable
+2025-12-01,6200,D50,68223.86,55000.0,Training & Development,Expense,Personnel,HR,Support,-13223.86,-0.2404,Unfavourable
+2025-12-01,6300,D30,322376.73,323100.0,Rent & Utilities,Expense,Facilities,Operations,Operations,723.2700000000186,0.0022,Favourable
+2025-12-01,6400,D20,415251.1,405500.0,Marketing & Advertising,Expense,Sales & Marketing,Marketing,Commercial,-9751.099999999977,-0.024,Unfavourable
+2025-12-01,6500,D10,87957.22,107500.0,Travel & Entertainment,Expense,Sales & Marketing,Sales,Commercial,19542.78,0.1818,Favourable
+2025-12-01,6500,D20,51571.31,43400.0,Travel & Entertainment,Expense,Sales & Marketing,Marketing,Commercial,-8171.309999999998,-0.1883,Unfavourable
+2025-12-01,6600,D40,292408.08,274700.0,Software & IT Services,Expense,Technology,IT,Support,-17708.080000000016,-0.0645,Unfavourable
+2025-12-01,6700,D60,81787.68,85000.0,Professional Fees,Expense,Administrative,Finance,Support,3212.320000000007,0.0378,Favourable
+2025-12-01,6800,D60,27074.5,28000.0,Office Supplies,Expense,Administrative,Finance,Support,925.5,0.0331,Favourable
+2025-12-01,6900,D60,63939.06,62500.0,Insurance,Expense,Administrative,Finance,Support,-1439.0599999999977,-0.023,Unfavourable
+2025-12-01,7000,D60,122790.56999999999,122500.0,Depreciation,Expense,Administrative,Finance,Support,-290.56999999999243,-0.0024,Unfavourable

@@ -1,0 +1,12 @@
+step,rows_affected,detail
+Remove exact duplicates,38,identical rows exported twice
+Remove test postings,6,rows labelled TEST POSTING
+Standardise date formats,615,"DD/MM/YYYY, YYYY/MM/DD, DD-Mon-YYYY → ISO date"
+Drop unparseable dates,0,rows with invalid dates
+Convert text amounts to numbers,437,removed thousand separators; (x) = negative
+Remove zero-amount rows,12,no financial impact
+Standardise department casing,90,"e.g. 'MARKETING', 'sales' → proper names"
+Infer missing department from account,34,account is only ever booked by one department
+Flag remaining missing departments,11,set to 'Unassigned' for review
+Fill missing counterparties,30,set to 'Unknown'
+FINAL clean transactions,1739,"from 1,795 raw rows"

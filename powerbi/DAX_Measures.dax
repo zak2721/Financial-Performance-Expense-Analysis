@@ -1,0 +1,232 @@
+// =====================================================================
+// DAX_Measures.dax  —  Financial Performance, Budget Variance & Expense Analysis
+// Create a blank table called _Measures (Enter Data → OK) and add every
+// measure below to it. Folder names in [brackets] are display folders.
+// Model: 'Date' (daily) → fact_actuals[posting_date], fact_budget[month_start]
+//        dim_account → both facts (account_id); dim_department → both facts
+// Sign convention for variance: POSITIVE = FAVOURABLE
+// =====================================================================
+
+
+// ---------------------------------------------------------------------
+// 0. DATE TABLE  (Modeling → New table)  then Mark as date table
+// ---------------------------------------------------------------------
+Date =
+ADDCOLUMNS (
+    CALENDAR ( DATE ( 2024, 1, 1 ), DATE ( 2025, 12, 31 ) ),
+    "Year",         YEAR ( [Date] ),
+    "Quarter",      "Q" & QUARTER ( [Date] ),
+    "Year Quarter", YEAR ( [Date] ) & "-Q" & QUARTER ( [Date] ),
+    "Month Num",    MONTH ( [Date] ),
+    "Month",        FORMAT ( [Date], "mmm" ),
+    "Year Month",   FORMAT ( [Date], "yyyy-mm" ),
+    "Month Start",  DATE ( YEAR ( [Date] ), MONTH ( [Date] ), 1 )
+)
+// Sort 'Date'[Month] by 'Date'[Month Num]
+
+
+// ---------------------------------------------------------------------
+// 1. BASE MEASURES                                        [01 Base]
+// ---------------------------------------------------------------------
+Actual Amount = SUM ( fact_actuals[amount] )
+
+Budget Amount = SUM ( fact_budget[budget_amount] )
+
+Transaction Count = COUNTROWS ( fact_actuals )
+
+
+// ---------------------------------------------------------------------
+// 2. INCOME STATEMENT — ACTUAL                             [02 P&L Actual]
+// KEEPFILTERS so a slicer on account type is respected, not overwritten
+// ---------------------------------------------------------------------
+Revenue =
+CALCULATE ( [Actual Amount], KEEPFILTERS ( dim_account[account_type] = "Revenue" ) )
+
+COGS =
+CALCULATE ( [Actual Amount], KEEPFILTERS ( dim_account[account_type] = "COGS" ) )
+
+Operating Expenses =
+CALCULATE ( [Actual Amount], KEEPFILTERS ( dim_account[account_type] = "Expense" ) )
+
+Total Costs = [COGS] + [Operating Expenses]
+
+Gross Profit = [Revenue] - [COGS]
+
+Net Profit = [Revenue] - [COGS] - [Operating Expenses]
+
+Gross Margin % = DIVIDE ( [Gross Profit], [Revenue] )
+
+Net Margin % = DIVIDE ( [Net Profit], [Revenue] )
+
+OpEx Ratio % = DIVIDE ( [Operating Expenses], [Revenue] )
+
+COGS Ratio % = DIVIDE ( [COGS], [Revenue] )
+
+
+// ---------------------------------------------------------------------
+// 3. INCOME STATEMENT — BUDGET                             [03 P&L Budget]
+// ---------------------------------------------------------------------
+Budget Revenue =
+CALCULATE ( [Budget Amount], KEEPFILTERS ( dim_account[account_type] = "Revenue" ) )
+
+Budget COGS =
+CALCULATE ( [Budget Amount], KEEPFILTERS ( dim_account[account_type] = "COGS" ) )
+
+Budget OpEx =
+CALCULATE ( [Budget Amount], KEEPFILTERS ( dim_account[account_type] = "Expense" ) )
+
+Budget Gross Profit = [Budget Revenue] - [Budget COGS]
+
+Budget Net Profit = [Budget Revenue] - [Budget COGS] - [Budget OpEx]
+
+Budget Net Margin % = DIVIDE ( [Budget Net Profit], [Budget Revenue] )
+
+
+// ---------------------------------------------------------------------
+// 4. VARIANCE                                              [04 Variance]
+// ---------------------------------------------------------------------
+// Works at any level: account row, account type, department or grand total
+Variance (Fav +) =
+VAR RevVar =
+    CALCULATE ( [Actual Amount] - [Budget Amount],
+                KEEPFILTERS ( dim_account[account_type] = "Revenue" ) )
+VAR CostVar =
+    CALCULATE ( [Budget Amount] - [Actual Amount],
+                KEEPFILTERS ( dim_account[account_type] IN { "COGS", "Expense" } ) )
+RETURN
+    RevVar + CostVar
+
+Variance % =
+VAR Bud =
+    IF ( ISFILTERED ( dim_account[account_name] ) || ISFILTERED ( dim_account[account_type] ),
+         [Budget Amount],
+         ABS ( [Budget Net Profit] ) )      // at total level compare to budgeted profit
+RETURN
+    DIVIDE ( [Variance (Fav +)], Bud )
+
+Revenue Variance = [Revenue] - [Budget Revenue]
+
+Revenue Variance % = DIVIDE ( [Revenue Variance], [Budget Revenue] )
+
+Cost Variance = ( [Budget COGS] + [Budget OpEx] ) - [Total Costs]
+
+Net Profit Variance = [Net Profit] - [Budget Net Profit]
+
+Net Profit Variance % = DIVIDE ( [Net Profit Variance], ABS ( [Budget Net Profit] ) )
+
+Budget Achievement % = DIVIDE ( [Revenue], [Budget Revenue] )
+
+Variance Status =
+SWITCH ( TRUE (),
+    ISBLANK ( [Budget Amount] ), "No budget",
+    [Variance (Fav +)] >= 0, "Favourable",
+    "Unfavourable" )
+
+// Threshold from a What-if parameter (Modeling → New parameter, 0–0.30, step 0.01, default 0.10)
+// If you skip the parameter, replace 'Variance Threshold'[Variance Threshold Value] with 0.10
+Review Flag =
+IF ( ABS ( [Variance %] ) > SELECTEDVALUE ( 'Variance Threshold'[Variance Threshold Value], 0.10 ),
+     "⚠ Review", BLANK () )
+
+// Use in Conditional formatting → Font colour → Field value
+Variance Colour =
+IF ( [Variance (Fav +)] >= 0, "#1B7F3B", "#C0392B" )
+
+
+// ---------------------------------------------------------------------
+// 5. TIME INTELLIGENCE                                     [05 Time]
+// ---------------------------------------------------------------------
+Revenue PY = CALCULATE ( [Revenue], SAMEPERIODLASTYEAR ( 'Date'[Date] ) )
+
+Revenue YoY % = DIVIDE ( [Revenue] - [Revenue PY], [Revenue PY] )
+
+Net Profit PY = CALCULATE ( [Net Profit], SAMEPERIODLASTYEAR ( 'Date'[Date] ) )
+
+Net Profit YoY % = DIVIDE ( [Net Profit] - [Net Profit PY], ABS ( [Net Profit PY] ) )
+
+OpEx PY = CALCULATE ( [Operating Expenses], SAMEPERIODLASTYEAR ( 'Date'[Date] ) )
+
+OpEx YoY % = DIVIDE ( [Operating Expenses] - [OpEx PY], [OpEx PY] )
+
+Total Costs PY = CALCULATE ( [Total Costs], SAMEPERIODLASTYEAR ( 'Date'[Date] ) )
+
+Total Costs YoY % = DIVIDE ( [Total Costs] - [Total Costs PY], [Total Costs PY] )
+
+Revenue YTD = TOTALYTD ( [Revenue], 'Date'[Date] )
+
+Budget Revenue YTD = TOTALYTD ( [Budget Revenue], 'Date'[Date] )
+
+Net Profit YTD = TOTALYTD ( [Net Profit], 'Date'[Date] )
+
+Budget Net Profit YTD = TOTALYTD ( [Budget Net Profit], 'Date'[Date] )
+
+YTD Profit Gap = [Net Profit YTD] - [Budget Net Profit YTD]
+
+Revenue PM = CALCULATE ( [Revenue], DATEADD ( 'Date'[Date], -1, MONTH ) )
+
+Revenue MoM % = DIVIDE ( [Revenue] - [Revenue PM], [Revenue PM] )
+
+
+// ---------------------------------------------------------------------
+// 6. EXPENSE ANALYSIS                                      [06 Expenses]
+// ---------------------------------------------------------------------
+// Share of total costs, ignoring the account/category on the row
+Cost Share % =
+DIVIDE (
+    [Total Costs],
+    CALCULATE ( [Total Costs],
+                REMOVEFILTERS ( dim_account[account_name], dim_account[account_category] ) )
+)
+
+Cost as % of Revenue =
+DIVIDE ( [Total Costs], CALCULATE ( [Revenue], REMOVEFILTERS ( dim_account ) ) )
+
+// Average of the 3 months BEFORE the current month (use with 'Date'[Year Month] on axis)
+Costs 3M Trailing Avg =
+VAR CurStart = MIN ( 'Date'[Month Start] )
+VAR Win =
+    DATESINPERIOD ( 'Date'[Date], EOMONTH ( CurStart, -1 ), -3, MONTH )
+RETURN
+    DIVIDE ( CALCULATE ( [Total Costs], Win ), 3 )
+
+Expense Spike % = DIVIDE ( [Total Costs] - [Costs 3M Trailing Avg], [Costs 3M Trailing Avg] )
+
+Expense Anomaly =
+IF ( [Expense Spike %] > 0.40 && NOT ISBLANK ( [Costs 3M Trailing Avg] ), "Spike", BLANK () )
+
+Vendor Count =
+CALCULATE ( DISTINCTCOUNT ( fact_actuals[counterparty] ),
+            KEEPFILTERS ( dim_account[account_type] IN { "COGS", "Expense" } ),
+            NOT fact_actuals[counterparty] IN { "Internal Payroll", "Unknown" } )
+
+Avg Transaction Value = DIVIDE ( [Actual Amount], [Transaction Count] )
+
+Vendor Rank =
+RANKX ( ALLSELECTED ( fact_actuals[counterparty] ), [Total Costs], , DESC, DENSE )
+
+
+// ---------------------------------------------------------------------
+// 7. DATA QUALITY                                          [07 Data Quality]
+// ---------------------------------------------------------------------
+Unassigned Amount =
+CALCULATE ( [Actual Amount], dim_department[department_name] = "Unassigned" )
+
+Unassigned % of Costs = DIVIDE ( [Unassigned Amount], [Total Costs] )
+
+
+// ---------------------------------------------------------------------
+// 8. DYNAMIC TEXT FOR TITLES & CARDS                       [08 Labels]
+// ---------------------------------------------------------------------
+Selected Period =
+VAR y = SELECTEDVALUE ( 'Date'[Year], "FY2024–FY2025" )
+RETURN IF ( ISNUMBER ( y ), "FY" & y, y )
+
+Headline Text =
+"Revenue " & FORMAT ( [Revenue] / 1e6, "#,0.0" ) & "M ETB  ("
+    & FORMAT ( [Revenue Variance %], "+0.0%;-0.0%" ) & " vs budget) · Net profit "
+    & FORMAT ( [Net Profit] / 1e6, "#,0.0" ) & "M ETB  ("
+    & FORMAT ( [Net Profit Variance %], "+0.0%;-0.0%" ) & " vs budget)"
+
+KPI Arrow Revenue = IF ( [Revenue Variance] >= 0, "▲", "▼" )
+
+KPI Arrow Profit = IF ( [Net Profit Variance] >= 0, "▲", "▼" )

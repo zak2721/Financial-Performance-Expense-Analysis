@@ -1,0 +1,1796 @@
+TransactionID,PostingDate,AccountCode,Department,Counterparty,Amount,Currency,Description
+REV0007,2024-01-24,6200,HR,Ethiopian Management Institute,"(3,898.15)",ETB,Adjustment / partial reversal
+TXN100294,2024-05-14,4000,Sales,NGO Client,"67,894.47",ETB,Product Sales - May 2024
+TXN101402,2025-08-16,6000,Sales,Internal Payroll,301683.18,ETB,Salaries & Wages - Aug 2025
+TXN101473,2025-09-22,5100,Operations,Internal Payroll,73726.94,ETB,Direct Labor - Sep 2025
+TXN100482,2024/07/21,6000,FINANCE,Internal Payroll,171146.94,ETB,Salaries & Wages - Jul 2024
+TXN100829,10/12/2024,5100,Operations,Internal Payroll,709216.55,ETB,Direct Labor - Dec 2024
+TXN101149,2025/05/15,4000,Sales,Retail Customer,29933.19,ETB,Product Sales - May 2025
+TXN101027,2025-03-10,4200,Sales,Wholesale Customer,"171,552.44",ETB,Subscription Revenue - Mar 2025
+TXN101318,2025-07-23,5000,Operations,Habesha Supplies,374189.82,ETB,Materials - Jul 2025
+TXN100178,2024-03-07,5000,operations,Awash Raw Materials,"6,700.47",ETB,Materials - Mar 2024
+TXN100670,2024-10-31,4100,Operations,Corporate Client,"480,058.22",ETB,Service Revenue - Oct 2024
+TXN100925,2025-01-11,6800,Finance,Shoa Stationery,25908.91,ETB,Office Supplies - Jan 2025
+TXN101030,2025-03-17,5000,operations,Rift Valley Inputs,"408,890.86",ETB,Materials - Mar 2025
+TXN101342,2025-07-14,6100,HR,Internal Payroll,237754.28,ETB,Employee Benefits - Jul 2025
+TXN100559,13-Aug-2024,6200,HR,Coursera Business,"33,000.00",ETB,Training & Development - Aug 2024
+TXN100465,26-Jul-2024,5000,Operations,Habesha Supplies,175068.13,ETB,Materials - Jul 2024
+TXN100773,2024-11-18,6000,HR,Internal Payroll,80431.36,ETB,Salaries & Wages - Nov 2024
+TXN100637,2024-09-03,6300,Operations,Bole Properties,135673.81,ETB,Rent & Utilities - Sep 2024
+TXN100387,12/06/2024,4200,Sales,Government Contract,12899.23,ETB,Subscription Revenue - Jun 2024
+TXN100600,2024/09/07,4200,Sales,NGO Client,236148.79,ETB,Subscription Revenue - Sep 2024
+TXN100269,2024-04-20,6100,HR,Internal Payroll,"164,878.71",ETB,Employee Benefits - Apr 2024
+TXN101603,2025-11-14,4100,Operations,NGO Client,178295.47,ETB,Service Revenue - Nov 2025
+TXN100624,2024-09-12,6000,Operations,Internal Payroll,"135,575.48",ETB,Salaries & Wages - Sep 2024
+TXN100048,2024-01-09,6000,IT,Internal Payroll,46900.63,ETB,Salaries & Wages - Jan 2024
+TXN100743,2024-11-23,4100,Operations,Wholesale Customer,83282.5,ETB,Service Revenue - Nov 2024
+TXN101033,2025/03/11,5000,,,83328.16,ETB,Materials - Mar 2025
+TXN101695,22/12/2025,5100,Operations,Internal Payroll,"59,887.12",ETB,Direct Labor - Dec 2025
+TXN100331,2024-05-20,6000,,Internal Payroll,37251.5,ETB,Salaries & Wages - May 2024
+TXN101388,2025-08-11,5000,Operations,Habesha Supplies,"92,593.86",ETB,Materials - Aug 2025
+TXN100997,2025-02-18,6800,Finance,Office Mart,36411.36,ETB,Office Supplies - Feb 2025
+TXN100265,2024-04-07,6000,HR,Internal Payroll,33810.03,ETB,Salaries & Wages - Apr 2024
+TXN101398,2025-08-19,5200,Operations,Ethio Freight,61896.82,ETB,Freight & Logistics - Aug 2025
+TXN100306,2024-05-10,4100,Operations,Government Contract,"153,953.64",ETB,Service Revenue - May 2024
+TXN100654,2024-10-01,4000,Sales,NGO Client,"254,837.46",ETB,Product Sales - Oct 2024
+TXN101393,2025-08-07,5000,operations,Habesha Supplies,126076.49,ETB,Materials - Aug 2025
+TXN101081,2025-04-19,4000,Sales,Corporate Client,"39,406.78",ETB,Product Sales - Apr 2025
+TXN100049,2024-01-04,6000,HR,Internal Payroll,19035.38,ETB,Salaries & Wages - Jan 2024
+TXN100276,2024-04-26,6400,Marketing,Google Ads,33510.08,ETB,Marketing & Advertising - Apr 2024
+TXN100121,2024-02-25,6000,HR,Internal Payroll,15570.68,ETB,Salaries & Wages - Feb 2024
+TXN100282,07-Apr-2024,6600,IT,Safaricom Business,62267.62,ETB,Software & IT Services - Apr 2024
+TXN101630,2025-11-01,6000,Marketing,Internal Payroll,"154,516.89",ETB,Salaries & Wages - Nov 2025
+TXN100112,2024-02-18,5200,Operations,Ethio Freight,23482.17,ETB,Freight & Logistics - Feb 2024
+TXN100676,2024-10-05,4200,Sales,Corporate Client,141459.37,ETB,Subscription Revenue - Oct 2024
+TXN101292,2025-07-08,4000,Sales,Retail Customer,753895.33,ETB,Product Sales - Jul 2025
+TXN100719,2024-10-08,6700,Finance,KPMG Ethiopia,"232,333.59",ETB,Professional Fees - Oct 2024
+TXN100228,2024/04/20,4000,Sales,Retail Customer,498609.57,ETB,Product Sales - Apr 2024
+TXN100103,2024-02-23,5000,Operations,Habesha Supplies,722058.45,ETB,Materials - Feb 2024
+TXN100580,2024/09/06,4000,Sales,NGO Client,90825.97,ETB,Product Sales - Sep 2024
+TXN100293,2024-05-10,4000,Sales,Retail Customer,140859.67,ETB,Product Sales - May 2024
+TXN101124,2025/04/26,6000,Finance,,118575.54,ETB,Salaries & Wages - Apr 2025
+TXN101512,2025-09-25,7000,,Internal Payroll,8701.53,ETB,Depreciation - Sep 2025
+TXN101044,2025-03-30,6000,Sales,Internal Payroll,39864.19,ETB,Salaries & Wages - Mar 2025
+TXN100187,14-Mar-2024,6000,Operations,Internal Payroll,255031.87,ETB,Salaries & Wages - Mar 2024
+TXN100588,24-Sep-2024,4000,,NGO Client,668405.78,ETB,Product Sales - Sep 2024
+TXN100224,2024-04-28,4000,Sales,Corporate Client,"138,819.29",ETB,Product Sales - Apr 2024
+TXN100332,2024-05-23,6000,OPERATIONS,Internal Payroll,391034.98,ETB,Salaries & Wages - May 2024
+TXN100557,2024-08-26,6000,Finance,Internal Payroll,"81,308.48",ETB,Salaries & Wages - Aug 2024
+TXN100159,2024-03-25,4000,Sales,Wholesale Customer,213438.63,ETB,Product Sales - Mar 2024
+TXN100987,2025-02-10,6400,Marketing,Google Ads,317758.66,ETB,Marketing & Advertising - Feb 2025
+TST0002,2025/03/07,4100,Operations,NGO Client,"304,797.24",ETB,TEST POSTING - DO NOT USE
+TXN100675,2024-10-23,4200,Sales,NGO Client,163854.65,ETB,Subscription Revenue - Oct 2024
+TXN101708,2025-12-14,6000,,Internal Payroll,"33,851.19",ETB,Salaries & Wages - Dec 2025
+TXN101179,02/05/2025,5000,Operations,Awash Raw Materials,130714.99,ETB,Materials - May 2025
+TXN101555,2025/10/31,6000,MARKETING,Internal Payroll,72927.26,ETB,Salaries & Wages - Oct 2025
+TXN100875,2025-01-20,4100,Operations,,409024.33,ETB,Service Revenue - Jan 2025
+TXN101431,24-Aug-2025,6800,Finance,Shoa Stationery,"6,746.22",ETB,Office Supplies - Aug 2025
+TXN101554,2025/10/23,6000,,Internal Payroll,153017.62,ETB,Salaries & Wages - Oct 2025
+TXN101726,25/12/2025,6900,FINANCE,Nyala Insurance,13136.54,ETB,Insurance - Dec 2025
+TXN100554,27/08/2024,6000,hr,Internal Payroll,"109,218.21",ETB,Salaries & Wages - Aug 2024
+TXN100386,2024-06-04,4200,Sales,Corporate Client,"52,092.63",ETB,Subscription Revenue - Jun 2024
+TXN101583,2025-10-21,6900,Finance,Nyala Insurance,24952.86,ETB,Insurance - Oct 2025
+TXN101638,2025/11/28,6100,HR,Internal Payroll,304014.95,ETB,Employee Benefits - Nov 2025
+TXN100351,2024-05-17,6500,Marketing,Skylight Hotel,233.1,ETB,Travel & Entertainment - May 2024
+TXN100779,2024-11-14,6200,HR,Coursera Business,71565.2,ETB,Training & Development - Nov 2024
+TXN100109,2024-02-04,5000,Operations,Habesha Supplies,"328,774.21",ETB,Materials - Feb 2024
+TXN100731,19-Nov-2024,4000,sales,Government Contract,303575.12,ETB,Product Sales - Nov 2024
+TXN101010,2025-03-06,4000,Sales,Corporate Client,"157,598.30",ETB,Product Sales - Mar 2025
+TXN100661,2024-10-10,4000,Sales,NGO Client,"28,741.62",ETB,Product Sales - Oct 2024
+TXN101464,23/09/2025,4200,Sales,Government Contract,196458.92,ETB,Subscription Revenue - Sep 2025
+TXN100162,2024-03-25,4100,operations,NGO Client,407205.14,ETB,Service Revenue - Mar 2024
+TXN101135,10-Apr-2025,6400,Marketing,Addis Media Group,"456,940.06",ETB,Marketing & Advertising - Apr 2025
+TXN100508,2024-08-06,4000,Sales,Wholesale Customer,"233,974.28",ETB,Product Sales - Aug 2024
+TXN100436,2024-07-17,4000,Sales,Retail Customer,307872.44,ETB,Product Sales - Jul 2024
+TXN101185,2025-05-14,6000,Sales,Internal Payroll,"436,548.74",ETB,Salaries & Wages - May 2025
+TXN100787,2024-11-06,6600,IT,AWS,"229,054.25",ETB,Software & IT Services - Nov 2024
+TXN100422,30-Jun-2024,6500,,Hilton Addis,15053.0,ETB,Travel & Entertainment - Jun 2024
+TXN100632,06-Sep-2024,6100,HR,Internal Payroll,294289.75,ETB,Employee Benefits - Sep 2024
+TXN101178,2025-05-12,5000,Operations,Habesha Supplies,196036.47,ETB,Materials - May 2025
+TXN101084,2025-04-11,4000,Sales,Wholesale Customer,161343.27,ETB,Product Sales - Apr 2025
+TXN101258,19/06/2025,6000,Operations,Internal Payroll,422551.99,ETB,Salaries & Wages - Jun 2025
+TXN101173,2025-05-29,4200,,NGO Client,179998.27,ETB,Subscription Revenue - May 2025
+TXN100352,05/05/2024,6600,IT,Ethio Telecom,115489.81,ETB,Software & IT Services - May 2024
+TXN101429,24/08/2025,6700,Finance,Tadesse & Partners Law,51000.0,ETB,Professional Fees - Aug 2025
+TXN101220,2025-06-06,4000,Sales,Retail Customer,"110,507.63",ETB,Product Sales - Jun 2025
+TXN101370,2025/08/02,4000,Sales,Corporate Client,479412.88,ETB,Product Sales - Aug 2025
+TXN101469,2025-09-01,5000,Operations,Awash Raw Materials,242975.54,ETB,Materials - Sep 2025
+TXN101130,25-Apr-2025,6200,HR,Ethiopian Management Institute,23709.71,ETB,Training & Development - Apr 2025
+TXN100038,11/01/2024,5200,Operations,Ethio Freight,120357.66,ETB,Freight & Logistics - Jan 2024
+TXN101447,2025/09/23,4000,Sales,Wholesale Customer,230944.21,ETB,Product Sales - Sep 2025
+TXN101270,2025-06-16,6300,Operations,Bole Properties,60573.98,ETB,Rent & Utilities - Jun 2025
+TXN101174,2025/05/02,4200,Sales,,268724.72,ETB,Subscription Revenue - May 2025
+TXN101205,2025-05-28,6700,Finance,Tadesse & Partners Law,43776.8,ETB,Professional Fees - May 2025
+TXN101526,2025/10/14,4000,Sales,Wholesale Customer,"274,974.10",ETB,Product Sales - Oct 2025
+TXN100574,2024-08-10,6800,FINANCE,Office Mart,10382.59,ETB,Office Supplies - Aug 2024
+TXN100609,2024-09-01,5000,  Operations ,Habesha Supplies,217674.49,ETB,Materials - Sep 2024
+TXN101488,12/09/2025,6000,HR,Internal Payroll,"42,171.27",ETB,Salaries & Wages - Sep 2025
+TXN100749,2024-11-14,4200,Sales,Retail Customer,57599.81,ETB,Subscription Revenue - Nov 2024
+TXN101541,2025-10-28,5000,Operations,Rift Valley Inputs,340573.59,ETB,Materials - Oct 2025
+TXN100988,2025-02-11,6400,marketing,Addis Media Group,86169.09,ETB,Marketing & Advertising - Feb 2025
+TXN100694,2024/10/04,6000,MARKETING,Internal Payroll,232963.91,ETB,Salaries & Wages - Oct 2024
+TXN100937,16-Feb-2025,4000,Sales,Retail Customer,604459.16,ETB,Product Sales - Feb 2025
+TXN101465,2025-09-30,5000,operations,Habesha Supplies,43471.31,ETB,Materials - Sep 2025
+TXN100895,2025-01-31,5200,Operations,Ethio Freight,108734.42,ETB,Freight & Logistics - Jan 2025
+TXN100454,2024-07-08,4100,Operations,Government Contract,82105.46,ETB,Service Revenue - Jul 2024
+TXN100283,2024-04-11,6600,IT,Microsoft,98674.36,ETB,Software & IT Services - Apr 2024
+TXN100928,26-Jan-2025,7000,Finance,Internal Payroll,29339.07,ETB,Depreciation - Jan 2025
+TXN100182,2024-03-08,5200,Operations,Ethio Freight,"43,293.33",ETB,Freight & Logistics - Mar 2024
+TXN101309,2025-07-11,4100,Operations,Corporate Client,"248,217.99",ETB,Service Revenue - Jul 2025
+TXN101382,2025-08-12,4200,,Retail Customer,68979.27,ETB,Subscription Revenue - Aug 2025
+TXN101007,2025-03-28,4000,Sales,Government Contract,20015.21,ETB,Product Sales - Mar 2025
+TXN101407,2025-08-18,6000,,Internal Payroll,"71,153.50",ETB,Salaries & Wages - Aug 2025
+TXN101275,2025-06-29,6500,Marketing,Ethiopian Airlines,26484.33,ETB,Travel & Entertainment - Jun 2025
+TXN100847,2024-12-17,6600,IT,Microsoft,"79,642.39",ETB,Software & IT Services - Dec 2024
+TXN100538,07/08/2024,5000,Operations,Rift Valley Inputs,"209,090.92",ETB,Materials - Aug 2024
+TXN100195,2024/03/08,6100,HR,Internal Payroll,120896.51,ETB,Employee Benefits - Mar 2024
+TXN100076,2024/02/07,4000,Sales,Retail Customer,"259,054.15",ETB,Product Sales - Feb 2024
+TXN101310,2025-07-02,4200,Sales,NGO Client,75421.62,ETB,Subscription Revenue - Jul 2025
+TXN101061,2025-03-17,6500,  Sales ,Ethiopian Airlines,112227.0,ETB,Travel & Entertainment - Mar 2025
+TXN101623,2025-11-29,5100,Operations,Internal Payroll,179765.24,ETB,Direct Labor - Nov 2025
+TXN100513,2024-08-29,4000,Sales,NGO Client,"144,021.01",ETB,Product Sales - Aug 2024
+TXN100061,2024/01/21,6500,Marketing,Skylight Hotel,"8,688.08",ETB,Travel & Entertainment - Jan 2024
+TXN101047,2025/03/10,6000,Operations,Internal Payroll,228285.68,ETB,Salaries & Wages - Mar 2025
+TXN101045,2025-03-17,6000,Marketing,Internal Payroll,228794.83,ETB,Salaries & Wages - Mar 2025
+TXN100362,15-May-2024,7000,Finance,Internal Payroll,47167.5,ETB,Depreciation - May 2024
+TXN101557,2025-10-21,6000,Operations,Internal Payroll,425044.24,ETB,Salaries & Wages - Oct 2025
+TXN101324,2025-07-03,5000,Operations,Rift Valley Inputs,111645.87,ETB,Materials - Jul 2025
+TXN100259,01-Apr-2024,6000,Operations,Internal Payroll,"182,948.97",ETB,Salaries & Wages - Apr 2024
+TXN101684,2025-12-29,4200,Sales,NGO Client,174132.55,ETB,Subscription Revenue - Dec 2025
+TXN100191,03-Mar-2024,6000,HR,Internal Payroll,"23,732.83",ETB,Salaries & Wages - Mar 2024
+TXN100127,02/02/2024,6100,HR,Internal Payroll,294514.16,ETB,Employee Benefits - Feb 2024
+TXN100809,2024-12-24,4100,Operations,NGO Client,58191.64,ETB,Service Revenue - Dec 2024
+TXN100303,2024-05-18,4000,Sales,Retail Customer,"2,031,451.13",ETB,Product Sales - May 2024
+TXN101676,14-Dec-2025,4100,Operations,NGO Client,433424.09,ETB,Service Revenue - Dec 2025
+TXN100099,2024-02-13,4200,Sales,Retail Customer,86168.01,ETB,Subscription Revenue - Feb 2024
+TXN100835,2024-12-02,6000,HR,Internal Payroll,142564.76,ETB,Salaries & Wages - Dec 2024
+TXN101012,2025-03-06,4000,Sales,NGO Client,"72,799.18",ETB,Product Sales - Mar 2025
+TXN101291,09-Jul-2025,4000,Sales,Government Contract,544541.98,ETB,Product Sales - Jul 2025
+TXN101508,2025-09-27,6900,Finance,Nyala Insurance,5263.54,ETB,Insurance - Sep 2025
+TXN101439,2025-09-28,4000,Sales,Retail Customer,739923.28,ETB,Product Sales - Sep 2025
+TXN100390,2024-06-26,4200,Sales,Wholesale Customer,"185,294.50",ETB,Subscription Revenue - Jun 2024
+TXN101091,2025/04/28,4100,Operations,Government Contract,412270.19,ETB,Service Revenue - Apr 2025
+TXN101299,2025-07-09,4000,Sales,NGO Client,"35,385.55",ETB,Product Sales - Jul 2025
+TXN101282,2025/06/28,6700,Finance,KPMG Ethiopia,"28,501.00",ETB,Professional Fees - Jun 2025
+TXN100891,2025-01-31,5000,Operations,Habesha Supplies,244415.69,ETB,Materials - Jan 2025
+TXN101199,2025-05-30,6300,Operations,Bole Properties,41982.35,ETB,Rent & Utilities - May 2025
+TXN100822,2024-12-15,5000,Operations,Habesha Supplies,"397,729.73",ETB,Materials - Dec 2024
+TXN101423,2025-08-13,6500,Sales,Skylight Hotel,99015.57,ETB,Travel & Entertainment - Aug 2025
+TXN101241,19-Jun-2025,4200,Sales,NGO Client,24431.03,ETB,Subscription Revenue - Jun 2025
+TXN100528,2024-08-14,4200,Sales,Government Contract,18306.55,ETB,Subscription Revenue - Aug 2024
+TXN100942,25/02/2025,4000,Sales,Government Contract,838722.65,ETB,Product Sales - Feb 2025
+TXN100083,2024/02/06,4000,Sales,Wholesale Customer,"640,254.16",ETB,Product Sales - Feb 2024
+TXN100367,2024-06-01,4000,Sales,Corporate Client,325871.46,ETB,Product Sales - Jun 2024
+TXN100941,21/02/2025,4000,  Sales ,Corporate Client,490146.56,ETB,Product Sales - Feb 2025
+TXN100746,2024-11-04,4100,Operations,Wholesale Customer,86810.22,ETB,Service Revenue - Nov 2024
+TXN100629,2024-09-25,6000,Finance,Internal Payroll,76922.08,ETB,Salaries & Wages - Sep 2024
+TXN100429,2024-06-20,6700,Finance,KPMG Ethiopia,48311.54,ETB,Professional Fees - Jun 2024
+TXN101532,2025/10/02,4100,Operations,NGO Client,582948.23,ETB,Service Revenue - Oct 2025
+TXN101590,2025/11/15,4000,Sales,Wholesale Customer,272870.48,ETB,Product Sales - Nov 2025
+TXN101633,2025-11-17,6000,IT,Internal Payroll,164824.9,ETB,Salaries & Wages - Nov 2025
+TXN101132,2025-04-16,6300,  Operations ,EEU Utilities,"241,659.48",ETB,Rent & Utilities - Apr 2025
+TXN101031,2025-03-08,5000,Operations,Rift Valley Inputs,40030.79,ETB,Materials - Mar 2025
+TXN100770,2024-11-05,6000,Operations,Internal Payroll,277937.08,ETB,Salaries & Wages - Nov 2024
+TXN101411,27-Aug-2025,6000,HR,,3177.62,ETB,Salaries & Wages - Aug 2025
+TXN101196,17-May-2025,6100,HR,Internal Payroll,293447.44,ETB,Employee Benefits - May 2025
+TXN100734,2024-11-16,4000,,Corporate Client,223143.19,ETB,Product Sales - Nov 2024
+TXN100337,05-May-2024,6000,HR,Internal Payroll,"1,576.03",ETB,Salaries & Wages - May 2024
+TXN100639,2024-09-14,6400,Marketing,Google Ads,124993.34,ETB,Marketing & Advertising - Sep 2024
+TXN101088,28/04/2025,4100,Operations,Corporate Client,"191,273.69",ETB,Service Revenue - Apr 2025
+TXN101080,05-Apr-2025,4000,Sales,Government Contract,435430.99,ETB,Product Sales - Apr 2025
+TXN100134,2024-02-05,6400,Marketing,Addis Media Group,351057.86,ETB,Marketing & Advertising - Feb 2024
+TXN101221,2025-06-15,4000,Sales,Corporate Client,10732.02,ETB,Product Sales - Jun 2025
+TXN101401,2025-08-12,6000,Sales,Internal Payroll,145524.78,ETB,Salaries & Wages - Aug 2025
+TXN101101,12-Apr-2025,5000,Operations,Rift Valley Inputs,292425.72,ETB,Materials - Apr 2025
+TXN100092,03/02/2024,4100,Operations,NGO Client,157817.51,ETB,Service Revenue - Feb 2024
+TXN100286,29-Apr-2024,6900,Finance,Nyala Insurance,9974.23,ETB,Insurance - Apr 2024
+TXN101548,25/10/2025,5100,Operations,Internal Payroll,738526.79,ETB,Direct Labor - Oct 2025
+TXN101344,2025-07-16,6200,HR,Ethiopian Management Institute,49928.06,ETB,Training & Development - Jul 2025
+TXN100994,24-Feb-2025,6600,IT,Safaricom Business,23021.01,ETB,Software & IT Services - Feb 2025
+TXN100268,2024/04/02,6100,HR,Internal Payroll,11088.12,ETB,Employee Benefits - Apr 2024
+TXN100203,2024-03-20,6400,Marketing,Google Ads,70430.88,ETB,Marketing & Advertising - Mar 2024
+TXN101115,2025-04-25,6000,Marketing,Internal Payroll,26949.41,ETB,Salaries & Wages - Apr 2025
+TXN100603,2024-09-24,4200,Sales,Retail Customer,"64,115.55",ETB,Subscription Revenue - Sep 2024
+TXN100054,2024-01-20,6200,HR,Ethiopian Management Institute,5602.63,ETB,Training & Development - Jan 2024
+TXN101668,2025-12-09,4000,Sales,Corporate Client,"766,206.64",ETB,Product Sales - Dec 2025
+TXN100855,2024-12-31,6900,Finance,Ethiopian Insurance Corp,30737.18,ETB,Insurance - Dec 2024
+TXN100310,2024-05-08,4200,SALES,Wholesale Customer,215.8,ETB,Subscription Revenue - May 2024
+TXN101168,2025-05-24,4200,Sales,Wholesale Customer,"16,328.12",ETB,Subscription Revenue - May 2025
+TXN100376,2024-06-02,4000,Sales,Government Contract,173052.97,ETB,Product Sales - Jun 2024
+TXN101721,16/12/2025,6600,IT,Microsoft,58587.73,ETB,Software & IT Services - Dec 2025
+TXN100725,2024-10-01,7000,Finance,Internal Payroll,113678.05,ETB,Depreciation - Oct 2024
+TXN100949,2025-02-09,4100,Operations,Wholesale Customer,"218,957.35",ETB,Service Revenue - Feb 2025
+TXN100701,2024-10-21,6000,HR,Internal Payroll,"86,997.95",ETB,Salaries & Wages - Oct 2024
+TXN100108,27/02/2024,5000,OPERATIONS,,101702.04,ETB,Materials - Feb 2024
+TXN100949,2025-02-09,4100,Operations,Wholesale Customer,"218,957.35",ETB,Service Revenue - Feb 2025
+TXN100066,2024-01-10,6700,Finance,KPMG Ethiopia,"50,232.81",ETB,Professional Fees - Jan 2024
+TXN100242,2024-04-12,4200,Sales,Government Contract,6241.02,ETB,Subscription Revenue - Apr 2024
+TXN101166,2025-05-11,4100,Operations,Government Contract,"138,080.98",ETB,Service Revenue - May 2025
+TXN100373,2024/06/15,4000,Sales,Wholesale Customer,645025.42,ETB,Product Sales - Jun 2024
+TXN101542,2025-10-23,5000,Operations,Rift Valley Inputs,274262.72,ETB,Materials - Oct 2025
+TXN100168,2024/03/31,4200,Sales,Government Contract,252979.79,ETB,Subscription Revenue - Mar 2024
+TXN100305,2024-05-07,4100,Operations,Corporate Client,22803.88,ETB,Service Revenue - May 2024
+TXN101558,2025-10-25,6000,IT,Internal Payroll,298477.3,ETB,Salaries & Wages - Oct 2025
+TXN100249,2024-04-10,5000,Operations,Awash Raw Materials,128635.0,ETB,Materials - Apr 2024
+TXN100409,2024-06-12,6000,HR,Internal Payroll,1441.61,ETB,Salaries & Wages - Jun 2024
+TXN101303,2025-07-03,4000,Sales,NGO Client,"337,070.49",ETB,Product Sales - Jul 2025
+TXN100623,2024-09-29,6000,Operations,Internal Payroll,89436.58,ETB,Salaries & Wages - Sep 2024
+TXN100009,2024-01-28,4000,Sales,NGO Client,20985.14,ETB,Product Sales - Jan 2024
+TXN100530,2024-08-12,4200,Sales,Corporate Client,47782.69,ETB,Subscription Revenue - Aug 2024
+TXN100232,07-Apr-2024,4100,Operations,Retail Customer,470685.62,ETB,Service Revenue - Apr 2024
+TXN100433,2024-06-24,6900,Finance,Ethiopian Insurance Corp,37128.01,ETB,Insurance - Jun 2024
+TXN101272,2025-06-08,6400,,Digital Reach Agency,"719,225.55",ETB,Marketing & Advertising - Jun 2025
+TXN100651,26/09/2024,7000,Finance,Internal Payroll,23720.7,ETB,Depreciation - Sep 2024
+TXN100298,2024-05-05,4000,Sales,Retail Customer,85728.23,ETB,Product Sales - May 2024
+TXN100791,2024/11/19,6900,Finance,Ethiopian Insurance Corp,2118.89,ETB,Insurance - Nov 2024
+TXN101013,13-Mar-2025,4000,Sales,Government Contract,274858.62,ETB,Product Sales - Mar 2025
+TXN100004,26/01/2024,4000,Sales,Wholesale Customer,432792.14,ETB,Product Sales - Jan 2024
+TXN101693,2025-12-06,5100,Operations,Internal Payroll,"621,840.51",ETB,Direct Labor - Dec 2025
+TXN100680,2024-10-03,4200,Sales,Wholesale Customer,105149.6,ETB,Subscription Revenue - Oct 2024
+TXN101005,02/03/2025,4000,Sales,Corporate Client,94286.21,ETB,Product Sales - Mar 2025
+TXN100641,2024/09/12,6500,Sales,Hilton Addis,49919.07,ETB,Travel & Entertainment - Sep 2024
+TXN100644,2024-09-11,6700,Finance,KPMG Ethiopia,34330.39,ETB,Professional Fees - Sep 2024
+TXN101628,25/11/2025,6000,Sales,Internal Payroll,294725.9,ETB,Salaries & Wages - Nov 2025
+TXN100899,2025-01-23,6000,Marketing,Internal Payroll,42482.92,ETB,Salaries & Wages - Jan 2025
+TXN101498,2025-09-23,6300,Operations,EEU Utilities,343462.63,ETB,Rent & Utilities - Sep 2025
+TXN100984,2025-02-14,6100,HR,Internal Payroll,1028.17,ETB,Employee Benefits - Feb 2025
+TXN101071,2025/03/05,6900,Finance,Ethiopian Insurance Corp,19117.75,ETB,Insurance - Mar 2025
+TXN100443,2024-07-11,4000,Sales,Wholesale Customer,313876.04,ETB,Product Sales - Jul 2024
+TXN100479,2024/07/16,6000,  IT ,Internal Payroll,179737.68,ETB,Salaries & Wages - Jul 2024
+TXN101477,2025-09-09,6000,Sales,Internal Payroll,260886.63,ETB,Salaries & Wages - Sep 2025
+TXN101251,2025-06-23,5200,Operations,,297437.67,ETB,Freight & Logistics - Jun 2025
+TXN100342,2024-05-14,6300,Operations,EEU Utilities,201447.23,ETB,Rent & Utilities - May 2024
+TXN101294,2025/07/23,4000,Sales,Corporate Client,293485.07,ETB,Product Sales - Jul 2025
+TXN101016,2025/03/07,4100,Operations,NGO Client,"304,797.24",ETB,Service Revenue - Mar 2025
+TXN101660,2025-12-27,4000,Sales,Government Contract,"256,751.17",ETB,Product Sales - Dec 2025
+TXN101717,2025-12-25,6500,Sales,Skylight Hotel,66785.65,ETB,Travel & Entertainment - Dec 2025
+TXN101396,06/08/2025,5100,Operations,Internal Payroll,234706.49,ETB,Direct Labor - Aug 2025
+TXN101562,2025-10-24,6000,Finance,Internal Payroll,158065.58,ETB,Salaries & Wages - Oct 2025
+TXN100816,2024-12-23,4200,Sales,Government Contract,"42,819.17",ETB,Subscription Revenue - Dec 2024
+TXN100886,2025-01-24,5000,Operations,Rift Valley Inputs,78775.25,ETB,Materials - Jan 2025
+TXN101164,2025-05-04,4100,Operations,Wholesale Customer,50912.44,ETB,Service Revenue - May 2025
+TXN900001,03/04/2025,6600,IT,AWS,0,ETB,Software & IT Services - Apr 2025
+TXN100864,2025-01-02,4000,Sales,Corporate Client,231423.46,ETB,Product Sales - Jan 2025
+TXN101576,20/10/2025,6600,IT,Ethio Telecom,18163.34,ETB,Software & IT Services - Oct 2025
+TXN100655,2024-10-21,4000,Sales,Retail Customer,300985.38,ETB,Product Sales - Oct 2024
+TXN100907,2025-01-06,6000,HR,Internal Payroll,"5,355.25",ETB,Salaries & Wages - Jan 2025
+TXN101689,2025-12-10,5000,Operations,Rift Valley Inputs,480504.29,ETB,Materials - Dec 2025
+TXN101389,2025/08/28,5000,Operations,Awash Raw Materials,"153,428.77",ETB,Materials - Aug 2025
+TXN100383,2024-06-16,4200,Sales,Retail Customer,15746.39,ETB,Subscription Revenue - Jun 2024
+TXN900004,2024/11/19,6900,Finance,Ethiopian Insurance Corp,0,ETB,Insurance - Nov 2024
+TXN101159,2025-05-17,4000,Sales,Corporate Client,"153,672.24",ETB,Product Sales - May 2025
+TXN100660,2024-10-24,4000,Sales,Retail Customer,702529.82,ETB,Product Sales - Oct 2024
+TXN100141,2024/02/09,6700,Finance,Tadesse & Partners Law,"86,414.10",ETB,Professional Fees - Feb 2024
+TXN100922,2025/01/22,6500,Marketing,Skylight Hotel,18538.08,ETB,Travel & Entertainment - Jan 2025
+TXN100772,2024-11-20,6000,HR,Internal Payroll,"48,474.78",ETB,Salaries & Wages - Nov 2024
+TXN101420,2025-08-08,6300,Operations,Bole Properties,98482.07,ETB,Rent & Utilities - Aug 2025
+TXN100401,2024-06-25,6000,  Sales ,Internal Payroll,"73,496.83",ETB,Salaries & Wages - Jun 2024
+TXN101133,2025-04-25,6300,Operations,Bole Properties,58247.89,ETB,Rent & Utilities - Apr 2025
+TXN101440,2025/09/28,4000,SALES,Wholesale Customer,442769.59,ETB,Product Sales - Sep 2025
+TXN100814,2024-12-06,4200,Sales,Corporate Client,12622.89,ETB,Subscription Revenue - Dec 2024
+TXN101242,2025-06-10,5000,Operations,Habesha Supplies,140393.08,ETB,Materials - Jun 2025
+TXN101649,2025-11-04,6600,IT,Ethio Telecom,188692.63,ETB,Software & IT Services - Nov 2025
+TXN100762,2024-11-15,5100,Operations,Internal Payroll,363195.67,ETB,Direct Labor - Nov 2024
+TXN100535,2024/08/06,5000,Operations,Habesha Supplies,405121.96,ETB,Materials - Aug 2024
+TXN101358,18-Jul-2025,6900,Finance,Ethiopian Insurance Corp,"8,293.04",ETB,Insurance - Jul 2025
+TXN101147,23/04/2025,7000,Finance,Internal Payroll,42179.35,ETB,Depreciation - Apr 2025
+TXN101637,2025-11-17,6000,Finance,Internal Payroll,"208,751.66",ETB,Salaries & Wages - Nov 2025
+TXN100001,2024-01-14,4000,Sales,Retail Customer,710493.47,ETB,Product Sales - Jan 2024
+TXN100665,2024-10-11,4000,Sales,Corporate Client,"959,603.11",ETB,Product Sales - Oct 2024
+TXN100983,2025-02-09,6100,HR,Internal Payroll,285286.03,ETB,Employee Benefits - Feb 2025
+TXN101048,2025-03-26,6000,Operations,Internal Payroll,67489.42,ETB,Salaries & Wages - Mar 2025
+TXN101323,2025-07-02,5000,Operations,Rift Valley Inputs,2470.01,ETB,Materials - Jul 2025
+TXN100116,2024-02-17,6000,Sales,Internal Payroll,34810.56,ETB,Salaries & Wages - Feb 2024
+TXN100953,2025-02-02,4200,Sales,Corporate Client,129326.65,ETB,Subscription Revenue - Feb 2025
+TXN100202,2024/03/09,6400,Marketing,Digital Reach Agency,73550.95,ETB,Marketing & Advertising - Mar 2024
+TXN100031,2024-01-09,5000,,Habesha Supplies,"329,831.07",ETB,Materials - Jan 2024
+TXN101648,16-Nov-2025,6600,IT,Microsoft,85166.13,ETB,Software & IT Services - Nov 2025
+TXN101264,2025/06/12,6000,Finance,Internal Payroll,126531.29,ETB,Salaries & Wages - Jun 2025
+TXN101616,2025-11-07,5000,Operations,Awash Raw Materials,"9,115.93",ETB,Materials - Nov 2025
+TXN101180,2025-05-25,5000,Operations,Habesha Supplies,503287.39,ETB,Materials - May 2025
+TXN101314,2025-07-03,4200,Sales,Retail Customer,33005.74,ETB,Subscription Revenue - Jul 2025
+TXN101142,2025-04-24,6600,IT,Microsoft,"139,693.20",ETB,Software & IT Services - Apr 2025
+TXN100302,2024-05-02,4000,Sales,Wholesale Customer,"307,379.51",ETB,Product Sales - May 2024
+TXN101287,2025/06/20,6900,Finance,Nyala Insurance,39723.93,ETB,Insurance - Jun 2025
+TXN101696,2025-12-06,5200,Operations,Djibouti Corridor Logistics,156238.3,ETB,Freight & Logistics - Dec 2025
+TXN100532,2024-08-23,4200,Sales,Wholesale Customer,41170.34,ETB,Subscription Revenue - Aug 2024
+TXN101520,2025-10-02,4000,Sales,Wholesale Customer,261306.03,ETB,Product Sales - Oct 2025
+TXN101319,2025-07-30,5000,Operations,Rift Valley Inputs,933764.09,ETB,Materials - Jul 2025
+TXN101146,21/04/2025,7000,Finance,Internal Payroll,79633.31,ETB,Depreciation - Apr 2025
+TXN101059,28-Mar-2025,6400,,Digital Reach Agency,108760.8,ETB,Marketing & Advertising - Mar 2025
+TXN100040,2024-01-15,6000,Sales,Internal Payroll,102447.47,ETB,Salaries & Wages - Jan 2024
+TXN101574,08/10/2025,6500,Marketing,Skylight Hotel,20538.58,ETB,Travel & Entertainment - Oct 2025
+TXN101428,2025-08-10,6600,IT,Safaricom Business,70541.33,ETB,Software & IT Services - Aug 2025
+TXN101212,2025-05-19,7000,Finance,Internal Payroll,66927.57,ETB,Depreciation - May 2025
+TXN100081,2024/02/18,4000,Sales,NGO Client,"247,613.60",ETB,Product Sales - Feb 2024
+TXN101667,2025-12-19,4000,Sales,Wholesale Customer,94858.72,ETB,Product Sales - Dec 2025
+TXN100102,2024-02-28,4200,Sales,NGO Client,124058.06,ETB,Subscription Revenue - Feb 2024
+TXN100825,2024/12/08,5000,Operations,Awash Raw Materials,111295.65,ETB,Materials - Dec 2024
+TXN100435,2024-06-27,7000,Finance,Internal Payroll,"120,601.20",ETB,Depreciation - Jun 2024
+TXN100903,2025-01-11,6000,Operations,Internal Payroll,74298.19,ETB,Salaries & Wages - Jan 2025
+TXN100573,2024/08/13,6800,Finance,Shoa Stationery,27360.23,ETB,Office Supplies - Aug 2024
+TXN101364,2025-08-01,4000,Sales,Retail Customer,110490.73,ETB,Product Sales - Aug 2025
+TXN101249,2025-06-08,5100,  Operations ,Internal Payroll,"66,682.81",ETB,Direct Labor - Jun 2025
+TXN101478,11/09/2025,6000,Sales,Internal Payroll,"114,712.60",ETB,Salaries & Wages - Sep 2025
+TXN100608,16-Sep-2024,5000,Operations,Habesha Supplies,17617.48,ETB,Materials - Sep 2024
+TXN101248,24/06/2025,5000,Operations,Habesha Supplies,94293.96,ETB,Materials - Jun 2025
+TXN100808,2024/12/29,4100,Operations,Corporate Client,15891.51,ETB,Service Revenue - Dec 2024
+TXN100705,2024-10-11,6100,HR,Internal Payroll,"56,462.84",ETB,Employee Benefits - Oct 2024
+TXN100980,2025-02-25,6000,Finance,Internal Payroll,8304.45,ETB,Salaries & Wages - Feb 2025
+TXN100387,12/06/2024,4200,Sales,Government Contract,12899.23,ETB,Subscription Revenue - Jun 2024
+TXN100336,2024-05-25,6000,HR,Internal Payroll,40324.88,ETB,Salaries & Wages - May 2024
+TXN101224,2025-06-21,4000,Sales,Retail Customer,"1,692,364.71",ETB,Product Sales - Jun 2025
+TXN100349,2024/05/31,6500,Marketing,Ethiopian Airlines,19071.54,ETB,Travel & Entertainment - May 2024
+TXN101592,2025-11-14,4000,Sales,NGO Client,302816.33,ETB,Product Sales - Nov 2025
+TXN101466,2025-09-15,5000,Operations,Awash Raw Materials,"817,100.20",ETB,Materials - Sep 2025
+TXN101331,2025/07/26,6000,Sales,,"377,543.40",ETB,Salaries & Wages - Jul 2025
+TXN100284,03/04/2024,6700,Finance,KPMG Ethiopia,120442.61,ETB,Professional Fees - Apr 2024
+TXN100304,2024-05-16,4100,Operations,Government Contract,"362,452.50",ETB,Service Revenue - May 2024
+TXN101642,2025-11-06,6400,Marketing,Addis Media Group,72773.66,ETB,Marketing & Advertising - Nov 2025
+TXN100463,13-Jul-2024,4200,Sales,NGO Client,41143.47,ETB,Subscription Revenue - Jul 2024
+TXN100041,16/01/2024,6000,Sales,Internal Payroll,248061.28,ETB,Salaries & Wages - Jan 2024
+TXN101675,2025-12-08,4100,OPERATIONS,Corporate Client,438604.28,ETB,Service Revenue - Dec 2025
+TXN100059,2024-01-11,6500,Sales,Ethiopian Airlines,79385.76,ETB,Travel & Entertainment - Jan 2024
+TXN101518,13-Oct-2025,4000,Sales,NGO Client,82829.44,ETB,Product Sales - Oct 2025
+TXN100256,2024-04-04,6000,Sales,Internal Payroll,406042.3,ETB,Salaries & Wages - Apr 2024
+TXN100447,2024-07-26,4000,Sales,Wholesale Customer,340732.72,ETB,Product Sales - Jul 2024
+TXN100407,10-Jun-2024,6000,IT,Internal Payroll,269027.94,ETB,Salaries & Wages - Jun 2024
+TXN100369,2024-06-06,4000,Sales,Retail Customer,"66,831.40",ETB,Product Sales - Jun 2024
+TXN100548,2024-08-01,6000,Operations,Internal Payroll,124059.28,ETB,Salaries & Wages - Aug 2024
+TXN100594,2024-09-11,4100,Operations,Retail Customer,139086.65,ETB,Service Revenue - Sep 2024
+TXN101458,2025-09-30,4200,Sales,Government Contract,51341.06,ETB,Subscription Revenue - Sep 2025
+TXN101711,2025-12-21,6100,HR,Internal Payroll,150251.07,ETB,Employee Benefits - Dec 2025
+TXN101093,2025-04-11,4200,Sales,Wholesale Customer,"103,538.22",ETB,Subscription Revenue - Apr 2025
+TXN100120,2024-02-15,6000,IT,Internal Payroll,148493.98,ETB,Salaries & Wages - Feb 2024
+TXN100425,2024-06-20,6500,Marketing,Ethiopian Airlines,15955.09,ETB,Travel & Entertainment - Jun 2024
+TXN101467,2025-09-30,5000,Operations,Awash Raw Materials,124729.6,ETB,Materials - Sep 2025
+TXN100765,24-Nov-2024,6000,Sales,Internal Payroll,384887.82,ETB,Salaries & Wages - Nov 2024
+TXN100404,12/06/2024,6000,Marketing,Internal Payroll,17459.79,ETB,Salaries & Wages - Jun 2024
+TXN101158,2025-05-15,4000,Sales,Wholesale Customer,"560,178.92",ETB,Product Sales - May 2025
+TXN101438,2025-09-25,4000,Sales,Government Contract,37703.6,ETB,Product Sales - Sep 2025
+TXN100170,2024-03-01,4200,Sales,Wholesale Customer,86128.4,ETB,Subscription Revenue - Mar 2024
+TXN100556,2024-08-13,6000,Finance,Internal Payroll,61506.76,ETB,Salaries & Wages - Aug 2024
+TXN101727,08/12/2025,7000,Finance,,94606.2,ETB,Depreciation - Dec 2025
+TXN101154,2025/05/24,4000,Sales,NGO Client,178811.58,ETB,Product Sales - May 2025
+TXN100943,2025-02-18,4000,Sales,Corporate Client,"288,659.77",ETB,Product Sales - Feb 2025
+TXN100271,2024-04-23,6200,HR,Ethiopian Management Institute,31487.28,ETB,Training & Development - Apr 2024
+TXN101672,13/12/2025,4100,Operations,Wholesale Customer,346504.09,ETB,Service Revenue - Dec 2025
+TXN100721,2024-10-25,6800,finance,Shoa Stationery,"1,116.81",ETB,Office Supplies - Oct 2024
+TXN101540,2025-10-02,4200,Sales,Government Contract,"16,068.63",ETB,Subscription Revenue - Oct 2025
+TXN101120,15/04/2025,6000,  IT ,Internal Payroll,108333.11,ETB,Salaries & Wages - Apr 2025
+TXN101200,2025-05-28,6400,Marketing,Google Ads,639523.3,ETB,Marketing & Advertising - May 2025
+TXN101060,2025-03-06,6500,Sales,Skylight Hotel,16338.17,ETB,Travel & Entertainment - Mar 2025
+TXN101476,2025/09/15,5200,Operations,Djibouti Corridor Logistics,"299,676.49",ETB,Freight & Logistics - Sep 2025
+TXN100672,07/10/2024,4100,Operations,Corporate Client,112938.71,ETB,Service Revenue - Oct 2024
+TXN100778,2024-11-07,6100,HR,Internal Payroll,"298,916.84",ETB,Employee Benefits - Nov 2024
+TXN100209,2024-03-08,6600,IT,AWS,11563.55,ETB,Software & IT Services - Mar 2024
+TXN100289,30-Apr-2024,7000,Finance,Internal Payroll,120360.36,ETB,Depreciation - Apr 2024
+TXN100105,22/02/2024,5000,Operations,Habesha Supplies,"6,240.10",ETB,Materials - Feb 2024
+TXN100237,2024-04-27,4200,Sales,Wholesale Customer,215592.26,ETB,Subscription Revenue - Apr 2024
+TXN100973,2025/02/16,6000,Marketing,Internal Payroll,34865.7,ETB,Salaries & Wages - Feb 2025
+TXN101379,2025-08-25,4100,Operations,NGO Client,314066.71,ETB,Service Revenue - Aug 2025
+TXN100023,22-Jan-2024,4200,Sales,Wholesale Customer,47107.19,ETB,Subscription Revenue - Jan 2024
+TXN100205,2024-03-29,6500,Sales,Ethiopian Airlines,31572.92,ETB,Travel & Entertainment - Mar 2024
+TXN100704,2024-10-23,6100,HR,Internal Payroll,222078.1,ETB,Employee Benefits - Oct 2024
+TXN100656,2024-10-23,4000,Sales,Retail Customer,92197.0,ETB,Product Sales - Oct 2024
+TXN101601,2025/11/29,4100,Operations,Wholesale Customer,"520,145.40",ETB,Service Revenue - Nov 2025
+TXN100900,2025/01/16,6000,Marketing,Internal Payroll,67375.4,ETB,Salaries & Wages - Jan 2025
+TXN100529,2024-08-25,4200,Sales,NGO Client,"78,244.09",ETB,Subscription Revenue - Aug 2024
+TXN101380,2025-08-19,4200,Sales,Retail Customer,48984.45,ETB,Subscription Revenue - Aug 2025
+TXN101462,06-Sep-2025,4200,Sales,Retail Customer,"274,905.22",ETB,Subscription Revenue - Sep 2025
+TXN100620,06-Sep-2024,6000,Sales,Internal Payroll,211623.46,ETB,Salaries & Wages - Sep 2024
+TXN100397,2024/06/27,5000,Operations,Rift Valley Inputs,37962.8,ETB,Materials - Jun 2024
+TXN100511,17/08/2024,4000,Sales,Wholesale Customer,55948.68,ETB,Product Sales - Aug 2024
+TXN101226,2025-06-10,4000,SALES,Wholesale Customer,453996.28,ETB,Product Sales - Jun 2025
+TXN100020,2024-01-20,4100,Operations,NGO Client,159543.36,ETB,Service Revenue - Jan 2024
+TXN100599,08/09/2024,4100,Operations,Government Contract,11744.55,ETB,Service Revenue - Sep 2024
+TXN101683,2025/12/05,4200,Sales,NGO Client,133904.99,ETB,Subscription Revenue - Dec 2025
+TXN100969,09-Feb-2025,6000,Sales,,173890.34,ETB,Salaries & Wages - Feb 2025
+TXN100082,2024/02/26,4000,Sales,Retail Customer,511275.28,ETB,Product Sales - Feb 2024
+TXN100621,2024-09-26,6000,Sales,Internal Payroll,208335.52,ETB,Salaries & Wages - Sep 2024
+TXN100052,2024-01-17,6000,Finance,Internal Payroll,191650.81,ETB,Salaries & Wages - Jan 2024
+TXN100260,2024-04-04,6000,Operations,Internal Payroll,111304.05,ETB,Salaries & Wages - Apr 2024
+TXN100419,2024-06-22,6400,Marketing,Meta Ads,249232.46,ETB,Marketing & Advertising - Jun 2024
+TXN100726,2024/10/28,7000,Finance,Internal Payroll,"7,406.28",ETB,Depreciation - Oct 2024
+TXN100859,2025/01/15,4000,Sales,Government Contract,920583.29,ETB,Product Sales - Jan 2025
+TXN101500,2025-09-14,6500,Sales,Hilton Addis,"107,477.85",ETB,Travel & Entertainment - Sep 2025
+TXN101547,2025-10-28,5000,Operations,Rift Valley Inputs,574255.14,ETB,Materials - Oct 2025
+TXN101110,2025-04-25,5100,Operations,Internal Payroll,346025.54,ETB,Direct Labor - Apr 2025
+TXN101489,2025-09-05,6000,HR,Internal Payroll,"74,154.00",ETB,Salaries & Wages - Sep 2025
+TXN101410,2025/08/13,6000,IT,Internal Payroll,40232.68,ETB,Salaries & Wages - Aug 2025
+TXN100448,26/07/2024,4000,Sales,Wholesale Customer,358257.66,ETB,Product Sales - Jul 2024
+TXN100050,15-Jan-2024,6000,HR,Internal Payroll,10966.78,ETB,Salaries & Wages - Jan 2024
+TXN100095,2024-02-12,4200,Sales,Retail Customer,53551.25,ETB,Subscription Revenue - Feb 2024
+TXN101643,2025-11-27,6400,Marketing,Digital Reach Agency,243484.71,ETB,Marketing & Advertising - Nov 2025
+TXN100481,14/07/2024,6000,HR,Internal Payroll,142547.84,ETB,Salaries & Wages - Jul 2024
+TXN100300,2024-05-23,4000,Sales,Retail Customer,69864.88,ETB,Product Sales - May 2024
+TXN101131,07-Apr-2025,6300,Operations,EEU Utilities,44182.59,ETB,Rent & Utilities - Apr 2025
+TXN101118,18/04/2025,6000,Operations,Internal Payroll,405155.87,ETB,Salaries & Wages - Apr 2025
+TXN101588,2025-11-19,4000,Sales,NGO Client,94558.81,ETB,Product Sales - Nov 2025
+TXN100702,2024/10/30,6000,Finance,Internal Payroll,50604.16,ETB,Salaries & Wages - Oct 2024
+TXN101021,2025-03-25,4100,  Operations ,NGO Client,416135.96,ETB,Service Revenue - Mar 2025
+TXN101483,09-Sep-2025,6000,  Operations ,Internal Payroll,54287.71,ETB,Salaries & Wages - Sep 2025
+TXN101636,2025-11-28,6000,HR,Internal Payroll,"155,947.46",ETB,Salaries & Wages - Nov 2025
+TXN101069,2025-03-26,6800,Finance,Shoa Stationery,3616.34,ETB,Office Supplies - Mar 2025
+TXN100562,2024-08-16,6300,OPERATIONS,Bole Properties,"74,975.84",ETB,Rent & Utilities - Aug 2024
+TXN101535,03/10/2025,4200,Sales,NGO Client,34247.31,ETB,Subscription Revenue - Oct 2025
+TXN100960,2025-02-22,5000,  Operations ,Habesha Supplies,50443.37,ETB,Materials - Feb 2025
+TXN100817,2024-12-17,4200,Sales,Wholesale Customer,16935.49,ETB,Subscription Revenue - Dec 2024
+TXN100861,2025-01-04,4000,SALES,Corporate Client,247895.8,ETB,Product Sales - Jan 2025
+TXN101354,01-Jul-2025,6700,Finance,KPMG Ethiopia,64151.64,ETB,Professional Fees - Jul 2025
+TXN101463,17/09/2025,4200,Sales,Corporate Client,166288.36,ETB,Subscription Revenue - Sep 2025
+TXN100888,2025-01-10,5000,Operations,Awash Raw Materials,426381.71,ETB,Materials - Jan 2025
+TXN100805,2024-12-18,4000,,Government Contract,242050.83,ETB,Product Sales - Dec 2024
+TXN101263,27/06/2025,6000,HR,,15904.91,ETB,Salaries & Wages - Jun 2025
+TXN101666,2025-12-06,4000,Sales,Wholesale Customer,"13,963.65",ETB,Product Sales - Dec 2025
+TXN101148,2025/05/17,4000,Sales,Retail Customer,650452.55,ETB,Product Sales - May 2025
+TXN101136,2025-04-27,6500,Sales,Ethiopian Airlines,359.67,ETB,Travel & Entertainment - Apr 2025
+TXN101712,2025/12/19,6200,HR,Coursera Business,68223.86,ETB,Training & Development - Dec 2025
+TXN100229,16-Apr-2024,4000,Sales,Government Contract,"296,016.92",ETB,Product Sales - Apr 2024
+TXN100708,2024-10-07,6300,Operations,,29012.55,ETB,Rent & Utilities - Oct 2024
+TXN100826,22/12/2024,5000,Operations,Habesha Supplies,443977.28,ETB,Materials - Dec 2024
+TXN101472,18-Sep-2025,5100,Operations,Internal Payroll,"41,039.73",ETB,Direct Labor - Sep 2025
+TXN101602,2025-11-26,4100,Operations,Wholesale Customer,357509.67,ETB,Service Revenue - Nov 2025
+TXN100913,16/01/2025,6100,HR,Internal Payroll,146770.98,ETB,Employee Benefits - Jan 2025
+TXN100287,2024-04-27,6900,Finance,Nyala Insurance,27593.37,ETB,Insurance - Apr 2024
+TXN101066,2025-03-11,6700,FINANCE,KPMG Ethiopia,71647.5,ETB,Professional Fees - Mar 2025
+TXN101636,2025-11-28,6000,HR,Internal Payroll,"155,947.46",ETB,Salaries & Wages - Nov 2025
+TXN101095,2025-04-07,4200,Sales,Wholesale Customer,3370.88,ETB,Subscription Revenue - Apr 2025
+TXN101646,2025-11-29,6500,Marketing,Ethiopian Airlines,24462.4,ETB,Travel & Entertainment - Nov 2025
+TXN100536,2024-08-23,5000,Operations,Rift Valley Inputs,551487.05,ETB,Materials - Aug 2024
+TXN100775,13/11/2024,6000,  Finance ,Internal Payroll,"73,659.27",ETB,Salaries & Wages - Nov 2024
+TXN100136,2024-02-13,6500,Sales,Skylight Hotel,113153.04,ETB,Travel & Entertainment - Feb 2024
+TXN100684,2024-10-09,5000,Operations,Habesha Supplies,134453.4,ETB,Materials - Oct 2024
+TXN101075,13-Apr-2025,4000,Sales,Corporate Client,"41,000.54",ETB,Product Sales - Apr 2025
+TXN101474,2025-09-17,5100,Operations,Internal Payroll,719768.87,ETB,Direct Labor - Sep 2025
+TXN100212,2024-03-27,6800,Finance,Office Mart,2226.01,ETB,Office Supplies - Mar 2024
+TXN101046,2025-03-14,6000,Operations,Internal Payroll,114071.34,ETB,Salaries & Wages - Mar 2025
+TXN101302,18-Jul-2025,4000,Sales,Retail Customer,"128,900.30",ETB,Product Sales - Jul 2025
+TXN100758,2024-11-04,5000,Operations,Awash Raw Materials,218641.55,ETB,Materials - Nov 2024
+TXN100089,13/02/2024,4100,Operations,Retail Customer,34741.44,ETB,Service Revenue - Feb 2024
+TXN100615,2024-09-18,5100,Operations,Internal Payroll,62990.81,ETB,Direct Labor - Sep 2024
+TXN100698,2024-10-02,6000,IT,Internal Payroll,"39,909.22",ETB,Salaries & Wages - Oct 2024
+TXN100299,30-May-2024,4000,Sales,Corporate Client,189035.89,ETB,Product Sales - May 2024
+TXN100917,2025-01-23,6400,Marketing,Addis Media Group,369176.84,ETB,Marketing & Advertising - Jan 2025
+TXN101072,26/03/2025,7000,Finance,Internal Payroll,121690.96,ETB,Depreciation - Mar 2025
+TXN101273,2025-06-05,6500,,Hilton Addis,62373.49,ETB,Travel & Entertainment - Jun 2025
+TXN101719,2025/12/18,6500,Marketing,Hilton Addis,51571.31,ETB,Travel & Entertainment - Dec 2025
+TXN101235,06/06/2025,4200,Sales,Retail Customer,41827.71,ETB,Subscription Revenue - Jun 2025
+TXN100790,14-Nov-2024,6900,  Finance ,Ethiopian Insurance Corp,"59,894.59",ETB,Insurance - Nov 2024
+TXN100354,2024-05-06,6700,Finance,Abebe Audit Services,60787.13,ETB,Professional Fees - May 2024
+TXN100821,2024-12-31,4200,Sales,Retail Customer,"87,700.12",ETB,Subscription Revenue - Dec 2024
+TST0003,2024-10-08,6700,Finance,KPMG Ethiopia,"232,333.59",ETB,TEST POSTING - DO NOT USE
+TXN100800,2024-12-27,4000,Sales,Government Contract,"530,351.03",ETB,Product Sales - Dec 2024
+TXN101705,2025-12-04,6000,IT,Internal Payroll,202999.8,ETB,Salaries & Wages - Dec 2025
+TXN101157,2025-05-18,4000,Sales,Corporate Client,253953.14,ETB,Product Sales - May 2025
+TXN100046,2024-01-09,6000,IT,Internal Payroll,129321.1,ETB,Salaries & Wages - Jan 2024
+TXN101400,2025-08-05,5200,Operations,Ethio Freight,"338,377.26",ETB,Freight & Logistics - Aug 2025
+TXN100834,2024/12/05,6000,IT,Internal Payroll,274127.1,ETB,Salaries & Wages - Dec 2024
+TXN100415,2024-06-28,6200,HR,Ethiopian Management Institute,86124.83,ETB,Training & Development - Jun 2024
+TXN101197,2025-05-10,6200,HR,Coursera Business,44696.33,ETB,Training & Development - May 2025
+TXN101634,2025-11-26,6000,IT,Internal Payroll,"105,845.40",ETB,Salaries & Wages - Nov 2025
+TXN100703,2024/10/29,6000,Finance,Internal Payroll,149153.53,ETB,Salaries & Wages - Oct 2024
+TXN100193,06/03/2024,6000,Finance,Internal Payroll,"25,777.41",ETB,Salaries & Wages - Mar 2024
+TXN100017,2024-01-18,4100,Operations,NGO Client,110402.74,ETB,Service Revenue - Jan 2024
+TXN101546,2025-10-28,5000,Operations,,215323.54,ETB,Materials - Oct 2025
+TXN100487,2024-07-16,6300,  Operations ,EEU Utilities,"314,439.44",ETB,Rent & Utilities - Jul 2024
+TXN100869,2025-01-30,4000,Sales,Wholesale Customer,51655.24,ETB,Product Sales - Jan 2025
+TXN100714,2024-10-26,6500,Marketing,Ethiopian Airlines,575.21,ETB,Travel & Entertainment - Oct 2024
+TXN100613,2024/09/16,5000,Operations,Habesha Supplies,"21,686.53",ETB,Materials - Sep 2024
+TXN101454,2025/09/28,4100,,Government Contract,141664.61,ETB,Service Revenue - Sep 2025
+TXN100111,2024-02-22,5200,Operations,Ethio Freight,182134.84,ETB,Freight & Logistics - Feb 2024
+TXN101011,2025-03-02,4000,Sales,Government Contract,389843.76,ETB,Product Sales - Mar 2025
+TXN100564,2024-08-20,6400,Marketing,Addis Media Group,154871.69,ETB,Marketing & Advertising - Aug 2024
+TXN100645,2024-09-19,6700,,KPMG Ethiopia,16669.61,ETB,Professional Fees - Sep 2024
+TXN101145,2025-04-28,6900,Finance,Ethiopian Insurance Corp,"61,747.12",ETB,Insurance - Apr 2025
+TXN100088,2024-02-05,4000,Sales,Corporate Client,553403.94,ETB,Product Sales - Feb 2024
+TXN100811,29-Dec-2024,4100,Operations,Wholesale Customer,319462.75,ETB,Service Revenue - Dec 2024
+TXN100573,2024/08/13,6800,Finance,Shoa Stationery,27360.23,ETB,Office Supplies - Aug 2024
+TXN100322,2024-05-18,5000,Operations,Awash Raw Materials,"19,582.80",ETB,Materials - May 2024
+TXN101163,2025-05-19,4100,Operations,NGO Client,364352.91,ETB,Service Revenue - May 2025
+TXN100063,2024-01-15,6600,IT,Ethio Telecom,66399.81,ETB,Software & IT Services - Jan 2024
+TXN100147,2024-03-05,4000,Sales,Corporate Client,325509.96,ETB,Product Sales - Mar 2024
+TXN100706,2024/10/25,6100,HR,Internal Payroll,26479.66,ETB,Employee Benefits - Oct 2024
+TXN100526,2024-08-18,4200,Sales,Wholesale Customer,"177,130.30",ETB,Subscription Revenue - Aug 2024
+TXN101553,17-Oct-2025,6000,Sales,Internal Payroll,126119.46,ETB,Salaries & Wages - Oct 2025
+TXN101359,2025-07-15,7000,Finance,Internal Payroll,"122,178.46",ETB,Depreciation - Jul 2025
+TXN900006,2024-03-05,5000,Operations,Rift Valley Inputs,0,ETB,Materials - Mar 2024
+TXN101014,2025-03-21,4000,Sales,NGO Client,2105504.37,ETB,Product Sales - Mar 2025
+TXN101098,2025/04/22,4200,Sales,Corporate Client,"296,775.66",ETB,Subscription Revenue - Apr 2025
+TXN100057,11-Jan-2024,6300,Operations,EEU Utilities,"335,280.89",ETB,Rent & Utilities - Jan 2024
+TXN100143,2024-02-03,6900,Finance,Ethiopian Insurance Corp,59434.23,ETB,Insurance - Feb 2024
+TXN101575,2025-10-29,6600,IT,Safaricom Business,"234,734.54",ETB,Software & IT Services - Oct 2025
+TXN100572,2024-08-17,6800,Finance,Office Mart,3192.31,ETB,Office Supplies - Aug 2024
+TXN101500,2025-09-14,6500,Sales,Hilton Addis,"107,477.85",ETB,Travel & Entertainment - Sep 2025
+TXN100792,2024/11/06,7000,Finance,Internal Payroll,23902.06,ETB,Depreciation - Nov 2024
+TXN101079,2025-04-01,4000,Sales,Retail Customer,779578.74,ETB,Product Sales - Apr 2025
+TXN101028,2025-03-23,4200,Sales,Government Contract,7141.97,ETB,Subscription Revenue - Mar 2025
+TXN101129,2025-04-10,6200,  HR ,Ethiopian Management Institute,"32,462.10",ETB,Training & Development - Apr 2025
+TXN100593,2024-09-05,4000,Sales,Corporate Client,98589.0,ETB,Product Sales - Sep 2024
+TXN100326,2024/05/10,5200,Operations,Ethio Freight,255471.46,ETB,Freight & Logistics - May 2024
+TXN100199,22/03/2024,6300,Operations,Bole Properties,"90,725.01",ETB,Rent & Utilities - Mar 2024
+TXN100576,2024-08-17,6900,Finance,Nyala Insurance,42557.82,ETB,Insurance - Aug 2024
+TXN100970,24-Feb-2025,6000,Sales,Internal Payroll,240812.3,ETB,Salaries & Wages - Feb 2025
+TXN100461,2024-07-30,4200,Sales,Retail Customer,186087.44,ETB,Subscription Revenue - Jul 2024
+TXN100160,05/03/2024,4100,Operations,Corporate Client,"30,542.31",ETB,Service Revenue - Mar 2024
+TXN100852,2024-12-23,6800,Finance,Office Mart,6581.65,ETB,Office Supplies - Dec 2024
+TXN101209,2025/05/04,6900,Finance,Ethiopian Insurance Corp,27531.28,ETB,Insurance - May 2025
+TXN101353,2025/07/18,6600,IT,Microsoft,244164.37,ETB,Software & IT Services - Jul 2025
+TXN101437,2025-09-24,4000,,Corporate Client,1890.17,ETB,Product Sales - Sep 2025
+TXN100084,2024-02-09,4000,Sales,Corporate Client,"150,197.16",ETB,Product Sales - Feb 2024
+TXN100921,11-Jan-2025,6500,Marketing,Skylight Hotel,32646.26,ETB,Travel & Entertainment - Jan 2025
+TXN101421,2025-08-09,6400,Marketing,Google Ads,"75,317.23",ETB,Marketing & Advertising - Aug 2025
+TXN101697,2025-12-06,5200,Operations,Ethio Freight,185103.63,ETB,Freight & Logistics - Dec 2025
+TXN100840,2024-12-26,6400,Marketing,Addis Media Group,35875.58,ETB,Marketing & Advertising - Dec 2024
+TXN100428,2024-06-13,6700,Finance,Tadesse & Partners Law,31348.86,ETB,Professional Fees - Jun 2024
+TXN100290,09-May-2024,4000,Sales,NGO Client,463497.74,ETB,Product Sales - May 2024
+TXN100578,2024/08/06,7000,Finance,Internal Payroll,112478.46,ETB,Depreciation - Aug 2024
+TXN100614,2024-09-28,5000,Operations,Habesha Supplies,"702,088.81",ETB,Materials - Sep 2024
+TXN101231,2025-06-15,4100,Operations,Retail Customer,148025.28,ETB,Service Revenue - Jun 2025
+TXN100402,2024-06-14,6000,Sales,Internal Payroll,360514.02,ETB,Salaries & Wages - Jun 2024
+TXN100155,2024-03-23,4000,Sales,Wholesale Customer,"280,594.12",ETB,Product Sales - Mar 2024
+TXN101569,2025-10-20,6400,Marketing,Digital Reach Agency,"447,796.44",ETB,Marketing & Advertising - Oct 2025
+TXN101228,2025-06-30,4100,Operations,Retail Customer,44385.96,ETB,Service Revenue - Jun 2025
+TXN101368,2025/08/31,4000,Sales,Retail Customer,28290.14,ETB,Product Sales - Aug 2025
+TXN100853,16-Dec-2024,6900,Finance,Ethiopian Insurance Corp,6516.66,ETB,Insurance - Dec 2024
+TXN100537,2024-08-13,5000,Operations,Rift Valley Inputs,273016.41,ETB,Materials - Aug 2024
+TXN101645,2025-11-04,6500,Sales,Skylight Hotel,108698.54,ETB,Travel & Entertainment - Nov 2025
+TXN101661,2025-12-08,4000,Sales,Wholesale Customer,"1,329,563.80",ETB,Product Sales - Dec 2025
+TXN100813,2024-12-18,4100,Operations,NGO Client,"3,698.89",ETB,Service Revenue - Dec 2024
+TXN101153,2025-05-10,4000,Sales,Wholesale Customer,303560.02,ETB,Product Sales - May 2025
+TXN100547,2024-08-27,6000,Marketing,Internal Payroll,231635.17,ETB,Salaries & Wages - Aug 2024
+TXN100315,2024-05-24,4200,Sales,Wholesale Customer,"227,141.32",ETB,Subscription Revenue - May 2024
+TXN101564,2025-10-09,6100,HR,Internal Payroll,171866.45,ETB,Employee Benefits - Oct 2025
+TXN100737,11/11/2024,4000,Sales,Retail Customer,21129.54,ETB,Product Sales - Nov 2024
+TXN100427,2024-06-17,6700,Finance,Tadesse & Partners Law,3007.75,ETB,Professional Fees - Jun 2024
+TXN101280,23-Jun-2025,6700,Finance,Abebe Audit Services,35099.27,ETB,Professional Fees - Jun 2025
+TXN100873,2025-01-17,4100,Operations,NGO Client,79096.26,ETB,Service Revenue - Jan 2025
+TXN101521,2025-10-07,4000,Sales,Corporate Client,150735.6,ETB,Product Sales - Oct 2025
+TXN101330,29-Jul-2025,6000,Sales,Internal Payroll,65139.93,ETB,Salaries & Wages - Jul 2025
+TXN100491,2024-07-13,6500,Sales,Hilton Addis,56425.42,ETB,Travel & Entertainment - Jul 2024
+TXN100522,18-Aug-2024,4100,Operations,Corporate Client,206706.12,ETB,Service Revenue - Aug 2024
+TXN101186,2025-05-24,6000,Marketing,Internal Payroll,98903.08,ETB,Salaries & Wages - May 2025
+TXN100492,2024-07-06,6500,Marketing,Hilton Addis,10249.78,ETB,Travel & Entertainment - Jul 2024
+TXN100423,14/06/2024,6500,Marketing,Skylight Hotel,28966.34,ETB,Travel & Entertainment - Jun 2024
+TXN101261,2025/06/18,6000,HR,Internal Payroll,127577.27,ETB,Salaries & Wages - Jun 2025
+TXN100597,2024-09-05,4100,Operations,Government Contract,294668.34,ETB,Service Revenue - Sep 2024
+TXN100444,27/07/2024,4000,Sales,Government Contract,80386.23,ETB,Product Sales - Jul 2024
+TXN101453,13/09/2025,4100,Operations,Corporate Client,452606.24,ETB,Service Revenue - Sep 2025
+TXN101686,2025/12/21,5000,Operations,Rift Valley Inputs,"509,534.28",ETB,Materials - Dec 2025
+TXN100978,2025-02-01,6000,HR,Internal Payroll,144082.23,ETB,Salaries & Wages - Feb 2025
+TXN101698,2025-12-01,5200,,Djibouti Corridor Logistics,"40,980.52",ETB,Freight & Logistics - Dec 2025
+TXN101243,2025-06-25,5000,Operations,Habesha Supplies,"278,643.23",ETB,Materials - Jun 2025
+TXN100827,2024-12-31,5000,Operations,Habesha Supplies,565075.98,ETB,Materials - Dec 2024
+TXN100993,2025-02-10,6600,IT,AWS,"18,527.92",ETB,Software & IT Services - Feb 2025
+TXN101644,07-Nov-2025,6400,Marketing,Meta Ads,34543.88,ETB,Marketing & Advertising - Nov 2025
+TXN100410,15/06/2024,6000,HR,Internal Payroll,115018.09,ETB,Salaries & Wages - Jun 2024
+TXN100013,2024-01-02,4000,Sales,Government Contract,366927.15,ETB,Product Sales - Jan 2024
+TXN101332,08-Jul-2025,6000,marketing,Internal Payroll,145579.72,ETB,Salaries & Wages - Jul 2025
+TXN100405,2024-06-12,6000,Operations,Internal Payroll,317590.87,ETB,Salaries & Wages - Jun 2024
+TXN100650,2024/09/14,6900,Finance,Ethiopian Insurance Corp,58592.91,ETB,Insurance - Sep 2024
+TXN100074,2024-01-08,7000,Finance,Internal Payroll,"91,698.01",ETB,Depreciation - Jan 2024
+TXN100196,2024-03-20,6100,HR,Internal Payroll,59831.74,ETB,Employee Benefits - Mar 2024
+TXN100400,27/06/2024,5200,Operations,Ethio Freight,237724.59,ETB,Freight & Logistics - Jun 2024
+TXN100309,2024-05-01,4100,Operations,Wholesale Customer,576812.38,ETB,Service Revenue - May 2024
+TXN100590,2024/09/28,4000,Sales,Corporate Client,155295.87,ETB,Product Sales - Sep 2024
+TXN101371,2025-08-02,4000,Sales,Wholesale Customer,716384.03,ETB,Product Sales - Aug 2025
+TXN101609,2025-11-15,4200,  Sales ,Retail Customer,475172.34,ETB,Subscription Revenue - Nov 2025
+TXN100871,26/01/2025,4100,Operations,Retail Customer,108062.47,ETB,Service Revenue - Jan 2025
+TXN101485,2025-09-10,6000,  IT ,Internal Payroll,81279.68,ETB,Salaries & Wages - Sep 2025
+TXN100216,2024/03/16,7000,Finance,Internal Payroll,"12,744.02",ETB,Depreciation - Mar 2024
+TXN100802,2024-12-22,4000,Sales,Wholesale Customer,656686.99,ETB,Product Sales - Dec 2024
+TXN100164,2024-03-12,4100,Operations,NGO Client,"54,863.76",ETB,Service Revenue - Mar 2024
+TXN100901,2025-01-02,6000,Marketing,Internal Payroll,121433.49,ETB,Salaries & Wages - Jan 2025
+TXN100862,2025-01-02,4000,Sales,Government Contract,321317.9,ETB,Product Sales - Jan 2025
+TXN100560,2024-08-03,6300,Operations,Bole Properties,"58,695.19",ETB,Rent & Utilities - Aug 2024
+TXN100860,2025-01-21,4000,Sales,Wholesale Customer,634561.23,ETB,Product Sales - Jan 2025
+TXN100539,2024-08-18,5000,  Operations ,Rift Valley Inputs,340830.77,ETB,Materials - Aug 2024
+TXN100633,2024-09-24,6200,HR,Ethiopian Management Institute,37547.84,ETB,Training & Development - Sep 2024
+TXN101267,2025-06-08,6200,HR,Ethiopian Management Institute,"27,834.09",ETB,Training & Development - Jun 2025
+TXN101087,2025-04-11,4100,Operations,Corporate Client,104927.7,ETB,Service Revenue - Apr 2025
+TXN100281,2024-04-05,6500,Marketing,Ethiopian Airlines,17928.77,ETB,Travel & Entertainment - Apr 2024
+TXN101725,2025-12-04,6900,Finance,Ethiopian Insurance Corp,50802.52,ETB,Insurance - Dec 2025
+TXN100497,2024-07-15,6700,Finance,Tadesse & Partners Law,49618.3,ETB,Professional Fees - Jul 2024
+TXN100312,29/05/2024,4200,Sales,Government Contract,87064.06,ETB,Subscription Revenue - May 2024
+TXN100132,2024-02-23,6300,Operations,Bole Properties,22188.3,ETB,Rent & Utilities - Feb 2024
+TXN100252,2024-04-22,5100,Operations,Internal Payroll,"670,893.13",ETB,Direct Labor - Apr 2024
+TXN101531,2025-10-28,4100,Operations,Retail Customer,3002.86,ETB,Service Revenue - Oct 2025
+TXN100495,07-Jul-2024,6600,IT,Safaricom Business,"128,143.87",ETB,Software & IT Services - Jul 2024
+TXN101086,2025/04/25,4000,Sales,Government Contract,"520,263.60",ETB,Product Sales - Apr 2025
+REV0002,2024-03-18,7000,Finance,Internal Payroll,"(10,128.61)",ETB,Adjustment / partial reversal
+TXN100894,2025-01-25,5100,Operations,Internal Payroll,312322.83,ETB,Direct Labor - Jan 2025
+TXN100673,2024-10-23,4200,Sales,Corporate Client,17732.8,ETB,Subscription Revenue - Oct 2024
+TXN101217,2025-06-20,4000,Sales,Corporate Client,223879.68,ETB,Product Sales - Jun 2025
+TXN100585,2024-09-12,4000,Sales,Retail Customer,638159.22,ETB,Product Sales - Sep 2024
+TXN101482,2025-09-16,6000,Operations,Internal Payroll,"339,700.50",ETB,Salaries & Wages - Sep 2025
+TXN100727,2024/11/11,4000,Sales,Government Contract,"428,213.38",ETB,Product Sales - Nov 2024
+TXN100932,2025-02-13,4000,Sales,Corporate Client,81971.58,ETB,Product Sales - Feb 2025
+TXN100360,2024-05-14,7000,finance,Internal Payroll,48755.02,ETB,Depreciation - May 2024
+TXN100751,2024/11/03,4200,Sales,Corporate Client,"28,047.65",ETB,Subscription Revenue - Nov 2024
+TXN100828,2024/12/05,5000,Operations,Habesha Supplies,42395.01,ETB,Materials - Dec 2024
+TXN100769,20/11/2024,6000,Operations,Internal Payroll,121039.07,ETB,Salaries & Wages - Nov 2024
+TXN101225,16/06/2025,4000,Sales,Retail Customer,"143,607.28",ETB,Product Sales - Jun 2025
+TXN100240,2024/04/16,4200,Sales,NGO Client,"159,067.96",ETB,Subscription Revenue - Apr 2024
+TXN100351,2024-05-17,6500,Marketing,Skylight Hotel,233.1,ETB,Travel & Entertainment - May 2024
+TXN101720,2025-12-23,6600,it,Microsoft,233820.35,ETB,Software & IT Services - Dec 2025
+TXN101037,2025-03-29,5100,Operations,,304182.17,ETB,Direct Labor - Mar 2025
+TXN101348,2025-07-10,6400,Marketing,Digital Reach Agency,211636.0,ETB,Marketing & Advertising - Jul 2025
+TXN100626,2024/09/14,6000,IT,Internal Payroll,24154.29,ETB,Salaries & Wages - Sep 2024
+TXN101210,2025/05/19,6900,Finance,Nyala Insurance,32104.89,ETB,Insurance - May 2025
+TXN101308,2025-07-19,4100,Operations,Wholesale Customer,377428.26,ETB,Service Revenue - Jul 2025
+TXN100780,2024-11-24,6300,Operations,EEU Utilities,"147,605.10",ETB,Rent & Utilities - Nov 2024
+TXN100571,2024/08/17,6700,finance,KPMG Ethiopia,2407.88,ETB,Professional Fees - Aug 2024
+TXN101128,2025-04-03,6200,HR,Ethiopian Management Institute,"30,405.01",ETB,Training & Development - Apr 2025
+TXN100944,2025-02-22,4100,  Operations ,NGO Client,232345.0,ETB,Service Revenue - Feb 2025
+TXN100662,31-Oct-2024,4000,Sales,Corporate Client,127239.71,ETB,Product Sales - Oct 2024
+TXN101277,08-Jun-2025,6600,IT,Microsoft,176913.4,ETB,Software & IT Services - Jun 2025
+TXN100028,04/01/2024,4200,Sales,Government Contract,28151.09,ETB,Subscription Revenue - Jan 2024
+TXN100426,2024-06-23,6600,IT,Ethio Telecom,218206.23,ETB,Software & IT Services - Jun 2024
+TXN100846,2024-12-30,6600,IT,Ethio Telecom,95875.34,ETB,Software & IT Services - Dec 2024
+TXN100936,2025-02-03,4000,Sales,Government Contract,559310.19,ETB,Product Sales - Feb 2025
+TXN100635,2024-09-12,6200,  HR ,Ethiopian Management Institute,10769.02,ETB,Training & Development - Sep 2024
+TXN100488,21/07/2024,6400,Marketing,Google Ads,88439.66,ETB,Marketing & Advertising - Jul 2024
+TXN101600,19-Nov-2025,4000,Sales,Retail Customer,180788.92,ETB,Product Sales - Nov 2025
+TXN101502,2025-09-07,6500,Marketing,Skylight Hotel,"26,382.31",ETB,Travel & Entertainment - Sep 2025
+TXN100926,2025-01-13,6900,Finance,Ethiopian Insurance Corp,"90,335.86",ETB,Insurance - Jan 2025
+TXN101117,2025-04-26,6000,Marketing,Internal Payroll,"101,088.69",ETB,Salaries & Wages - Apr 2025
+TXN100496,2024-07-23,6600,IT,Microsoft,"48,648.67",ETB,Software & IT Services - Jul 2024
+TXN100598,2024/09/11,4100,Operations,Corporate Client,"160,638.87",ETB,Service Revenue - Sep 2024
+TXN100648,15-Sep-2024,6900,Finance,Nyala Insurance,"2,998.41",ETB,Insurance - Sep 2024
+TXN101119,08-Apr-2025,6000,IT,Internal Payroll,183772.23,ETB,Salaries & Wages - Apr 2025
+TXN100091,2024-02-01,4100,,NGO Client,24584.09,ETB,Service Revenue - Feb 2024
+TXN101607,2025-11-03,4200,Sales,Retail Customer,91270.87,ETB,Subscription Revenue - Nov 2025
+TXN100263,2024-04-20,6000,HR,Internal Payroll,82590.7,ETB,Salaries & Wages - Apr 2024
+TXN100889,2025-01-29,5000,Operations,Habesha Supplies,258401.49,ETB,Materials - Jan 2025
+TXN101337,2025-07-11,6000,IT,Internal Payroll,"19,794.82",ETB,Salaries & Wages - Jul 2025
+TXN100149,2024-03-25,4000,Sales,Retail Customer,618637.3,ETB,Product Sales - Mar 2024
+TXN900009,2024-06-06,4000,Sales,Retail Customer,0,ETB,Product Sales - Jun 2024
+TXN100391,2024-06-23,5000,Operations,Habesha Supplies,762209.72,ETB,Materials - Jun 2024
+TXN101499,2025/09/14,6400,Marketing,Digital Reach Agency,"428,520.16",ETB,Marketing & Advertising - Sep 2025
+TXN100079,05/02/2024,4000,Sales,NGO Client,269245.67,ETB,Product Sales - Feb 2024
+TXN100967,2025-02-08,5100,Operations,Internal Payroll,12807.86,ETB,Direct Labor - Feb 2025
+TXN101377,2025/08/11,4100,  Operations ,Retail Customer,177042.06,ETB,Service Revenue - Aug 2025
+TXN101372,2025-08-01,4000,  Sales ,Government Contract,212597.77,ETB,Product Sales - Aug 2025
+TXN100036,21/01/2024,5100,Operations,Internal Payroll,"513,468.49",ETB,Direct Labor - Jan 2024
+TXN100730,2024/11/24,4000,Sales,Retail Customer,1036997.88,ETB,Product Sales - Nov 2024
+TXN100892,23-Jan-2025,5100,Operations,Internal Payroll,305065.88,ETB,Direct Labor - Jan 2025
+TXN100764,2024-11-18,5200,Operations,Ethio Freight,330950.42,ETB,Freight & Logistics - Nov 2024
+TXN101536,17/10/2025,4200,Sales,Wholesale Customer,89343.65,ETB,Subscription Revenue - Oct 2025
+TXN100324,2024/05/27,5000,Operations,Habesha Supplies,"70,435.50",ETB,Materials - May 2024
+TXN101195,2025-05-04,6000,Finance,Internal Payroll,80555.41,ETB,Salaries & Wages - May 2025
+TXN100007,2024-01-11,4000,Sales,Retail Customer,"23,624.17",ETB,Product Sales - Jan 2024
+TXN101113,07-Apr-2025,6000,  Sales ,Internal Payroll,327091.72,ETB,Salaries & Wages - Apr 2025
+TXN101545,2025-10-18,5000,Operations,Rift Valley Inputs,382845.55,ETB,Materials - Oct 2025
+TXN100453,2024/07/09,4100,Operations,Wholesale Customer,"233,681.72",ETB,Service Revenue - Jul 2024
+TXN101385,2025/08/28,4200,Sales,Corporate Client,413629.77,ETB,Subscription Revenue - Aug 2025
+TXN101550,2025-10-23,5200,Operations,Djibouti Corridor Logistics,228959.42,ETB,Freight & Logistics - Oct 2025
+TXN100217,2024/04/28,4000,Sales,NGO Client,162009.7,ETB,Product Sales - Apr 2024
+TXN100858,10-Jan-2025,4000,Sales,NGO Client,"154,338.22",ETB,Product Sales - Jan 2025
+TXN100396,2024-06-26,5000,Operations,Habesha Supplies,39034.43,ETB,Materials - Jun 2024
+TXN101036,2025-03-24,5000,OPERATIONS,Rift Valley Inputs,233942.66,ETB,Materials - Mar 2025
+TXN100504,2024-07-01,7000,finance,Internal Payroll,49213.21,ETB,Depreciation - Jul 2024
+TXN100384,2024-06-03,4200,Sales,Wholesale Customer,24850.09,ETB,Subscription Revenue - Jun 2024
+TXN100311,2024-05-19,4200,Sales,Wholesale Customer,59324.92,ETB,Subscription Revenue - May 2024
+TXN101009,29/03/2025,4000,Sales,NGO Client,32119.68,ETB,Product Sales - Mar 2025
+TXN100738,2024-11-15,4000,Sales,Retail Customer,835614.0,ETB,Product Sales - Nov 2024
+TXN100521,2024-08-30,4100,Operations,Retail Customer,132569.35,ETB,Service Revenue - Aug 2024
+TXN100824,2024-12-29,5000,Operations,Awash Raw Materials,93705.42,ETB,Materials - Dec 2024
+TXN100699,2024-10-26,6000,IT,Internal Payroll,127326.74,ETB,Salaries & Wages - Oct 2024
+TXN101409,05-Aug-2025,6000,IT,Internal Payroll,8476.7,ETB,Salaries & Wages - Aug 2025
+TXN100206,2024-03-10,6500,Sales,Skylight Hotel,26113.13,ETB,Travel & Entertainment - Mar 2024
+TXN101701,09-Dec-2025,6000,Marketing,Internal Payroll,173993.67,ETB,Salaries & Wages - Dec 2025
+TXN101706,2025-12-14,6000,  IT ,Internal Payroll,91300.46,ETB,Salaries & Wages - Dec 2025
+TXN101335,2025-07-06,6000,Operations,Internal Payroll,399123.98,ETB,Salaries & Wages - Jul 2025
+TXN101360,2025-08-04,4000,Sales,Wholesale Customer,622936.82,ETB,Product Sales - Aug 2025
+TXN101445,2025-09-17,4000,Sales,Government Contract,755605.66,ETB,Product Sales - Sep 2025
+TXN101692,2025-12-16,5000,Operations,Rift Valley Inputs,143016.81,ETB,Materials - Dec 2025
+TXN100664,2024-10-30,4000,Sales,Wholesale Customer,22339.57,ETB,Product Sales - Oct 2024
+TXN100679,2024-10-08,4200,Sales,Corporate Client,"89,231.96",ETB,Subscription Revenue - Oct 2024
+TXN100712,2024-10-28,6400,  Marketing ,Google Ads,181854.39,ETB,Marketing & Advertising - Oct 2024
+TXN100575,2024-08-04,6900,Finance,Ethiopian Insurance Corp,"4,469.54",ETB,Insurance - Aug 2024
+TXN100709,19/10/2024,6300,,Bole Properties,"65,465.63",ETB,Rent & Utilities - Oct 2024
+TXN100630,05-Sep-2024,6000,Finance,Internal Payroll,4364.95,ETB,Salaries & Wages - Sep 2024
+TXN100316,2024-05-08,4200,Sales,Corporate Client,"77,799.71",ETB,Subscription Revenue - May 2024
+TXN100958,2025-02-11,5000,Operations,Habesha Supplies,109276.42,ETB,Materials - Feb 2025
+TXN101568,2025-10-07,6300,Operations,Bole Properties,17864.73,ETB,Rent & Utilities - Oct 2025
+TXN101365,2025-08-30,4000,Sales,Government Contract,724187.35,ETB,Product Sales - Aug 2025
+TXN101374,2025-08-27,4100,Operations,Retail Customer,187009.36,ETB,Service Revenue - Aug 2025
+TXN100905,2025-01-21,6000,IT,Internal Payroll,"67,189.16",ETB,Salaries & Wages - Jan 2025
+TXN101383,2025-08-11,4200,SALES,Wholesale Customer,74174.53,ETB,Subscription Revenue - Aug 2025
+TXN101540,2025-10-02,4200,Sales,Government Contract,"16,068.63",ETB,Subscription Revenue - Oct 2025
+TXN100920,2025-01-11,6500,Marketing,Ethiopian Airlines,"6,479.42",ETB,Travel & Entertainment - Jan 2025
+TXN101067,2025/03/04,6800,Finance,Office Mart,8381.08,ETB,Office Supplies - Mar 2025
+TXN101104,2025-04-07,5000,Operations,Habesha Supplies,"56,689.67",ETB,Materials - Apr 2025
+TXN101413,23/08/2025,6000,HR,Internal Payroll,99388.8,ETB,Salaries & Wages - Aug 2025
+TXN100189,2024-03-06,6000,IT,Internal Payroll,"255,337.91",ETB,Salaries & Wages - Mar 2024
+TXN100190,2024-03-31,6000,HR,Internal Payroll,119371.99,ETB,Salaries & Wages - Mar 2024
+TXN100760,2024-11-21,5000,operations,Habesha Supplies,"205,476.39",ETB,Materials - Nov 2024
+TXN100663,2024/10/14,4000,Sales,Wholesale Customer,47297.37,ETB,Product Sales - Oct 2024
+TXN100243,2024-04-13,4200,,Corporate Client,15951.79,ETB,Subscription Revenue - Apr 2024
+TXN101594,2025-11-02,4000,,NGO Client,"334,705.99",ETB,Product Sales - Nov 2025
+TXN100820,2024-12-01,4200,Sales,Wholesale Customer,7698.38,ETB,Subscription Revenue - Dec 2024
+TXN100689,02/10/2024,5100,Operations,Internal Payroll,"685,027.41",ETB,Direct Labor - Oct 2024
+TXN100499,2024/07/16,6800,Finance,Shoa Stationery,3248.06,ETB,Office Supplies - Jul 2024
+TXN100042,22/01/2024,6000,Sales,Internal Payroll,49685.37,ETB,Salaries & Wages - Jan 2024
+TXN100449,2024-07-13,4000,Sales,Corporate Client,298944.85,ETB,Product Sales - Jul 2024
+TXN100100,2024-02-29,4200,Sales,Retail Customer,115304.22,ETB,Subscription Revenue - Feb 2024
+TXN101105,13/04/2025,5000,Operations,Habesha Supplies,585895.96,ETB,Materials - Apr 2025
+TXN100583,2024/09/12,4000,Sales,,766551.76,ETB,Product Sales - Sep 2024
+TXN100794,2024-12-17,4000,Sales,NGO Client,1879880.63,ETB,Product Sales - Dec 2024
+TXN100485,2024-07-17,6200,HR,Coursera Business,"2,750.10",ETB,Training & Development - Jul 2024
+TXN101707,2025-12-07,6000,HR,Internal Payroll,150745.12,ETB,Salaries & Wages - Dec 2025
+TXN100251,2024-04-01,5000,Operations,Habesha Supplies,168640.15,ETB,Materials - Apr 2024
+TXN100437,2024-07-17,4000,Sales,Government Contract,"212,614.87",ETB,Product Sales - Jul 2024
+TXN100077,2024-02-04,4000,Sales,Retail Customer,321423.92,ETB,Product Sales - Feb 2024
+TXN101648,16-Nov-2025,6600,IT,Microsoft,85166.13,ETB,Software & IT Services - Nov 2025
+TXN100720,2024-10-25,6800,Finance,Shoa Stationery,"2,749.80",ETB,Office Supplies - Oct 2024
+TXN100517,22/08/2024,4000,Sales,Retail Customer,82139.32,ETB,Product Sales - Aug 2024
+TXN100896,2025/01/27,5200,Operations,Ethio Freight,138215.82,ETB,Freight & Logistics - Jan 2025
+TXN101160,2025-05-22,4000,Sales,Retail Customer,185519.86,ETB,Product Sales - May 2025
+TXN100686,2024/10/08,5000,Operations,Awash Raw Materials,39304.54,ETB,Materials - Oct 2024
+TXN100768,2024-11-19,6000,Marketing,Internal Payroll,52186.04,ETB,Salaries & Wages - Nov 2024
+TXN100440,2024-07-12,4000,  Sales ,Government Contract,202206.5,ETB,Product Sales - Jul 2024
+TXN100420,2024-06-14,6400,,Digital Reach Agency,41955.46,ETB,Marketing & Advertising - Jun 2024
+TXN101523,28-Oct-2025,4000,Sales,,852538.77,ETB,Product Sales - Oct 2025
+TXN100503,2024-07-20,6900,Finance,Ethiopian Insurance Corp,"26,977.11",ETB,Insurance - Jul 2024
+TXN101038,2025-03-28,5100,Operations,Internal Payroll,"19,739.89",ETB,Direct Labor - Mar 2025
+TXN101436,2025-08-01,7000,Finance,Internal Payroll,122300.64,ETB,Depreciation - Aug 2025
+TXN101042,2025-03-30,6000,Sales,Internal Payroll,141196.32,ETB,Salaries & Wages - Mar 2025
+TXN100985,19-Feb-2025,6200,HR,Coursera Business,"56,076.83",ETB,Training & Development - Feb 2025
+TXN100201,2024-03-05,6300,Operations,Bole Properties,208493.53,ETB,Rent & Utilities - Mar 2024
+TXN100350,2024-05-25,6500,Marketing,Skylight Hotel,19726.92,ETB,Travel & Entertainment - May 2024
+TXN101125,2025-04-01,6100,HR,Internal Payroll,38732.05,ETB,Employee Benefits - Apr 2025
+TXN101549,2025/10/06,5100,Operations,Internal Payroll,68508.94,ETB,Direct Labor - Oct 2025
+TXN100636,2024-09-04,6300,Operations,Bole Properties,167673.3,ETB,Rent & Utilities - Sep 2024
+TXN101471,2025-09-09,5000,Operations,Rift Valley Inputs,386315.37,ETB,Materials - Sep 2025
+TXN101245,2025-06-08,5000,Operations,Awash Raw Materials,"479,103.53",ETB,Materials - Jun 2025
+TXN100319,2024/05/04,5000,Operations,Rift Valley Inputs,55364.79,ETB,Materials - May 2024
+TXN101509,2025-09-04,6900,  Finance ,Ethiopian Insurance Corp,"53,107.29",ETB,Insurance - Sep 2025
+TXN100803,2024-12-06,4000,Sales,Retail Customer,"83,044.47",ETB,Product Sales - Dec 2024
+TXN100582,2024-09-14,4000,SALES,Corporate Client,"54,276.46",ETB,Product Sales - Sep 2024
+TXN100356,21/05/2024,6800,Finance,Shoa Stationery,17221.1,ETB,Office Supplies - May 2024
+TXN101427,2025-08-11,6600,IT,Safaricom Business,17014.58,ETB,Software & IT Services - Aug 2025
+TXN100977,2025-02-24,6000,IT,Internal Payroll,"163,458.50",ETB,Salaries & Wages - Feb 2025
+TXN100494,2024/07/30,6500,,Hilton Addis,11604.53,ETB,Travel & Entertainment - Jul 2024
+TXN100724,2024-10-17,6900,Finance,Nyala Insurance,29442.98,ETB,Insurance - Oct 2024
+TXN100181,2024-03-26,5100,Operations,Internal Payroll,694200.83,ETB,Direct Labor - Mar 2024
+TXN100245,2024-04-11,5000,Operations,Awash Raw Materials,42353.22,ETB,Materials - Apr 2024
+TXN101525,2025-10-08,4000,Sales,Wholesale Customer,"86,029.62",ETB,Product Sales - Oct 2025
+TXN100275,19/04/2024,6300,Operations,EEU Utilities,"289,436.48",ETB,Rent & Utilities - Apr 2024
+TXN101475,2025-09-07,5200,Operations,Ethio Freight,119046.74,ETB,Freight & Logistics - Sep 2025
+TXN100577,2024/08/29,6900,Finance,Ethiopian Insurance Corp,12245.61,ETB,Insurance - Aug 2024
+TXN100393,2024-06-14,5000,Operations,Awash Raw Materials,"343,374.57",ETB,Materials - Jun 2024
+TXN101284,2025-06-08,6800,Finance,Shoa Stationery,13696.77,ETB,Office Supplies - Jun 2025
+TXN100221,2024-04-15,4000,  Sales ,Retail Customer,177243.61,ETB,Product Sales - Apr 2024
+TXN100235,18-Apr-2024,4100,operations,NGO Client,414559.12,ETB,Service Revenue - Apr 2024
+TXN100035,2024/01/27,5000,Operations,Awash Raw Materials,"6,959.91",ETB,Materials - Jan 2024
+TXN100086,2024/02/29,4000,Sales,Government Contract,318312.94,ETB,Product Sales - Feb 2024
+TXN100747,09/11/2024,4200,Sales,NGO Client,45564.51,ETB,Subscription Revenue - Nov 2024
+TXN100157,2024-03-26,4000,Sales,NGO Client,471213.69,ETB,Product Sales - Mar 2024
+TXN101234,22/06/2025,4200,Sales,NGO Client,155395.87,ETB,Subscription Revenue - Jun 2025
+TXN101311,2025-07-03,4200,Sales,NGO Client,33377.94,ETB,Subscription Revenue - Jul 2025
+TXN100923,06/01/2025,6600,IT,AWS,"221,774.17",ETB,Software & IT Services - Jan 2025
+TXN100364,2024-06-10,4000,Sales,Retail Customer,143646.76,ETB,Product Sales - Jun 2024
+TXN100919,28/01/2025,6500,  Sales ,Hilton Addis,"119,804.87",ETB,Travel & Entertainment - Jan 2025
+TXN101094,14/04/2025,4200,Sales,NGO Client,25373.86,ETB,Subscription Revenue - Apr 2025
+TXN100381,2024-06-28,4100,Operations,Retail Customer,90505.81,ETB,Service Revenue - Jun 2024
+TXN101631,06-Nov-2025,6000,Operations,Internal Payroll,54771.71,ETB,Salaries & Wages - Nov 2025
+TXN101510,29-Sep-2025,6900,Finance,Ethiopian Insurance Corp,4514.95,ETB,Insurance - Sep 2025
+TXN100510,08/08/2024,4000,  Sales ,Retail Customer,"31,014.83",ETB,Product Sales - Aug 2024
+TXN100068,2024-01-23,6800,Finance,Office Mart,12053.68,ETB,Office Supplies - Jan 2024
+TXN101599,20/11/2025,4000,Sales,Retail Customer,"587,104.68",ETB,Product Sales - Nov 2025
+TXN101085,2025/04/27,4000,Sales,Corporate Client,157385.73,ETB,Product Sales - Apr 2025
+TXN101001,2025-02-26,7000,Finance,Internal Payroll,121569.39,ETB,Depreciation - Feb 2025
+TXN101054,2025-03-20,6100,HR,Internal Payroll,"110,824.77",ETB,Employee Benefits - Mar 2025
+TXN100971,2025-02-12,6000,Marketing,Internal Payroll,"87,322.70",ETB,Salaries & Wages - Feb 2025
+TXN101584,2025-10-25,6900,Finance,Ethiopian Insurance Corp,"38,187.95",ETB,Insurance - Oct 2025
+TXN100472,2024-07-15,5100,Operations,Internal Payroll,"617,229.82",ETB,Direct Labor - Jul 2024
+TXN101029,2025-03-26,4200,Sales,Corporate Client,132140.87,ETB,Subscription Revenue - Mar 2025
+TXN100394,2024-06-08,5000,Operations,Rift Valley Inputs,"105,613.75",ETB,Materials - Jun 2024
+TXN101116,2025-04-18,6000,Marketing,Internal Payroll,109884.26,ETB,Salaries & Wages - Apr 2025
+TXN101632,10/11/2025,6000,Operations,Internal Payroll,370333.49,ETB,Salaries & Wages - Nov 2025
+TXN100914,10-Jan-2025,6100,HR,Internal Payroll,13450.4,ETB,Employee Benefits - Jan 2025
+TXN101714,2025-12-11,6400,Marketing,Google Ads,"130,612.70",ETB,Marketing & Advertising - Dec 2025
+TXN100348,2024-05-24,6500,sales,Skylight Hotel,30986.49,ETB,Travel & Entertainment - May 2024
+TXN100075,2024-02-05,4000,Sales,Corporate Client,"42,185.60",ETB,Product Sales - Feb 2024
+TXN100330,13-May-2024,6000,Marketing,Internal Payroll,"55,013.87",ETB,Salaries & Wages - May 2024
+TXN101430,2025-08-12,6800,Finance,Office Mart,13669.02,ETB,Office Supplies - Aug 2025
+TXN101446,2025/09/21,4000,Sales,Retail Customer,261711.31,ETB,Product Sales - Sep 2025
+TXN101039,2025-03-21,5100,Operations,Internal Payroll,"389,473.67",ETB,Direct Labor - Mar 2025
+TXN100135,2024-02-22,6500,Sales,Ethiopian Airlines,31941.82,ETB,Travel & Entertainment - Feb 2024
+TXN100104,2024/02/28,5000,Operations,Rift Valley Inputs,10135.19,ETB,Materials - Feb 2024
+TXN100010,2024/01/25,4000,Sales,NGO Client,324453.55,ETB,Product Sales - Jan 2024
+TXN101384,2025-08-17,4200,SALES,Government Contract,245797.07,ETB,Subscription Revenue - Aug 2025
+TXN100544,2024-08-01,6000,Sales,Internal Payroll,"6,873.68",ETB,Salaries & Wages - Aug 2024
+TXN100011,07-Jan-2024,4000,Sales,Wholesale Customer,515815.54,ETB,Product Sales - Jan 2024
+TXN100927,2025-01-10,7000,Finance,Internal Payroll,22422.1,ETB,Depreciation - Jan 2025
+TXN100640,2024-09-11,6500,Sales,Skylight Hotel,31064.03,ETB,Travel & Entertainment - Sep 2024
+TXN100767,2024/11/13,6000,Marketing,Internal Payroll,"176,096.01",ETB,Salaries & Wages - Nov 2024
+TXN101266,2025-06-14,6100,HR,Internal Payroll,"283,545.01",ETB,Employee Benefits - Jun 2025
+TXN101339,2025-07-26,6000,HR,Internal Payroll,"148,510.03",ETB,Salaries & Wages - Jul 2025
+TXN100986,10-Feb-2025,6300,Operations,EEU Utilities,325888.32,ETB,Rent & Utilities - Feb 2025
+TXN100285,2024-04-27,6800,Finance,Shoa Stationery,23133.34,ETB,Office Supplies - Apr 2024
+TXN100991,02/02/2025,6500,Marketing,Ethiopian Airlines,2134.49,ETB,Travel & Entertainment - Feb 2025
+TXN100617,2024-09-30,5100,OPERATIONS,Internal Payroll,11827.79,ETB,Direct Labor - Sep 2024
+TXN100371,2024-06-18,4000,Sales,Corporate Client,235228.11,ETB,Product Sales - Jun 2024
+TXN101414,2025-08-27,6000,Finance,Internal Payroll,"199,867.76",ETB,Salaries & Wages - Aug 2025
+TXN100841,2024-12-01,6400,Marketing,Meta Ads,"105,020.91",ETB,Marketing & Advertising - Dec 2024
+TXN101444,2025-09-26,4000,Sales,Corporate Client,959541.16,ETB,Product Sales - Sep 2025
+TXN100126,03-Feb-2024,6000,Finance,Internal Payroll,156621.25,ETB,Salaries & Wages - Feb 2024
+TXN100408,2024/06/13,6000,,Internal Payroll,"29,064.51",ETB,Salaries & Wages - Jun 2024
+TXN100954,2025-02-01,4200,Sales,Corporate Client,190987.04,ETB,Subscription Revenue - Feb 2025
+TXN101269,2025-06-19,6200,HR,Coursera Business,12676.29,ETB,Training & Development - Jun 2025
+TXN101451,2025-09-23,4100,Operations,NGO Client,491.37,ETB,Service Revenue - Sep 2025
+TXN101207,2025-05-05,6700,Finance,Abebe Audit Services,47676.51,ETB,Professional Fees - May 2025
+TXN101519,2025/10/28,4000,Sales,Government Contract,208864.35,ETB,Product Sales - Oct 2025
+TXN101655,2025-11-05,6900,Finance,Ethiopian Insurance Corp,29562.26,ETB,Insurance - Nov 2025
+TXN100542,2024-08-27,5200,Operations,Ethio Freight,26601.71,ETB,Freight & Logistics - Aug 2024
+TXN100140,2024-02-17,6600,it,Ethio Telecom,142233.37,ETB,Software & IT Services - Feb 2024
+TXN101494,2025-09-12,6100,HR,Internal Payroll,266745.3,ETB,Employee Benefits - Sep 2025
+TXN100261,09/04/2024,6000,Operations,Internal Payroll,92240.72,ETB,Salaries & Wages - Apr 2024
+TXN100474,2024-07-30,6000,Sales,Internal Payroll,223468.04,ETB,Salaries & Wages - Jul 2024
+TXN100166,2024-03-23,4200,Sales,Corporate Client,"23,259.35",ETB,Subscription Revenue - Mar 2024
+TXN100227,2024-04-25,4000,Sales,Corporate Client,111530.64,ETB,Product Sales - Apr 2024
+TXN101408,28/08/2025,6000,IT,Internal Payroll,240000.79,ETB,Salaries & Wages - Aug 2025
+TXN100693,2024-10-17,6000,Sales,Internal Payroll,50530.74,ETB,Salaries & Wages - Oct 2024
+TXN100192,2024-03-13,6000,Finance,Internal Payroll,167178.98,ETB,Salaries & Wages - Mar 2024
+TXN100307,13-May-2024,4100,Operations,Wholesale Customer,83040.8,ETB,Service Revenue - May 2024
+TXN101416,28-Aug-2025,6200,HR,Coursera Business,16367.49,ETB,Training & Development - Aug 2025
+TXN101369,2025/08/23,4000,Sales,,93048.65,ETB,Product Sales - Aug 2025
+TXN101566,14-Oct-2025,6300,Operations,EEU Utilities,111825.92,ETB,Rent & Utilities - Oct 2025
+TXN100483,2024-07-01,6000,finance,Internal Payroll,"21,586.26",ETB,Salaries & Wages - Jul 2024
+TXN101442,2025-09-14,4000,Sales,Wholesale Customer,262889.6,ETB,Product Sales - Sep 2025
+TXN101190,2025-05-13,6000,IT,Internal Payroll,4989.16,ETB,Salaries & Wages - May 2025
+TXN101246,23-Jun-2025,5000,Operations,Awash Raw Materials,149940.27,ETB,Materials - Jun 2025
+TXN101691,2025-12-14,5000,Operations,Rift Valley Inputs,181483.22,ETB,Materials - Dec 2025
+TXN101503,2025/09/28,6600,IT,Ethio Telecom,"110,692.53",ETB,Software & IT Services - Sep 2025
+TXN101345,2025/07/30,6300,Operations,EEU Utilities,156641.12,ETB,Rent & Utilities - Jul 2025
+TXN100321,08/05/2024,5000,Operations,Awash Raw Materials,990193.6,ETB,Materials - May 2024
+TXN101425,2025-08-23,6500,Marketing,Skylight Hotel,18730.52,ETB,Travel & Entertainment - Aug 2025
+TXN101538,2025-10-14,4200,Sales,Wholesale Customer,378471.61,ETB,Subscription Revenue - Oct 2025
+TXN100755,2024/11/29,5000,Operations,Habesha Supplies,"508,163.91",ETB,Materials - Nov 2024
+TXN100018,30/01/2024,4100,Operations,Government Contract,213951.27,ETB,Service Revenue - Jan 2024
+TXN100882,2025/01/08,4200,Sales,Wholesale Customer,"246,868.77",ETB,Subscription Revenue - Jan 2025
+TXN100431,10/06/2024,6800,Finance,Office Mart,22992.4,ETB,Office Supplies - Jun 2024
+TXN101189,10-May-2025,6000,Operations,Internal Payroll,195438.35,ETB,Salaries & Wages - May 2025
+TXN101511,18/09/2025,7000,  Finance ,Internal Payroll,113721.4,ETB,Depreciation - Sep 2025
+TXN101579,21/10/2025,6700,Finance,KPMG Ethiopia,42245.01,ETB,Professional Fees - Oct 2025
+TXN101606,2025-11-05,4100,Operations,Government Contract,"248,477.37",ETB,Service Revenue - Nov 2025
+TXN101260,05-Jun-2025,6000,IT,Internal Payroll,179715.15,ETB,Salaries & Wages - Jun 2025
+TXN100208,2024-03-20,6600,IT,Safaricom Business,165268.53,ETB,Software & IT Services - Mar 2024
+TXN100238,2024-04-28,4200,Sales,Corporate Client,51304.0,ETB,Subscription Revenue - Apr 2024
+TXN101139,2025-04-08,6500,Marketing,Hilton Addis,12613.84,ETB,Travel & Entertainment - Apr 2025
+TXN100786,06-Nov-2024,6500,Marketing,Ethiopian Airlines,42037.43,ETB,Travel & Entertainment - Nov 2024
+TXN101635,2025/11/27,6000,IT,Internal Payroll,24383.48,ETB,Salaries & Wages - Nov 2025
+TXN101144,2025-04-22,6800,Finance,Shoa Stationery,35206.32,ETB,Office Supplies - Apr 2025
+TXN100346,2024-05-08,6400,Marketing,Meta Ads,20821.8,ETB,Marketing & Advertising - May 2024
+TXN101015,12-Mar-2025,4000,Sales,Corporate Client,25951.85,ETB,Product Sales - Mar 2025
+TXN101222,2025/06/24,4000,Sales,Government Contract,473787.94,ETB,Product Sales - Jun 2025
+TXN101253,2025-06-11,6000,Sales,Internal Payroll,15456.85,ETB,Salaries & Wages - Jun 2025
+TXN101214,2025-06-04,4000,Sales,Wholesale Customer,1063935.9,ETB,Product Sales - Jun 2025
+TXN100341,2024-05-28,6200,HR,Ethiopian Management Institute,79295.22,ETB,Training & Development - May 2024
+TXN101455,30-Sep-2025,4100,Operations,Government Contract,135695.38,ETB,Service Revenue - Sep 2025
+TXN100458,2024-07-04,4200,Sales,Wholesale Customer,68298.57,ETB,Subscription Revenue - Jul 2024
+TXN100176,2024-03-05,5000,Operations,Rift Valley Inputs,5568.72,ETB,Materials - Mar 2024
+TXN100550,2024/08/14,6000,IT,Internal Payroll,167143.9,ETB,Salaries & Wages - Aug 2024
+TXN101514,2025/10/07,4000,Sales,NGO Client,541340.9,ETB,Product Sales - Oct 2025
+TXN100301,10-May-2024,4000,Sales,Retail Customer,521161.78,ETB,Product Sales - May 2024
+TXN101326,2025-07-01,5100,Operations,Internal Payroll,594555.75,ETB,Direct Labor - Jul 2025
+TXN100460,2024-07-09,4200,Sales,Retail Customer,"40,011.65",ETB,Subscription Revenue - Jul 2024
+TXN101018,2025-03-21,4100,Operations,NGO Client,159772.1,ETB,Service Revenue - Mar 2025
+TXN101625,2025-11-13,5200,Operations,Ethio Freight,168828.69,ETB,Freight & Logistics - Nov 2025
+TXN101682,2025-12-24,4200,Sales,NGO Client,14768.67,ETB,Subscription Revenue - Dec 2025
+TXN101211,2025-05-06,6900,Finance,Ethiopian Insurance Corp,"2,614.47",ETB,Insurance - May 2025
+TXN100475,2024-07-13,6000,Sales,Internal Payroll,202356.11,ETB,Salaries & Wages - Jul 2024
+TXN101468,2025/09/01,5000,Operations,Habesha Supplies,436432.69,ETB,Materials - Sep 2025
+TXN101254,23-Jun-2025,6000,Sales,Internal Payroll,"49,592.63",ETB,Salaries & Wages - Jun 2025
+TXN101470,2025/09/19,5000,  Operations ,Rift Valley Inputs,505495.96,ETB,Materials - Sep 2025
+TXN100464,2024-07-31,5000,Operations,Rift Valley Inputs,"34,046.52",ETB,Materials - Jul 2024
+TXN100956,2025/02/27,4200,Sales,Wholesale Customer,"121,166.44",ETB,Subscription Revenue - Feb 2025
+TXN100842,2024-12-16,6400,Marketing,Google Ads,238581.51,ETB,Marketing & Advertising - Dec 2024
+TXN101177,2025-05-09,5000,Operations,Habesha Supplies,"336,989.43",ETB,Materials - May 2025
+TXN100327,2024-05-15,6000,Sales,Internal Payroll,251390.97,ETB,Salaries & Wages - May 2024
+TXN100996,2025-02-28,6700,  Finance ,KPMG Ethiopia,102249.38,ETB,Professional Fees - Feb 2025
+TXN101082,2025-04-07,4000,Sales,NGO Client,82827.38,ETB,Product Sales - Apr 2025
+TXN101182,2025-05-14,5000,  Operations ,Rift Valley Inputs,578089.08,ETB,Materials - May 2025
+TXN101386,2025/08/10,4200,Sales,Corporate Client,96320.38,ETB,Subscription Revenue - Aug 2025
+TXN101481,2025-09-28,6000,Marketing,Internal Payroll,32216.94,ETB,Salaries & Wages - Sep 2025
+TXN100893,2025-01-25,5100,Operations,Internal Payroll,60412.02,ETB,Direct Labor - Jan 2025
+TXN100060,2024-01-30,6500,Sales,Skylight Hotel,"4,504.66",ETB,Travel & Entertainment - Jan 2024
+TXN100014,2024-01-05,4000,Sales,NGO Client,45813.77,ETB,Product Sales - Jan 2024
+TST0005,2024-07-24,6000,Marketing,Internal Payroll,"229,119.67",ETB,TEST POSTING - DO NOT USE
+TXN100951,02/02/2025,4200,Sales,Retail Customer,55922.63,ETB,Subscription Revenue - Feb 2025
+TXN100388,2024-06-16,4200,Sales,NGO Client,"106,081.78",ETB,Subscription Revenue - Jun 2024
+TXN100524,06/08/2024,4100,Operations,Corporate Client,171726.63,ETB,Service Revenue - Aug 2024
+TXN101083,2025-04-20,4000,Sales,Retail Customer,1959607.17,ETB,Product Sales - Apr 2025
+TXN100027,05/01/2024,4200,Sales,Wholesale Customer,"3,555.93",ETB,Subscription Revenue - Jan 2024
+TXN101230,06-Jun-2025,4100,Operations,Wholesale Customer,142128.59,ETB,Service Revenue - Jun 2025
+TXN100604,2024-09-17,4200,Sales,Government Contract,88696.89,ETB,Subscription Revenue - Sep 2024
+TXN100962,2025/02/08,5000,Operations,Awash Raw Materials,368653.04,ETB,Materials - Feb 2025
+TXN100323,2024-05-19,5000,OPERATIONS,Rift Valley Inputs,45933.95,ETB,Materials - May 2024
+TXN101074,2025-04-29,4000,Sales,Government Contract,116986.05,ETB,Product Sales - Apr 2025
+TXN101577,11/10/2025,6700,Finance,Tadesse & Partners Law,2355.19,ETB,Professional Fees - Oct 2025
+TXN101647,2025-11-18,6500,Marketing,Ethiopian Airlines,3295.41,ETB,Travel & Entertainment - Nov 2025
+TXN100867,18-Jan-2025,4000,Sales,Government Contract,210705.38,ETB,Product Sales - Jan 2025
+TXN101417,2025/08/23,6200,HR,Ethiopian Management Institute,38659.88,ETB,Training & Development - Aug 2025
+TXN101687,2025-12-10,5000,Operations,Rift Valley Inputs,"230,785.02",ETB,Materials - Dec 2025
+TXN100442,2024/07/27,4000,Sales,Corporate Client,183663.49,ETB,Product Sales - Jul 2024
+TXN101673,14-Dec-2025,4100,Operations,Corporate Client,197085.61,ETB,Service Revenue - Dec 2025
+TXN100296,25-May-2024,4000,SALES,Government Contract,"40,098.47",ETB,Product Sales - May 2024
+TXN100555,19/08/2024,6000,Finance,Internal Payroll,46719.28,ETB,Salaries & Wages - Aug 2024
+TXN100257,17-Apr-2024,6000,Marketing,Internal Payroll,171544.53,ETB,Salaries & Wages - Apr 2024
+TXN100561,2024-08-30,6300,operations,EEU Utilities,"167,961.12",ETB,Rent & Utilities - Aug 2024
+TXN100831,27-Dec-2024,6000,Sales,Internal Payroll,"413,184.80",ETB,Salaries & Wages - Dec 2024
+TXN100995,2025-02-16,6600,it,Microsoft,206174.6,ETB,Software & IT Services - Feb 2025
+TXN101459,2025/09/28,4200,Sales,Corporate Client,"181,164.99",ETB,Subscription Revenue - Sep 2025
+TXN100881,2025-01-19,4200,Sales,Retail Customer,"10,572.58",ETB,Subscription Revenue - Jan 2025
+TXN101004,2025-03-09,4000,Sales,NGO Client,46646.03,ETB,Product Sales - Mar 2025
+TXN100308,2024-05-13,4100,Operations,Retail Customer,41601.28,ETB,Service Revenue - May 2024
+TXN100073,2024-01-29,7000,Finance,Internal Payroll,13079.38,ETB,Depreciation - Jan 2024
+TXN100258,2024/04/04,6000,Marketing,Internal Payroll,45866.57,ETB,Salaries & Wages - Apr 2024
+TXN101206,2025-05-17,6700,Finance,KPMG Ethiopia,5880.1,ETB,Professional Fees - May 2025
+TXN100003,2024-01-02,4000,Sales,Corporate Client,25752.35,ETB,Product Sales - Jan 2024
+TXN101629,17-Nov-2025,6000,Marketing,Internal Payroll,85376.61,ETB,Salaries & Wages - Nov 2025
+TXN101390,2025-08-17,5000,Operations,Awash Raw Materials,76340.45,ETB,Materials - Aug 2025
+TXN100416,2024-06-12,6300,Operations,Bole Properties,309030.57,ETB,Rent & Utilities - Jun 2024
+TXN100681,2024-10-24,5000,Operations,Awash Raw Materials,100086.49,ETB,Materials - Oct 2024
+TXN100963,2025-02-03,5000,Operations,Rift Valley Inputs,659040.62,ETB,Materials - Feb 2025
+TXN100368,2024-06-22,4000,Sales,Wholesale Customer,811811.43,ETB,Product Sales - Jun 2024
+TXN101543,2025/10/06,5000,Operations,Rift Valley Inputs,28327.11,ETB,Materials - Oct 2025
+TXN100695,05/10/2024,6000,Operations,Internal Payroll,"35,331.00",ETB,Salaries & Wages - Oct 2024
+TXN100930,2025-02-08,4000,Sales,Wholesale Customer,154330.88,ETB,Product Sales - Feb 2025
+TXN101349,2025-07-09,6400,Marketing,Google Ads,31538.72,ETB,Marketing & Advertising - Jul 2025
+TXN101202,2025-05-31,6500,Sales,Skylight Hotel,"14,799.24",ETB,Travel & Entertainment - May 2025
+TXN100480,2024/07/02,6000,  IT ,Internal Payroll,52556.55,ETB,Salaries & Wages - Jul 2024
+TXN100558,2024/08/18,6100,HR,Internal Payroll,"296,617.15",ETB,Employee Benefits - Aug 2024
+REV0001,2024-09-29,6000,Operations,Internal Payroll,"(8,943.66)",ETB,Adjustment / partial reversal
+TXN101250,2025-06-09,5100,OPERATIONS,Internal Payroll,"759,917.21",ETB,Direct Labor - Jun 2025
+TXN100910,2025-01-18,6000,FINANCE,Internal Payroll,87945.36,ETB,Salaries & Wages - Jan 2025
+TXN101618,2025-11-03,5000,Operations,Rift Valley Inputs,655360.58,ETB,Materials - Nov 2025
+TXN100586,2024-09-03,4000,Sales,NGO Client,742633.91,ETB,Product Sales - Sep 2024
+TXN100118,2024/02/13,6000,Operations,Internal Payroll,383291.55,ETB,Salaries & Wages - Feb 2024
+TXN101216,2025-06-01,4000,Sales,Corporate Client,151635.92,ETB,Product Sales - Jun 2025
+TXN101184,2025-05-23,5200,Operations,Ethio Freight,"419,205.97",ETB,Freight & Logistics - May 2025
+TXN101268,2025-06-24,6200,HR,Coursera Business,2745.22,ETB,Training & Development - Jun 2025
+TXN100683,2024-10-25,5000,Operations,Habesha Supplies,109193.95,ETB,Materials - Oct 2024
+TXN101490,2025/09/19,6000,Finance,Internal Payroll,133369.22,ETB,Salaries & Wages - Sep 2025
+TXN100006,2024-01-24,4000,Sales,NGO Client,"930,823.62",ETB,Product Sales - Jan 2024
+TXN101665,2025-12-05,4000,Sales,Government Contract,"224,298.57",ETB,Product Sales - Dec 2025
+TXN100467,2024-07-14,5000,Operations,Habesha Supplies,212993.4,ETB,Materials - Jul 2024
+TXN101378,2025-08-31,4100,Operations,Government Contract,61299.12,ETB,Service Revenue - Aug 2025
+TXN101244,2025-06-18,5000,Operations,Habesha Supplies,"368,496.30",ETB,Materials - Jun 2025
+TXN100992,2025-02-22,6500,marketing,Ethiopian Airlines,844.01,ETB,Travel & Entertainment - Feb 2025
+TXN100843,2024-12-26,6500,Sales,Hilton Addis,16609.84,ETB,Travel & Entertainment - Dec 2024
+TXN100446,2024-07-14,4000,Sales,NGO Client,328009.65,ETB,Product Sales - Jul 2024
+TXN100137,2024-02-09,6500,,Hilton Addis,27474.68,ETB,Travel & Entertainment - Feb 2024
+TXN100012,2024-01-15,4000,Sales,Government Contract,115267.84,ETB,Product Sales - Jan 2024
+TXN101103,2025-04-28,5000,Operations,Rift Valley Inputs,138406.52,ETB,Materials - Apr 2025
+TXN101265,2025-06-23,6000,Finance,Internal Payroll,71059.54,ETB,Salaries & Wages - Jun 2025
+TXN100333,2024-05-27,6000,IT,Internal Payroll,18770.15,ETB,Salaries & Wages - May 2024
+TXN100878,2025-01-31,4200,Sales,Wholesale Customer,"87,920.95",ETB,Subscription Revenue - Jan 2025
+TXN100952,2025-02-21,4200,Sales,NGO Client,75983.53,ETB,Subscription Revenue - Feb 2025
+TXN100777,2024-11-10,6000,finance,Internal Payroll,57559.4,ETB,Salaries & Wages - Nov 2024
+TXN100605,2024-09-06,4200,,NGO Client,48418.36,ETB,Subscription Revenue - Sep 2024
+TXN100569,2024-08-31,6600,IT,AWS,13585.46,ETB,Software & IT Services - Aug 2024
+TXN101052,2025/03/30,6000,Finance,Internal Payroll,"74,451.93",ETB,Salaries & Wages - Mar 2025
+TXN101150,2025/05/25,4000,Sales,Retail Customer,432550.33,ETB,Product Sales - May 2025
+TXN101238,2025-06-29,4200,Sales,Government Contract,151088.07,ETB,Subscription Revenue - Jun 2025
+TXN101722,24-Dec-2025,6700,Finance,Abebe Audit Services,6724.45,ETB,Professional Fees - Dec 2025
+TXN100055,2024-01-24,6200,HR,Ethiopian Management Institute,"38,981.52",ETB,Training & Development - Jan 2024
+TXN101126,2025-04-15,6100,HR,,106407.66,ETB,Employee Benefits - Apr 2025
+TXN100234,15-Apr-2024,4100,Operations,Corporate Client,299746.5,ETB,Service Revenue - Apr 2024
+TXN100379,2024-06-23,4100,Operations,Wholesale Customer,"818,880.53",ETB,Service Revenue - Jun 2024
+TXN100085,2024-02-23,4000,sales,Wholesale Customer,"20,577.46",ETB,Product Sales - Feb 2024
+TXN100642,2024-09-06,6500,Marketing,Ethiopian Airlines,40763.66,ETB,Travel & Entertainment - Sep 2024
+TXN100416,2024-06-12,6300,Operations,Bole Properties,309030.57,ETB,Rent & Utilities - Jun 2024
+TXN101006,2025-03-28,4000,Sales,NGO Client,300810.25,ETB,Product Sales - Mar 2025
+TXN100065,2024-01-17,6700,Finance,Tadesse & Partners Law,31775.38,ETB,Professional Fees - Jan 2024
+TXN101457,2025-09-22,4200,Sales,Wholesale Customer,70733.61,ETB,Subscription Revenue - Sep 2025
+TXN101049,2025-03-08,6000,IT,Internal Payroll,281838.34,ETB,Salaries & Wages - Mar 2025
+TXN100188,05/03/2024,6000,Operations,Internal Payroll,"138,383.93",ETB,Salaries & Wages - Mar 2024
+TXN100756,2024-11-20,5000,OPERATIONS,Habesha Supplies,172079.66,ETB,Materials - Nov 2024
+TXN101229,2025-06-18,4100,Operations,Corporate Client,528849.17,ETB,Service Revenue - Jun 2025
+TXN100152,2024-03-23,4000,Sales,Government Contract,186868.76,ETB,Product Sales - Mar 2024
+TXN100832,2024-12-14,6000,Marketing,Internal Payroll,225165.65,ETB,Salaries & Wages - Dec 2024
+TXN101375,04-Aug-2025,4100,  Operations ,Retail Customer,"181,910.31",ETB,Service Revenue - Aug 2025
+TXN101058,2025-03-05,6400,Marketing,Meta Ads,328463.26,ETB,Marketing & Advertising - Mar 2025
+TXN100389,2024-06-23,4200,Sales,Wholesale Customer,189926.4,ETB,Subscription Revenue - Jun 2024
+TXN100138,2024-02-15,6600,IT,Ethio Telecom,31687.13,ETB,Software & IT Services - Feb 2024
+TXN100732,2024-11-27,4000,Sales,Wholesale Customer,187039.17,ETB,Product Sales - Nov 2024
+TXN100173,2024-03-17,4200,Sales,Retail Customer,"39,736.96",ETB,Subscription Revenue - Mar 2024
+TXN101534,2025-10-19,4200,Sales,NGO Client,130161.71,ETB,Subscription Revenue - Oct 2025
+TXN100531,25/08/2024,4200,Sales,Corporate Client,"28,090.60",ETB,Subscription Revenue - Aug 2024
+TXN101288,2025-06-21,6900,Finance,Ethiopian Insurance Corp,13051.39,ETB,Insurance - Jun 2025
+TXN100766,2024-11-07,6000,Sales,Internal Payroll,44147.51,ETB,Salaries & Wages - Nov 2024
+TXN100456,2024-07-22,4200,sales,NGO Client,248512.22,ETB,Subscription Revenue - Jul 2024
+TXN100736,2024/11/14,4000,  Sales ,NGO Client,119142.87,ETB,Product Sales - Nov 2024
+TXN101109,2025-04-17,5100,Operations,Internal Payroll,230844.06,ETB,Direct Labor - Apr 2025
+TXN101399,21/08/2025,5200,Operations,Ethio Freight,69875.24,ETB,Freight & Logistics - Aug 2025
+TXN101356,2025-07-06,6900,Finance,Ethiopian Insurance Corp,"1,577.76",ETB,Insurance - Jul 2025
+TXN100595,2024-09-28,4100,Operations,Retail Customer,"144,998.12",ETB,Service Revenue - Sep 2024
+TXN101232,2025-06-20,4100,Operations,Wholesale Customer,105910.11,ETB,Service Revenue - Jun 2025
+TXN101480,2025-09-17,6000,Marketing,Internal Payroll,"211,289.12",ETB,Salaries & Wages - Sep 2025
+TXN100375,2024-06-15,4000,Sales,Government Contract,62488.61,ETB,Product Sales - Jun 2024
+TXN101626,2025-11-22,6000,Sales,Internal Payroll,78013.16,ETB,Salaries & Wages - Nov 2025
+TXN100002,2024-01-18,4000,SALES,Corporate Client,83359.3,ETB,Product Sales - Jan 2024
+TXN100710,2024-10-20,6300,Operations,EEU Utilities,"200,312.87",ETB,Rent & Utilities - Oct 2024
+TXN100938,2025/02/04,4000,Sales,NGO Client,43758.36,ETB,Product Sales - Feb 2025
+TXN101611,07-Nov-2025,4200,Sales,Retail Customer,"174,544.69",ETB,Subscription Revenue - Nov 2025
+TXN100161,2024-03-30,4100,Operations,Wholesale Customer,526954.56,ETB,Service Revenue - Mar 2024
+TXN101657,2025-11-18,7000,Finance,Internal Payroll,103957.26,ETB,Depreciation - Nov 2025
+TXN100051,2024-01-22,6000,HR,Internal Payroll,107383.71,ETB,Salaries & Wages - Jan 2024
+TXN100821,2024-12-31,4200,Sales,Retail Customer,"87,700.12",ETB,Subscription Revenue - Dec 2024
+TXN101274,02-Jun-2025,6500,Sales,Skylight Hotel,27481.24,ETB,Travel & Entertainment - Jun 2025
+TXN100998,2025/02/22,6900,Finance,Ethiopian Insurance Corp,"28,492.52",ETB,Insurance - Feb 2025
+TXN100671,2024-10-02,4100,Operations,Wholesale Customer,460043.83,ETB,Service Revenue - Oct 2024
+TXN100033,2024-01-02,5000,operations,Awash Raw Materials,163375.14,ETB,Materials - Jan 2024
+TXN100239,2024/04/10,4200,Sales,Government Contract,91429.02,ETB,Subscription Revenue - Apr 2024
+TXN100128,2024-02-25,6200,HR,Coursera Business,5502.89,ETB,Training & Development - Feb 2024
+TXN100355,20/05/2024,6800,Finance,Office Mart,2702.77,ETB,Office Supplies - May 2024
+TXN100165,2024-03-31,4100,Operations,Retail Customer,227968.83,ETB,Service Revenue - Mar 2024
+TXN101204,2025-05-05,6600,IT,Safaricom Business,258879.08,ETB,Software & IT Services - May 2025
+TXN100493,30/07/2024,6500,Marketing,Hilton Addis,22466.4,ETB,Travel & Entertainment - Jul 2024
+TXN100473,02-Jul-2024,5200,Operations,Djibouti Corridor Logistics,301418.51,ETB,Freight & Logistics - Jul 2024
+TXN101556,07/10/2025,6000,Marketing,Internal Payroll,11982.41,ETB,Salaries & Wages - Oct 2025
+TXN101640,2025/11/13,6300,Operations,Bole Properties,89569.99,ETB,Rent & Utilities - Nov 2025
+TXN900010,30-Sep-2025,4100,Operations,Government Contract,0,ETB,Service Revenue - Sep 2025
+TXN100090,2024-02-26,4100,Operations,Corporate Client,476850.94,ETB,Service Revenue - Feb 2024
+TST0000,2024-08-12,4200,Sales,Corporate Client,47782.69,ETB,TEST POSTING - DO NOT USE
+TXN100098,2024-02-05,4200,Sales,NGO Client,95135.1,ETB,Subscription Revenue - Feb 2024
+TXN101024,28/03/2025,4200,Sales,Corporate Client,"34,043.85",ETB,Subscription Revenue - Mar 2025
+TXN101315,2025-07-17,4200,Sales,Retail Customer,"399,893.61",ETB,Subscription Revenue - Jul 2025
+TXN100450,2024-07-27,4100,Operations,NGO Client,"281,005.89",ETB,Service Revenue - Jul 2024
+TXN100551,2024-08-25,6000,,Internal Payroll,45707.48,ETB,Salaries & Wages - Aug 2024
+TXN101099,23-Apr-2025,4200,Sales,Corporate Client,52281.88,ETB,Subscription Revenue - Apr 2025
+TXN100219,2024-04-21,4000,Sales,Wholesale Customer,571307.27,ETB,Product Sales - Apr 2024
+TXN100179,2024-03-29,5000,Operations,Awash Raw Materials,303441.8,ETB,Materials - Mar 2024
+TXN100434,2024-06-26,6900,Finance,Ethiopian Insurance Corp,"18,040.94",ETB,Insurance - Jun 2024
+TXN100568,19-Aug-2024,6600,IT,Ethio Telecom,196926.55,ETB,Software & IT Services - Aug 2024
+TST0001,06-Mar-2025,6200,HR,Coursera Business,"89,968.14",ETB,TEST POSTING - DO NOT USE
+TXN100742,2024-11-07,4100,Operations,Wholesale Customer,238728.46,ETB,Service Revenue - Nov 2024
+TXN101181,2025-05-14,5000,Operations,Habesha Supplies,210256.26,ETB,Materials - May 2025
+TXN100484,2024-07-18,6100,HR,Internal Payroll,262726.65,ETB,Employee Benefits - Jul 2024
+TXN101329,2025-07-18,5200,Operations,Ethio Freight,122353.21,ETB,Freight & Logistics - Jul 2025
+TXN101410,2025/08/13,6000,IT,Internal Payroll,40232.68,ETB,Salaries & Wages - Aug 2025
+TXN100438,2024-07-22,4000,Sales,Corporate Client,512248.37,ETB,Product Sales - Jul 2024
+TXN100781,2024-11-17,6300,Operations,Bole Properties,164353.94,ETB,Rent & Utilities - Nov 2024
+TXN100549,2024-08-28,6000,Operations,Internal Payroll,272929.03,ETB,Salaries & Wages - Aug 2024
+TXN100854,16/12/2024,6900,Finance,Ethiopian Insurance Corp,"24,274.85",ETB,Insurance - Dec 2024
+TXN101652,2025-11-13,6700,Finance,Tadesse & Partners Law,4698.75,ETB,Professional Fees - Nov 2025
+TXN100783,2024-11-25,6400,Marketing,Digital Reach Agency,94772.14,ETB,Marketing & Advertising - Nov 2024
+TXN101293,2025-07-20,4000,Sales,NGO Client,296390.67,ETB,Product Sales - Jul 2025
+TXN101090,2025/04/18,4100,OPERATIONS,Corporate Client,648305.46,ETB,Service Revenue - Apr 2025
+TXN101239,2025-06-28,4200,Sales,Retail Customer,191327.43,ETB,Subscription Revenue - Jun 2025
+TXN101008,2025-03-15,4000,Sales,Wholesale Customer,404979.0,ETB,Product Sales - Mar 2025
+TXN101403,2025-08-01,6000,Marketing,Internal Payroll,195748.33,ETB,Salaries & Wages - Aug 2025
+TXN101290,22/07/2025,4000,Sales,Retail Customer,816291.72,ETB,Product Sales - Jul 2025
+TXN100674,2024-10-17,4200,Sales,NGO Client,124689.2,ETB,Subscription Revenue - Oct 2024
+TXN101710,2025/12/18,6100,HR,Internal Payroll,162441.24,ETB,Employee Benefits - Dec 2025
+TXN100687,2024-10-05,5000,Operations,Awash Raw Materials,730365.26,ETB,Materials - Oct 2024
+TXN101198,18-May-2025,6300,Operations,Bole Properties,"292,546.17",ETB,Rent & Utilities - May 2025
+TXN101506,2025-09-19,6700,Finance,Tadesse & Partners Law,66811.74,ETB,Professional Fees - Sep 2025
+TXN100818,2024/12/29,4200,Sales,Corporate Client,"23,840.23",ETB,Subscription Revenue - Dec 2024
+TXN100753,14/11/2024,4200,Sales,Corporate Client,261365.72,ETB,Subscription Revenue - Nov 2024
+TXN100122,2024-02-07,6000,HR,Internal Payroll,22319.23,ETB,Salaries & Wages - Feb 2024
+TXN100700,2024-10-04,6000,HR,Internal Payroll,"49,883.52",ETB,Salaries & Wages - Oct 2024
+TXN100877,2025-01-13,4200,Sales,Wholesale Customer,29830.28,ETB,Subscription Revenue - Jan 2025
+TXN101106,2025/04/17,5000,Operations,Awash Raw Materials,356854.54,ETB,Materials - Apr 2025
+TXN101041,07/03/2025,5200,Operations,Ethio Freight,290391.54,ETB,Freight & Logistics - Mar 2025
+TXN101688,2025-12-06,5000,Operations,Awash Raw Materials,147248.83,ETB,Materials - Dec 2025
+TXN100579,2024-08-31,7000,Finance,Internal Payroll,8364.07,ETB,Depreciation - Aug 2024
+TXN100856,2024-12-06,7000,Finance,Internal Payroll,"121,326.62",ETB,Depreciation - Dec 2024
+TXN101612,2025-11-04,4200,Sales,Corporate Client,"180,877.25",ETB,Subscription Revenue - Nov 2025
+TXN100039,2024-01-04,5200,Operations,Ethio Freight,127577.82,ETB,Freight & Logistics - Jan 2024
+TXN100032,31/01/2024,5000,Operations,Rift Valley Inputs,"257,529.84",ETB,Materials - Jan 2024
+TXN101247,03/06/2025,5000,Operations,Habesha Supplies,516975.75,ETB,Materials - Jun 2025
+TXN100107,2024-02-04,5000,  Operations ,Habesha Supplies,108304.12,ETB,Materials - Feb 2024
+TXN100024,25/01/2024,4200,Sales,Government Contract,"53,984.82",ETB,Subscription Revenue - Jan 2024
+TXN100711,25/10/2024,6400,Marketing,Digital Reach Agency,"197,378.98",ETB,Marketing & Advertising - Oct 2024
+TXN100070,17-Jan-2024,6900,Finance,Nyala Insurance,"34,502.92",ETB,Insurance - Jan 2024
+TXN101604,2025-11-08,4100,Operations,Wholesale Customer,205810.68,ETB,Service Revenue - Nov 2025
+REV0003,25/01/2024,4200,Sales,Government Contract,"(5,398.48)",ETB,Adjustment / partial reversal
+TXN101621,2025-11-16,5000,OPERATIONS,Awash Raw Materials,679187.87,ETB,Materials - Nov 2025
+TXN101620,2025-11-13,5000,,Awash Raw Materials,41724.21,ETB,Materials - Nov 2025
+TXN101580,2025-10-03,6800,Finance,Shoa Stationery,20955.38,ETB,Office Supplies - Oct 2025
+TXN100266,08/04/2024,6000,Finance,Internal Payroll,"100,576.22",ETB,Salaries & Wages - Apr 2024
+TXN101167,2025-05-23,4100,Operations,NGO Client,35368.21,ETB,Service Revenue - May 2025
+TXN101017,2025-03-19,4100,Operations,Wholesale Customer,610906.14,ETB,Service Revenue - Mar 2025
+TXN101065,2025-03-21,6700,Finance,KPMG Ethiopia,32890.25,ETB,Professional Fees - Mar 2025
+TXN100505,2024-07-24,7000,Finance,Internal Payroll,71508.59,ETB,Depreciation - Jul 2024
+TXN100277,09-Apr-2024,6400,Marketing,Meta Ads,242805.51,ETB,Marketing & Advertising - Apr 2024
+TXN100810,2024/12/31,4100,Operations,Retail Customer,"2,145.67",ETB,Service Revenue - Dec 2024
+TXN100340,2024/05/19,6200,HR,Ethiopian Management Institute,"10,307.84",ETB,Training & Development - May 2024
+TXN101718,2025-12-31,6500,  Sales ,Skylight Hotel,21171.57,ETB,Travel & Entertainment - Dec 2025
+TXN100946,2025-02-01,4100,Operations,Retail Customer,620.62,ETB,Service Revenue - Feb 2025
+TXN101362,2025-08-16,4000,Sales,Corporate Client,44932.98,ETB,Product Sales - Aug 2025
+TXN100186,2024/03/22,6000,Marketing,Internal Payroll,"78,809.28",ETB,Salaries & Wages - Mar 2024
+TXN100799,02/12/2024,4000,Sales,Retail Customer,319447.61,ETB,Product Sales - Dec 2024
+TXN100931,2025-02-02,4000,Sales,NGO Client,"37,400.66",ETB,Product Sales - Feb 2025
+TXN100745,20-Nov-2024,4100,  Operations ,Corporate Client,547546.98,ETB,Service Revenue - Nov 2024
+TXN100979,2025/02/07,6000,Finance,Internal Payroll,"125,920.18",ETB,Salaries & Wages - Feb 2025
+TXN100062,2024-01-14,6500,Marketing,Hilton Addis,35074.09,ETB,Travel & Entertainment - Jan 2024
+TXN100798,2024-12-07,4000,sales,NGO Client,675410.88,ETB,Product Sales - Dec 2024
+TXN101513,25-Oct-2025,4000,Sales,,364916.68,ETB,Product Sales - Oct 2025
+TXN101681,2025-12-14,4200,Sales,Government Contract,"220,188.65",ETB,Subscription Revenue - Dec 2025
+TXN101537,2025-10-24,4200,Sales,Corporate Client,303829.14,ETB,Subscription Revenue - Oct 2025
+TXN100194,2024-03-06,6100,HR,Internal Payroll,94685.91,ETB,Employee Benefits - Mar 2024
+TXN100647,2024-09-28,6800,Finance,Office Mart,5505.88,ETB,Office Supplies - Sep 2024
+TXN100034,2024-01-26,5000,Operations,Awash Raw Materials,92769.06,ETB,Materials - Jan 2024
+TXN101461,2025-09-19,4200,Sales,Corporate Client,77232.34,ETB,Subscription Revenue - Sep 2025
+TXN100801,2024-12-20,4000,Sales,NGO Client,"223,789.00",ETB,Product Sales - Dec 2024
+TXN100058,2024/01/10,6400,Marketing,Google Ads,"259,387.47",ETB,Marketing & Advertising - Jan 2024
+TXN100939,2025-02-22,4000,Sales,Retail Customer,19614.44,ETB,Product Sales - Feb 2025
+TXN900011,03/10/2025,6500,marketing,Skylight Hotel,0,ETB,Travel & Entertainment - Oct 2025
+TXN100359,2024-05-04,6900,Finance,Ethiopian Insurance Corp,11289.59,ETB,Insurance - May 2024
+TXN101070,2025-03-29,6900,Finance,Nyala Insurance,40472.24,ETB,Insurance - Mar 2025
+TXN101419,2025-08-16,6300,Operations,EEU Utilities,"224,598.27",ETB,Rent & Utilities - Aug 2025
+TXN100069,2024-01-05,6900,  Finance ,Ethiopian Insurance Corp,47152.03,ETB,Insurance - Jan 2024
+TXN100292,2024/05/06,4000,Sales,Government Contract,71339.0,ETB,Product Sales - May 2024
+TXN100047,2024-01-25,6000,IT,Internal Payroll,85857.1,ETB,Salaries & Wages - Jan 2024
+TXN100924,19-Jan-2025,6700,Finance,Tadesse & Partners Law,95221.86,ETB,Professional Fees - Jan 2025
+TXN100278,2024/04/26,6500,Sales,Ethiopian Airlines,27701.56,ETB,Travel & Entertainment - Apr 2024
+TXN101650,2025-11-30,6600,IT,Safaricom Business,18033.02,ETB,Software & IT Services - Nov 2025
+TXN100225,29/04/2024,4000,  Sales ,Government Contract,252040.36,ETB,Product Sales - Apr 2024
+TXN100865,14/01/2025,4000,Sales,Wholesale Customer,200643.07,ETB,Product Sales - Jan 2025
+TXN100382,2024-06-30,4100,,NGO Client,134453.28,ETB,Service Revenue - Jun 2024
+TXN101298,2025-07-22,4000,Sales,Retail Customer,233257.9,ETB,Product Sales - Jul 2025
+TXN100365,2024-06-10,4000,Sales,NGO Client,726493.17,ETB,Product Sales - Jun 2024
+TXN101709,10/12/2025,6000,Finance,Internal Payroll,"178,815.03",ETB,Salaries & Wages - Dec 2025
+TXN101025,2025/03/12,4200,Sales,Government Contract,46207.72,ETB,Subscription Revenue - Mar 2025
+TXN100774,23-Nov-2024,6000,HR,Internal Payroll,18122.88,ETB,Salaries & Wages - Nov 2024
+TXN101395,2025-08-15,5100,Operations,Internal Payroll,"347,606.28",ETB,Direct Labor - Aug 2025
+TXN100067,2024-01-21,6800,Finance,Office Mart,6568.1,ETB,Office Supplies - Jan 2024
+TXN101056,06-Mar-2025,6200,HR,Coursera Business,"89,968.14",ETB,Training & Development - Mar 2025
+TXN100868,2025-01-18,4000,  Sales ,Retail Customer,1422921.82,ETB,Product Sales - Jan 2025
+TXN100029,2024-01-11,5000,Operations,Habesha Supplies,236071.44,ETB,Materials - Jan 2024
+TXN100295,2024/05/10,4000,Sales,Corporate Client,434605.18,ETB,Product Sales - May 2024
+TXN100114,05/02/2024,6000,Sales,Internal Payroll,"13,062.20",ETB,Salaries & Wages - Feb 2024
+TXN100246,01/04/2024,5000,Operations,Habesha Supplies,247149.77,ETB,Materials - Apr 2024
+TXN101023,2025-03-01,4200,Sales,NGO Client,59881.81,ETB,Subscription Revenue - Mar 2025
+TXN100981,2025/02/14,6000,Finance,Internal Payroll,59803.85,ETB,Salaries & Wages - Feb 2025
+TXN100412,2024-06-02,6000,Finance,Internal Payroll,30328.39,ETB,Salaries & Wages - Jun 2024
+TXN101397,11-Aug-2025,5100,Operations,Internal Payroll,175292.53,ETB,Direct Labor - Aug 2025
+TXN101283,2025-06-28,6800,,Shoa Stationery,6694.61,ETB,Office Supplies - Jun 2025
+TXN100117,2024-02-21,6000,Marketing,Internal Payroll,"214,806.26",ETB,Salaries & Wages - Feb 2024
+TXN101663,2025-12-06,4000,Sales,Retail Customer,143241.82,ETB,Product Sales - Dec 2025
+TXN101441,2025-09-17,4000,Sales,Wholesale Customer,187546.78,ETB,Product Sales - Sep 2025
+TXN100248,14-Apr-2024,5000,Operations,Habesha Supplies,46987.19,ETB,Materials - Apr 2024
+TXN100666,2024-10-18,4000,Sales,Wholesale Customer,"82,864.34",ETB,Product Sales - Oct 2024
+TXN101700,2025-12-14,6000,Sales,Internal Payroll,31794.24,ETB,Salaries & Wages - Dec 2025
+TXN101334,2025/07/07,6000,marketing,Internal Payroll,"1,615.67",ETB,Salaries & Wages - Jul 2025
+TXN100093,2024-02-24,4100,Operations,Retail Customer,234688.19,ETB,Service Revenue - Feb 2024
+TXN100115,2024-02-09,6000,Sales,Internal Payroll,"355,642.64",ETB,Salaries & Wages - Feb 2024
+TXN100255,2024-04-19,5200,Operations,Djibouti Corridor Logistics,103188.97,ETB,Freight & Logistics - Apr 2024
+TXN100430,2024-06-25,6800,Finance,Shoa Stationery,"2,686.55",ETB,Office Supplies - Jun 2024
+TXN100589,2024/09/14,4000,Sales,Retail Customer,495200.66,ETB,Product Sales - Sep 2024
+TXN101448,21-Sep-2025,4000,Sales,Wholesale Customer,191615.35,ETB,Product Sales - Sep 2025
+TXN100119,2024-02-29,6000,IT,Internal Payroll,118363.74,ETB,Salaries & Wages - Feb 2024
+TXN100133,2024-02-20,6300,Operations,EEU Utilities,131518.49,ETB,Rent & Utilities - Feb 2024
+TXN101286,2025-06-29,6900,,Nyala Insurance,9314.08,ETB,Insurance - Jun 2025
+TXN101519,2025/10/28,4000,Sales,Government Contract,208864.35,ETB,Product Sales - Oct 2025
+TXN100247,28/04/2024,5000,Operations,Rift Valley Inputs,"760,620.61",ETB,Materials - Apr 2024
+TXN101172,2025-05-31,4200,Sales,Corporate Client,47493.01,ETB,Subscription Revenue - May 2025
+TXN100776,2024-11-28,6000,Finance,Internal Payroll,68210.69,ETB,Salaries & Wages - Nov 2024
+TXN100553,25/08/2024,6000,HR,Internal Payroll,"34,485.06",ETB,Salaries & Wages - Aug 2024
+TXN101114,2025-04-16,6000,Sales,Internal Payroll,104794.44,ETB,Salaries & Wages - Apr 2025
+TXN101654,2025-11-03,6900,Finance,Ethiopian Insurance Corp,"34,897.72",ETB,Insurance - Nov 2025
+TXN101096,2025-04-25,4200,Sales,Wholesale Customer,106022.49,ETB,Subscription Revenue - Apr 2025
+TXN101305,27/07/2025,4100,Operations,,"170,841.61",ETB,Service Revenue - Jul 2025
+TXN101219,2025-06-03,4000,Sales,NGO Client,35335.7,ETB,Product Sales - Jun 2025
+TXN100652,06-Sep-2024,7000,Finance,Internal Payroll,97242.66,ETB,Depreciation - Sep 2024
+TXN101171,2025/05/28,4200,Sales,Corporate Client,"149,977.48",ETB,Subscription Revenue - May 2025
+TXN101143,2025/04/30,6700,Finance,Tadesse & Partners Law,87999.84,ETB,Professional Fees - Apr 2025
+TXN101366,2025-08-10,4000,Sales,Government Contract,1501570.93,ETB,Product Sales - Aug 2025
+TXN101723,2025-12-06,6700,Finance,Abebe Audit Services,75063.23,ETB,Professional Fees - Dec 2025
+TXN100534,2024-08-18,5000,Operations,Awash Raw Materials,221488.16,ETB,Materials - Aug 2024
+TXN100863,2025-01-09,4000,Sales,Wholesale Customer,48619.49,ETB,Product Sales - Jan 2025
+TXN101227,2025-06-21,4000,Sales,Corporate Client,36564.64,ETB,Product Sales - Jun 2025
+TXN101452,2025/09/11,4100,Operations,Wholesale Customer,"283,483.21",ETB,Service Revenue - Sep 2025
+TXN100898,2025-01-02,6000,Sales,Internal Payroll,177326.8,ETB,Salaries & Wages - Jan 2025
+TXN101551,2025-10-25,5200,Operations,Djibouti Corridor Logistics,176876.48,ETB,Freight & Logistics - Oct 2025
+TXN100128,2024-02-25,6200,HR,Coursera Business,5502.89,ETB,Training & Development - Feb 2024
+TXN100677,2024-10-06,4200,Sales,,53801.21,ETB,Subscription Revenue - Oct 2024
+TXN100015,2024-01-22,4100,Operations,Government Contract,586609.19,ETB,Service Revenue - Jan 2024
+TXN100501,2024-07-06,6900,Finance,Nyala Insurance,18930.59,ETB,Insurance - Jul 2024
+TXN101460,23/09/2025,4200,  Sales ,Corporate Client,95206.93,ETB,Subscription Revenue - Sep 2025
+TXN101107,2025-04-23,5000,,Awash Raw Materials,"430,497.38",ETB,Materials - Apr 2025
+TXN100363,24-Jun-2024,4000,Sales,Retail Customer,"69,956.25",ETB,Product Sales - Jun 2024
+TXN100601,2024/09/29,4200,Sales,Corporate Client,101692.34,ETB,Subscription Revenue - Sep 2024
+TXN100876,2025-01-01,4100,Operations,Retail Customer,28328.06,ETB,Service Revenue - Jan 2025
+TXN100274,21/04/2024,6300,Operations,EEU Utilities,10832.17,ETB,Rent & Utilities - Apr 2024
+TXN100685,09/10/2024,5000,Operations,Awash Raw Materials,"186,181.70",ETB,Materials - Oct 2024
+TXN101562,2025-10-24,6000,Finance,Internal Payroll,158065.58,ETB,Salaries & Wages - Oct 2025
+TXN101134,2025-04-26,6400,Marketing,Google Ads,"95,547.38",ETB,Marketing & Advertising - Apr 2025
+TXN100372,2024/06/11,4000,Sales,Wholesale Customer,1305334.37,ETB,Product Sales - Jun 2024
+TXN100272,2024-04-26,6200,,Ethiopian Management Institute,106.57,ETB,Training & Development - Apr 2024
+TXN100606,10/09/2024,4200,Sales,Retail Customer,38178.49,ETB,Subscription Revenue - Sep 2024
+TXN100215,2024-03-11,7000,FINANCE,Internal Payroll,6209.96,ETB,Depreciation - Mar 2024
+TXN101341,2025-07-06,6100,HR,Internal Payroll,2658.78,ETB,Employee Benefits - Jul 2025
+TXN100345,2024-05-28,6400,Marketing,Google Ads,334525.48,ETB,Marketing & Advertising - May 2024
+TXN100839,2024-12-11,6300,Operations,Bole Properties,321019.69,ETB,Rent & Utilities - Dec 2024
+TXN100148,2024-03-27,4000,Sales,Retail Customer,167043.36,ETB,Product Sales - Mar 2024
+TXN101022,06-Mar-2025,4200,Sales,Wholesale Customer,261027.77,ETB,Subscription Revenue - Mar 2025
+TXN101505,2025-09-05,6700,Finance,KPMG Ethiopia,45962.0,ETB,Professional Fees - Sep 2025
+TXN100413,2024-06-24,6000,Finance,Internal Payroll,38661.32,ETB,Salaries & Wages - Jun 2024
+TXN100784,2024-11-04,6500,Sales,Hilton Addis,"3,089.34",ETB,Travel & Entertainment - Nov 2024
+TXN100343,05/05/2024,6300,Operations,Bole Properties,90745.53,ETB,Rent & Utilities - May 2024
+TXN100948,2025-02-20,4100,Operations,NGO Client,26349.34,ETB,Service Revenue - Feb 2025
+TXN100748,03-Nov-2024,4200,  Sales ,NGO Client,"53,621.90",ETB,Subscription Revenue - Nov 2024
+TXN100174,28-Mar-2024,5000,Operations,Awash Raw Materials,136075.7,ETB,Materials - Mar 2024
+TXN100378,2024-06-09,4100,Operations,Wholesale Customer,243576.39,ETB,Service Revenue - Jun 2024
+TXN100739,2024-11-06,4000,Sales,Government Contract,37213.26,ETB,Product Sales - Nov 2024
+TXN101497,03/09/2025,6200,HR,Ethiopian Management Institute,50187.02,ETB,Training & Development - Sep 2025
+TXN100053,2024-01-16,6100,HR,Internal Payroll,263804.15,ETB,Employee Benefits - Jan 2024
+TXN100019,2024-01-05,4100,Operations,Corporate Client,297691.06,ETB,Service Revenue - Jan 2024
+TXN100222,2024/04/22,4000,Sales,Retail Customer,106947.02,ETB,Product Sales - Apr 2024
+TXN101257,2025/06/09,6000,MARKETING,Internal Payroll,49297.29,ETB,Salaries & Wages - Jun 2025
+TST0004,2024-11-07,4200,Sales,Wholesale Customer,45359.56,ETB,TEST POSTING - DO NOT USE
+TXN101716,2025-12-17,6400,Marketing,Digital Reach Agency,231286.27,ETB,Marketing & Advertising - Dec 2025
+TXN101141,2025-04-11,6600,IT,Safaricom Business,7554.19,ETB,Software & IT Services - Apr 2025
+TXN100096,2024-02-19,4200,Sales,Corporate Client,71394.3,ETB,Subscription Revenue - Feb 2024
+TXN100262,27/04/2024,6000,IT,Internal Payroll,262465.49,ETB,Salaries & Wages - Apr 2024
+TXN101433,05/08/2025,6900,Finance,Ethiopian Insurance Corp,59026.25,ETB,Insurance - Aug 2025
+TXN101436,2025-08-01,7000,Finance,Internal Payroll,122300.64,ETB,Depreciation - Aug 2025
+TXN100180,21/03/2024,5000,Operations,Rift Valley Inputs,18713.5,ETB,Materials - Mar 2024
+TXN101127,2025/04/16,6100,HR,Internal Payroll,"159,138.54",ETB,Employee Benefits - Apr 2025
+TXN100717,24-Oct-2024,6600,IT,Microsoft,223763.13,ETB,Software & IT Services - Oct 2024
+TXN101693,2025-12-06,5100,Operations,Internal Payroll,"621,840.51",ETB,Direct Labor - Dec 2025
+TXN100185,2024-03-02,6000,MARKETING,Internal Payroll,148842.88,ETB,Salaries & Wages - Mar 2024
+TXN100468,2024/07/18,5000,Operations,Awash Raw Materials,"776,271.95",ETB,Materials - Jul 2024
+TXN100904,2025/01/13,6000,IT,Internal Payroll,209234.8,ETB,Salaries & Wages - Jan 2025
+TXN100072,2024-01-10,7000,Finance,Internal Payroll,"15,222.61",ETB,Depreciation - Jan 2024
+TXN101170,2025-05-19,4200,Sales,Retail Customer,13482.22,ETB,Subscription Revenue - May 2025
+TXN101297,17/07/2025,4000,Sales,Retail Customer,429791.75,ETB,Product Sales - Jul 2025
+TXN100347,2024-05-17,6500,Sales,Hilton Addis,34680.75,ETB,Travel & Entertainment - May 2024
+TXN101208,2025-05-05,6800,Finance,Shoa Stationery,33465.51,ETB,Office Supplies - May 2025
+TXN100030,2024/01/31,5000,Operations,Awash Raw Materials,831346.38,ETB,Materials - Jan 2024
+TXN100797,17/12/2024,4000,Sales,Corporate Client,792481.35,ETB,Product Sales - Dec 2024
+TXN101064,2025-03-15,6600,IT,,242054.83,ETB,Software & IT Services - Mar 2025
+TXN100158,2024-03-20,4000,Sales,Wholesale Customer,513703.26,ETB,Product Sales - Mar 2024
+TXN100933,2025-02-20,4000,Sales,Government Contract,127177.47,ETB,Product Sales - Feb 2025
+TXN100659,2024-10-29,4000,Sales,Corporate Client,80621.51,ETB,Product Sales - Oct 2024
+TXN101578,2025-10-21,6700,Finance,KPMG Ethiopia,23799.49,ETB,Professional Fees - Oct 2025
+TXN100395,2024-06-22,5000,Operations,Awash Raw Materials,539720.34,ETB,Materials - Jun 2024
+TXN101077,2025-04-14,4000,Sales,NGO Client,155650.8,ETB,Product Sales - Apr 2025
+TXN100989,2025-02-17,6500,Sales,Ethiopian Airlines,"61,609.63",ETB,Travel & Entertainment - Feb 2025
+TXN101424,14/08/2025,6500,Marketing,Hilton Addis,"12,549.70",ETB,Travel & Entertainment - Aug 2025
+TXN101271,2025-06-07,6300,Operations,EEU Utilities,"287,504.97",ETB,Rent & Utilities - Jun 2025
+TXN100403,2024-06-04,6000,  Marketing ,Internal Payroll,207315.41,ETB,Salaries & Wages - Jun 2024
+TXN100990,2025-02-24,6500,Marketing,Ethiopian Airlines,51787.24,ETB,Travel & Entertainment - Feb 2025
+TXN100678,2024-10-21,4200,sales,Government Contract,135295.16,ETB,Subscription Revenue - Oct 2024
+TXN101252,2025-06-22,5200,Operations,Djibouti Corridor Logistics,94925.31,ETB,Freight & Logistics - Jun 2025
+TXN100823,20-Dec-2024,5000,Operations,Habesha Supplies,77331.92,ETB,Materials - Dec 2024
+TXN100964,2025-02-24,5000,  Operations ,Habesha Supplies,"331,589.02",ETB,Materials - Feb 2025
+TXN100836,2024-12-14,6000,Finance,Internal Payroll,196016.89,ETB,Salaries & Wages - Dec 2024
+TXN101034,2025-03-26,5000,Operations,Rift Valley Inputs,162643.37,ETB,Materials - Mar 2025
+TXN101484,2025-09-07,6000,IT,Internal Payroll,106049.29,ETB,Salaries & Wages - Sep 2025
+TXN100940,2025-02-15,4000,Sales,Retail Customer,595975.71,ETB,Product Sales - Feb 2025
+TXN101055,2025-03-17,6100,HR,Internal Payroll,185701.58,ETB,Employee Benefits - Mar 2025
+TXN101102,2025-04-03,5000,Operations,Habesha Supplies,403505.93,ETB,Materials - Apr 2025
+TXN100692,2024-10-27,6000,Sales,Internal Payroll,376103.21,ETB,Salaries & Wages - Oct 2024
+TXN101703,05/12/2025,6000,Operations,Internal Payroll,"98,633.59",ETB,Salaries & Wages - Dec 2025
+TXN100335,2024/05/10,6000,HR,Internal Payroll,104686.2,ETB,Salaries & Wages - May 2024
+TXN100874,2025-01-06,4100,Operations,Government Contract,293988.66,ETB,Service Revenue - Jan 2025
+TXN100806,06/12/2024,4000,Sales,Government Contract,9844.58,ETB,Product Sales - Dec 2024
+TXN100008,2024/01/31,4000,  Sales ,Government Contract,"311,802.59",ETB,Product Sales - Jan 2024
+TXN100518,2024-08-24,4000,Sales,Retail Customer,450088.94,ETB,Product Sales - Aug 2024
+TXN100198,2024/03/18,6200,HR,Coursera Business,"6,804.06",ETB,Training & Development - Mar 2024
+TXN100297,2024-05-29,4000,  Sales ,Government Contract,36828.71,ETB,Product Sales - May 2024
+TXN101316,2025-07-25,4200,Sales,NGO Client,"198,049.54",ETB,Subscription Revenue - Jul 2025
+TXN101596,2025/11/09,4000,Sales,Wholesale Customer,"277,184.49",ETB,Product Sales - Nov 2025
+TXN101504,2025-09-18,6600,  IT ,Ethio Telecom,131103.04,ETB,Software & IT Services - Sep 2025
+TXN100123,2024-02-08,6000,HR,Internal Payroll,102530.32,ETB,Salaries & Wages - Feb 2024
+TXN100379,2024-06-23,4100,Operations,Wholesale Customer,"818,880.53",ETB,Service Revenue - Jun 2024
+TXN101063,2025-03-31,6500,Marketing,Ethiopian Airlines,8646.12,ETB,Travel & Entertainment - Mar 2025
+TXN101565,2025-10-29,6200,HR,Ethiopian Management Institute,64391.75,ETB,Training & Development - Oct 2025
+TXN101598,2025-11-20,4000,Sales,Government Contract,281289.95,ETB,Product Sales - Nov 2025
+TXN100163,2024-03-15,4100,Operations,Retail Customer,99868.24,ETB,Service Revenue - Mar 2024
+TXN101187,2025/05/30,6000,Marketing,Internal Payroll,142546.9,ETB,Salaries & Wages - May 2025
+TXN101092,2025-04-05,4100,Operations,Government Contract,90874.6,ETB,Service Revenue - Apr 2025
+TXN100125,26/02/2024,6000,Finance,Internal Payroll,35805.44,ETB,Salaries & Wages - Feb 2024
+TXN100552,2024-08-05,6000,IT,Internal Payroll,69130.93,ETB,Salaries & Wages - Aug 2024
+TXN100005,20/01/2024,4000,Sales,Retail Customer,"420,070.55",ETB,Product Sales - Jan 2024
+TXN100916,2025-01-06,6300,Operations,Bole Properties,321795.55,ETB,Rent & Utilities - Jan 2025
+TXN100959,2025-02-01,5000,Operations,Awash Raw Materials,56959.98,ETB,Materials - Feb 2025
+TXN101527,2025-10-25,4100,Operations,Corporate Client,270255.69,ETB,Service Revenue - Oct 2025
+TXN100612,2024-09-03,5000,Operations,Habesha Supplies,47470.59,ETB,Materials - Sep 2024
+TXN100288,2024-04-08,6900,Finance,Ethiopian Insurance Corp,22402.24,ETB,Insurance - Apr 2024
+TXN100957,22-Feb-2025,4200,Sales,Wholesale Customer,"37,512.09",ETB,Subscription Revenue - Feb 2025
+REV0000,2025-03-21,4000,Sales,NGO Client,"(210,550.44)",ETB,Adjustment / partial reversal
+TXN101336,2025-07-08,6000,IT,Internal Payroll,"119,870.11",ETB,Salaries & Wages - Jul 2025
+TXN101352,2025-07-03,6500,Marketing,Ethiopian Airlines,"5,298.08",ETB,Travel & Entertainment - Jul 2025
+TXN100909,11-Jan-2025,6000,Finance,Internal Payroll,52965.14,ETB,Salaries & Wages - Jan 2025
+TXN100507,2024-08-21,4000,Sales,Corporate Client,"432,293.74",ETB,Product Sales - Aug 2024
+TXN100357,13/05/2024,6800,finance,Office Mart,9857.99,ETB,Office Supplies - May 2024
+TXN100353,2024-05-15,6600,IT,Microsoft,65833.27,ETB,Software & IT Services - May 2024
+TXN100845,24-Dec-2024,6500,Marketing,Hilton Addis,53897.6,ETB,Travel & Entertainment - Dec 2024
+TXN101155,08-May-2025,4000,Sales,NGO Client,709250.45,ETB,Product Sales - May 2025
+TXN100837,09/12/2024,6100,HR,Internal Payroll,289809.47,ETB,Employee Benefits - Dec 2024
+TXN100947,2025-02-26,4100,Operations,Wholesale Customer,"600,173.29",ETB,Service Revenue - Feb 2025
+TXN100668,2024/10/01,4100,Operations,Government Contract,182550.49,ETB,Service Revenue - Oct 2024
+TXN100887,2025-01-25,5000,Operations,Rift Valley Inputs,475738.98,ETB,Materials - Jan 2025
+TXN101285,10-Jun-2025,6800,Finance,Shoa Stationery,4633.08,ETB,Office Supplies - Jun 2025
+TXN101495,2025-09-24,6200,HR,Ethiopian Management Institute,"28,388.48",ETB,Training & Development - Sep 2025
+TXN100334,2024-05-22,6000,IT,Internal Payroll,247971.59,ETB,Salaries & Wages - May 2024
+TXN100154,2024-03-07,4000,Sales,NGO Client,132405.0,ETB,Product Sales - Mar 2024
+TXN100788,2024-11-28,6700,Finance,KPMG Ethiopia,"99,282.43",ETB,Professional Fees - Nov 2024
+TXN100502,14/07/2024,6900,Finance,Ethiopian Insurance Corp,13890.51,ETB,Insurance - Jul 2024
+TXN100722,2024-10-13,6800,Finance,Shoa Stationery,"21,154.87",ETB,Office Supplies - Oct 2024
+TXN100374,2024-06-30,4000,Sales,Retail Customer,82421.93,ETB,Product Sales - Jun 2024
+TXN100591,2024-09-19,4000,Sales,Retail Customer,"498,951.17",ETB,Product Sales - Sep 2024
+TXN100313,2024-05-27,4200,Sales,NGO Client,37112.17,ETB,Subscription Revenue - May 2024
+TXN100043,2024-01-12,6000,Marketing,Internal Payroll,222927.69,ETB,Salaries & Wages - Jan 2024
+TXN101387,2025-08-17,4200,Sales,Retail Customer,2397.14,ETB,Subscription Revenue - Aug 2025
+TXN100646,2024-09-30,6800,Finance,Office Mart,11660.75,ETB,Office Supplies - Sep 2024
+TXN101615,09/11/2025,5000,Operations,Rift Valley Inputs,545818.95,ETB,Materials - Nov 2025
+TXN100972,2025-02-16,6000,MARKETING,Internal Payroll,"110,813.75",ETB,Salaries & Wages - Feb 2025
+TXN101563,2025-10-15,6100,HR,Internal Payroll,"132,734.96",ETB,Employee Benefits - Oct 2025
+TXN100523,2024-08-25,4100,OPERATIONS,Corporate Client,214084.68,ETB,Service Revenue - Aug 2024
+TXN101450,2025-09-07,4000,Sales,NGO Client,605815.31,ETB,Product Sales - Sep 2025
+TXN100763,18/11/2024,5100,Operations,Internal Payroll,394530.69,ETB,Direct Labor - Nov 2024
+TXN101516,2025-10-03,4000,Sales,Government Contract,730782.47,ETB,Product Sales - Oct 2025
+TXN101655,2025-11-05,6900,Finance,Ethiopian Insurance Corp,29562.26,ETB,Insurance - Nov 2025
+TXN101343,2025-07-08,6100,HR,Internal Payroll,63325.25,ETB,Employee Benefits - Jul 2025
+TXN100705,2024-10-11,6100,HR,Internal Payroll,"56,462.84",ETB,Employee Benefits - Oct 2024
+TXN101492,2025-09-19,6000,Finance,Internal Payroll,"64,767.90",ETB,Salaries & Wages - Sep 2025
+TXN101605,2025-11-12,4100,Operations,Corporate Client,60043.49,ETB,Service Revenue - Nov 2025
+TXN101404,10/08/2025,6000,Marketing,Internal Payroll,39492.34,ETB,Salaries & Wages - Aug 2025
+TXN100945,2025-02-14,4100,Operations,Government Contract,434346.69,ETB,Service Revenue - Feb 2025
+TXN100169,10/03/2024,4200,Sales,Government Contract,13881.94,ETB,Subscription Revenue - Mar 2024
+TXN101560,2025-10-28,6000,HR,Internal Payroll,"98,556.10",ETB,Salaries & Wages - Oct 2025
+TXN100361,2024/05/24,7000,Finance,Internal Payroll,24558.2,ETB,Depreciation - May 2024
+TXN101019,2025/03/23,4100,Operations,Retail Customer,63097.38,ETB,Service Revenue - Mar 2025
+TXN900005,05/06/2024,5100,OPERATIONS,Internal Payroll,0,ETB,Direct Labor - Jun 2024
+TXN100744,2024-11-14,4100,Operations,NGO Client,218046.12,ETB,Service Revenue - Nov 2024
+TXN100273,2024-04-01,6200,HR,Coursera Business,7879.12,ETB,Training & Development - Apr 2024
+TXN100520,2024-08-04,4100,Operations,Government Contract,"199,838.71",ETB,Service Revenue - Aug 2024
+TXN100815,17-Dec-2024,4200,Sales,Government Contract,316092.36,ETB,Subscription Revenue - Dec 2024
+TXN100819,2024/12/05,4200,Sales,NGO Client,225337.38,ETB,Subscription Revenue - Dec 2024
+TXN100735,2024-11-22,4000,Sales,Government Contract,70641.9,ETB,Product Sales - Nov 2024
+TXN101685,2025-12-15,4200,Sales,Government Contract,297299.8,ETB,Subscription Revenue - Dec 2025
+TXN101671,2025-12-02,4000,SALES,Government Contract,654672.39,ETB,Product Sales - Dec 2025
+TXN101391,2025-08-28,5000,Operations,Awash Raw Materials,83099.81,ETB,Materials - Aug 2025
+TXN900007,09/04/2024,6000,Operations,Internal Payroll,0,ETB,Salaries & Wages - Apr 2024
+TXN101122,30-Apr-2025,6000,HR,Internal Payroll,91877.21,ETB,Salaries & Wages - Apr 2025
+TXN100129,2024-02-23,6200,HR,Coursera Business,11405.34,ETB,Training & Development - Feb 2024
+TXN100999,2025-02-16,6900,FINANCE,Ethiopian Insurance Corp,22843.08,ETB,Insurance - Feb 2025
+TXN101595,2025/11/24,4000,Sales,Government Contract,520306.22,ETB,Product Sales - Nov 2025
+TXN100545,2024-08-03,6000,Sales,Internal Payroll,84017.28,ETB,Salaries & Wages - Aug 2024
+TXN100380,27/06/2024,4100,Operations,NGO Client,61011.5,ETB,Service Revenue - Jun 2024
+TXN100204,2024-03-13,6400,Marketing,Addis Media Group,196855.25,ETB,Marketing & Advertising - Mar 2024
+TXN100344,26-May-2024,6400,Marketing,Google Ads,12236.84,ETB,Marketing & Advertising - May 2024
+TXN101530,2025-10-10,4100,Operations,Wholesale Customer,390591.67,ETB,Service Revenue - Oct 2025
+TXN101664,2025-12-16,4000,Sales,NGO Client,360637.34,ETB,Product Sales - Dec 2025
+TXN100519,2024-08-02,4000,Sales,Retail Customer,83060.72,ETB,Product Sales - Aug 2024
+TXN101587,13-Nov-2025,4000,Sales,Government Contract,288770.12,ETB,Product Sales - Nov 2025
+TXN100489,2024-07-30,6400,Marketing,Addis Media Group,121741.33,ETB,Marketing & Advertising - Jul 2024
+TXN101262,2025-06-20,6000,HR,Internal Payroll,"1,823.55",ETB,Salaries & Wages - Jun 2025
+TXN101202,2025-05-31,6500,Sales,Skylight Hotel,"14,799.24",ETB,Travel & Entertainment - May 2025
+TXN100918,2025-01-23,6400,Marketing,Google Ads,48021.79,ETB,Marketing & Advertising - Jan 2025
+TXN100233,2024-04-09,4100,Operations,Retail Customer,"69,398.18",ETB,Service Revenue - Apr 2024
+TXN100795,2024-12-08,4000,Sales,NGO Client,251273.72,ETB,Product Sales - Dec 2024
+TXN101679,2025-12-12,4200,Sales,Retail Customer,76646.43,ETB,Subscription Revenue - Dec 2025
+TXN101123,01-Apr-2025,6000,Finance,Internal Payroll,"84,955.45",ETB,Salaries & Wages - Apr 2025
+TXN100515,2024-08-25,4000,Sales,Corporate Client,198371.9,ETB,Product Sales - Aug 2024
+TXN900008,13-May-2024,6000,Marketing,Internal Payroll,0,ETB,Salaries & Wages - May 2024
+TXN100512,11/08/2024,4000,Sales,Wholesale Customer,346901.47,ETB,Product Sales - Aug 2024
+TXN100113,2024-02-05,5200,Operations,Ethio Freight,6271.41,ETB,Freight & Logistics - Feb 2024
+TXN101715,2025/12/30,6400,Marketing,Digital Reach Agency,"53,352.13",ETB,Marketing & Advertising - Dec 2025
+TXN100218,2024-04-11,4000,Sales,Retail Customer,6255.3,ETB,Product Sales - Apr 2024
+TXN100500,2024-07-24,6800,Finance,Shoa Stationery,18316.39,ETB,Office Supplies - Jul 2024
+TXN100207,2024-03-07,6500,Marketing,Skylight Hotel,63753.76,ETB,Travel & Entertainment - Mar 2024
+TXN100935,2025-02-13,4000,Sales,Retail Customer,155218.66,ETB,Product Sales - Feb 2025
+TXN100226,2024-04-07,4000,Sales,Corporate Client,"535,658.60",ETB,Product Sales - Apr 2024
+TXN101043,2025-03-19,6000,Sales,Internal Payroll,248533.92,ETB,Salaries & Wages - Mar 2025
+TXN101193,2025/05/15,6000,HR,Internal Payroll,137806.78,ETB,Salaries & Wages - May 2025
+TXN101529,2025-10-29,4100,Operations,Government Contract,116349.82,ETB,Service Revenue - Oct 2025
+TXN101317,2025-07-10,4200,Sales,Corporate Client,"71,904.98",ETB,Subscription Revenue - Jul 2025
+TXN101659,2025/12/12,4000,Sales,Corporate Client,137390.08,ETB,Product Sales - Dec 2025
+TXN100398,2024-06-09,5100,Operations,Internal Payroll,269930.09,ETB,Direct Labor - Jun 2024
+TXN100541,2024-08-06,5100,Operations,Internal Payroll,"689,429.45",ETB,Direct Labor - Aug 2024
+TXN100329,2024-05-16,6000,Marketing,Internal Payroll,"135,098.45",ETB,Salaries & Wages - May 2024
+TXN100796,2024-12-20,4000,Sales,NGO Client,252465.66,ETB,Product Sales - Dec 2024
+TXN100849,2024-12-01,6700,  Finance ,Tadesse & Partners Law,"108,856.91",ETB,Professional Fees - Dec 2024
+TXN101581,16/10/2025,6800,Finance,Shoa Stationery,2454.75,ETB,Office Supplies - Oct 2025
+TXN101729,19-Dec-2025,7000,Finance,Internal Payroll,20194.56,ETB,Depreciation - Dec 2025
+TXN101422,16/08/2025,6400,Marketing,Digital Reach Agency,298373.48,ETB,Marketing & Advertising - Aug 2025
+TXN100094,13-Feb-2024,4100,Operations,Retail Customer,"661,953.99",ETB,Service Revenue - Feb 2024
+TXN100214,2024-03-18,7000,Finance,Internal Payroll,101286.13,ETB,Depreciation - Mar 2024
+TXN100771,2024-11-05,6000,IT,Internal Payroll,278661.51,ETB,Salaries & Wages - Nov 2024
+TXN100338,2024-05-06,6000,Finance,Internal Payroll,188085.0,ETB,Salaries & Wages - May 2024
+TXN100804,27/12/2024,4000,Sales,Wholesale Customer,83167.43,ETB,Product Sales - Dec 2024
+TXN100213,25/03/2024,6900,Finance,Ethiopian Insurance Corp,60034.93,ETB,Insurance - Mar 2024
+TXN100619,25/09/2024,5200,Operations,Djibouti Corridor Logistics,23449.4,ETB,Freight & Logistics - Sep 2024
+TXN101140,03/04/2025,6600,IT,AWS,105172.76,ETB,Software & IT Services - Apr 2025
+TXN101183,28/05/2025,5100,Operations,Internal Payroll,734208.23,ETB,Direct Labor - May 2025
+TXN101169,21-May-2025,4200,sales,NGO Client,4248.2,ETB,Subscription Revenue - May 2025
+TXN101137,17/04/2025,6500,Sales,Ethiopian Airlines,91102.77,ETB,Travel & Entertainment - Apr 2025
+TXN100037,31/01/2024,5100,OPERATIONS,Internal Payroll,181445.19,ETB,Direct Labor - Jan 2024
+TXN100106,2024-02-09,5000,Operations,Habesha Supplies,311679.4,ETB,Materials - Feb 2024
+TXN100363,24-Jun-2024,4000,Sales,Retail Customer,"69,956.25",ETB,Product Sales - Jun 2024
+TXN100851,2024-12-07,6800,Finance,Shoa Stationery,15808.17,ETB,Office Supplies - Dec 2024
+TXN100757,2024-11-30,5000,Operations,Rift Valley Inputs,259885.75,ETB,Materials - Nov 2024
+TXN100759,2024-11-13,5000,Operations,Habesha Supplies,"409,106.40",ETB,Materials - Nov 2024
+TXN100366,02-Jun-2024,4000,Sales,Wholesale Customer,409583.3,ETB,Product Sales - Jun 2024
+TXN100857,2025-01-13,4000,sales,Wholesale Customer,486733.26,ETB,Product Sales - Jan 2025
+TXN101507,2025-09-13,6800,Finance,Office Mart,"32,833.32",ETB,Office Supplies - Sep 2025
+REV0005,10-Jun-2024,6000,IT,Internal Payroll,"(26,902.79)",ETB,Adjustment / partial reversal
+TXN100566,2024-08-06,6500,Marketing,Skylight Hotel,31675.4,ETB,Travel & Entertainment - Aug 2024
+TXN101376,2025-08-25,4100,Operations,Wholesale Customer,"535,735.32",ETB,Service Revenue - Aug 2025
+TXN100250,18-Apr-2024,5000,Operations,Habesha Supplies,293104.01,ETB,Materials - Apr 2024
+TXN100477,2024/07/28,6000,Operations,Internal Payroll,"380,242.31",ETB,Salaries & Wages - Jul 2024
+TXN101702,2025-12-15,6000,Marketing,Internal Payroll,61741.29,ETB,Salaries & Wages - Dec 2025
+TXN101189,10-May-2025,6000,Operations,Internal Payroll,195438.35,ETB,Salaries & Wages - May 2025
+TXN100782,2024/11/21,6400,Marketing,Meta Ads,275524.81,ETB,Marketing & Advertising - Nov 2024
+TXN100455,2024-07-19,4100,Operations,Wholesale Customer,216244.39,ETB,Service Revenue - Jul 2024
+TXN101622,2025-11-16,5100,Operations,Internal Payroll,577823.67,ETB,Direct Labor - Nov 2025
+TXN101201,19/05/2025,6500,Sales,Skylight Hotel,150100.15,ETB,Travel & Entertainment - May 2025
+TXN101108,2025-04-12,5100,Operations,Internal Payroll,231169.14,ETB,Direct Labor - Apr 2025
+TXN100231,23/04/2024,4100,Operations,NGO Client,355288.99,ETB,Service Revenue - Apr 2024
+TXN101320,2025-07-08,5000,Operations,Rift Valley Inputs,7098.39,ETB,Materials - Jul 2025
+TXN100653,2024-10-02,4000,Sales,Corporate Client,"370,731.42",ETB,Product Sales - Oct 2024
+TXN100071,2024-01-10,6900,Finance,Ethiopian Insurance Corp,10113.98,ETB,Insurance - Jan 2024
+TXN100611,2024-09-09,5000,Operations,Rift Valley Inputs,1038282.28,ETB,Materials - Sep 2024
+TXN101175,08-May-2025,4200,  Sales ,Wholesale Customer,291292.1,ETB,Subscription Revenue - May 2025
+TXN101724,2025-12-17,6800,Finance,Shoa Stationery,27074.5,ETB,Office Supplies - Dec 2025
+TXN101669,06-Dec-2025,4000,Sales,Retail Customer,"547,727.16",ETB,Product Sales - Dec 2025
+TXN100072,2024-01-10,7000,Finance,Internal Payroll,"15,222.61",ETB,Depreciation - Jan 2024
+TXN100411,2024-06-28,6000,Finance,Internal Payroll,125620.07,ETB,Salaries & Wages - Jun 2024
+TXN101653,2025/11/30,6800,Finance,Office Mart,20709.79,ETB,Office Supplies - Nov 2025
+TXN101152,2025-05-07,4000,Sales,Wholesale Customer,535829.18,ETB,Product Sales - May 2025
+TXN100339,2024-05-01,6100,HR,Internal Payroll,269682.41,ETB,Employee Benefits - May 2024
+TXN101026,2025-03-30,4200,Sales,Government Contract,252817.3,ETB,Subscription Revenue - Mar 2025
+TXN100044,2024-01-12,6000,Operations,Internal Payroll,49602.78,ETB,Salaries & Wages - Jan 2024
+TXN100540,2024-08-24,5000,Operations,Habesha Supplies,69337.7,ETB,Materials - Aug 2024
+TXN100602,2024-09-12,4200,Sales,Wholesale Customer,92878.5,ETB,Subscription Revenue - Sep 2024
+TXN101333,2025-07-02,6000,Marketing,Internal Payroll,90942.73,ETB,Salaries & Wages - Jul 2025
+TXN100966,2025-02-09,5100,Operations,Internal Payroll,666698.46,ETB,Direct Labor - Feb 2025
+TXN101610,2025-11-12,4200,Sales,Corporate Client,"28,982.87",ETB,Subscription Revenue - Nov 2025
+TXN101435,2025-08-10,6900,Finance,Ethiopian Insurance Corp,"1,436.66",ETB,Insurance - Aug 2025
+TXN100172,2024-03-23,4200,  Sales ,NGO Client,922.54,ETB,Subscription Revenue - Mar 2024
+TXN100418,2024-06-19,6400,Marketing,Digital Reach Agency,37990.45,ETB,Marketing & Advertising - Jun 2024
+TXN100838,2024-12-12,6200,,Coursera Business,87659.29,ETB,Training & Development - Dec 2024
+TXN101687,2025-12-10,5000,Operations,Rift Valley Inputs,"230,785.02",ETB,Materials - Dec 2025
+TXN101571,2025-10-20,6500,  Sales ,Ethiopian Airlines,"31,016.75",ETB,Travel & Entertainment - Oct 2025
+TXN100807,03/12/2024,4000,Sales,Retail Customer,143717.48,ETB,Product Sales - Dec 2024
+TXN100883,2025-01-10,4200,Sales,NGO Client,58668.32,ETB,Subscription Revenue - Jan 2025
+TXN101673,14-Dec-2025,4100,Operations,Corporate Client,197085.61,ETB,Service Revenue - Dec 2025
+TXN100638,2024-09-07,6400,Marketing,Digital Reach Agency,253112.25,ETB,Marketing & Advertising - Sep 2024
+TXN100424,16-Jun-2024,6500,Marketing,Hilton Addis,3621.67,ETB,Travel & Entertainment - Jun 2024
+TXN100728,2024-11-25,4000,Sales,NGO Client,"129,934.04",ETB,Product Sales - Nov 2024
+TXN100968,06-Feb-2025,5200,Operations,Ethio Freight,177542.55,ETB,Freight & Logistics - Feb 2025
+TXN101340,2025-07-09,6000,Finance,Internal Payroll,203877.11,ETB,Salaries & Wages - Jul 2025
+TXN100377,2024-06-02,4100,Operations,Retail Customer,"48,589.53",ETB,Service Revenue - Jun 2024
+TXN100525,2024-08-31,4100,Operations,Wholesale Customer,117141.85,ETB,Service Revenue - Aug 2024
+TXN101674,2025-12-23,4100,Operations,NGO Client,8809.87,ETB,Service Revenue - Dec 2025
+TXN100439,2024-07-30,4000,SALES,NGO Client,175677.43,ETB,Product Sales - Jul 2024
+TXN101544,2025-10-30,5000,Operations,Rift Valley Inputs,92167.4,ETB,Materials - Oct 2025
+TXN100151,16-Mar-2024,4000,Sales,NGO Client,"1,209,658.76",ETB,Product Sales - Mar 2024
+REV0009,2024-01-02,4000,Sales,Government Contract,"(36,692.72)",ETB,Adjustment / partial reversal
+TXN101627,03-Nov-2025,6000,sales,Internal Payroll,72168.08,ETB,Salaries & Wages - Nov 2025
+TXN100982,2025/02/28,6100,HR,Internal Payroll,8758.21,ETB,Employee Benefits - Feb 2025
+TXN100955,21/02/2025,4200,Sales,Corporate Client,56306.26,ETB,Subscription Revenue - Feb 2025
+TXN101617,2025-11-18,5000,  Operations ,Rift Valley Inputs,164841.2,ETB,Materials - Nov 2025
+TXN101434,2025-08-20,6900,,Ethiopian Insurance Corp,17.36,ETB,Insurance - Aug 2025
+TXN100144,2024-02-28,6900,Finance,Ethiopian Insurance Corp,2094.07,ETB,Insurance - Feb 2024
+TXN100718,2024-10-30,6700,finance,KPMG Ethiopia,46450.58,ETB,Professional Fees - Oct 2024
+TXN100527,2024-08-21,4200,Sales,Government Contract,"184,037.24",ETB,Subscription Revenue - Aug 2024
+TXN100584,2024-09-11,4000,Sales,Retail Customer,75040.37,ETB,Product Sales - Sep 2024
+TXN100976,2025-02-20,6000,IT,Internal Payroll,"6,847.79",ETB,Salaries & Wages - Feb 2025
+TXN100567,30-Aug-2024,6500,Marketing,Ethiopian Airlines,7930.31,ETB,Travel & Entertainment - Aug 2024
+TXN101233,04/06/2025,4100,Operations,Wholesale Customer,"453,515.97",ETB,Service Revenue - Jun 2025
+TXN100441,2024-07-06,4000,Sales,Corporate Client,593938.59,ETB,Product Sales - Jul 2024
+TXN101156,2025/05/23,4000,Sales,Government Contract,35536.68,ETB,Product Sales - May 2025
+TXN101405,2025-08-17,6000,,Internal Payroll,"224,511.73",ETB,Salaries & Wages - Aug 2025
+TXN100175,08/03/2024,5000,Operations,Habesha Supplies,449663.87,ETB,Materials - Mar 2024
+TXN101295,2025-07-04,4000,Sales,Government Contract,81463.34,ETB,Product Sales - Jul 2025
+TXN101432,2025-08-11,6800,FINANCE,,10304.62,ETB,Office Supplies - Aug 2025
+TXN900003,2024-08-18,5000,  Operations ,Rift Valley Inputs,0,ETB,Materials - Aug 2024
+TXN100124,2024/02/13,6000,Finance,Internal Payroll,4139.99,ETB,Salaries & Wages - Feb 2024
+TXN100139,2024-02-06,6600,IT,AWS,29715.42,ETB,Software & IT Services - Feb 2024
+TXN100880,2025-01-11,4200,Sales,Retail Customer,"132,957.96",ETB,Subscription Revenue - Jan 2025
+TXN101076,2025-04-21,4000,Sales,Government Contract,165364.83,ETB,Product Sales - Apr 2025
+TXN100733,2024-11-20,4000,Sales,Government Contract,137684.78,ETB,Product Sales - Nov 2024
+TXN100625,2024-09-16,6000,Operations,Internal Payroll,"174,875.55",ETB,Salaries & Wages - Sep 2024
+TXN101300,2025-07-16,4000,Sales,NGO Client,24818.15,ETB,Product Sales - Jul 2025
+TXN100785,2024-11-14,6500,Sales,Ethiopian Airlines,79996.53,ETB,Travel & Entertainment - Nov 2024
+TXN101367,2025-08-08,4000,Sales,Corporate Client,83484.6,ETB,Product Sales - Aug 2025
+TXN101281,2025-06-17,6700,Finance,Abebe Audit Services,12450.22,ETB,Professional Fees - Jun 2025
+TXN100183,21-Mar-2024,5200,Operations,Djibouti Corridor Logistics,170353.94,ETB,Freight & Logistics - Mar 2024
+TXN100618,2024-09-27,5200,  Operations ,Djibouti Corridor Logistics,322134.75,ETB,Freight & Logistics - Sep 2024
+TXN101325,2025/07/19,5100,Operations,Internal Payroll,41329.02,ETB,Direct Labor - Jul 2025
+TXN100691,2024-10-05,5200,Operations,Ethio Freight,286344.02,ETB,Freight & Logistics - Oct 2024
+TXN101570,2025-10-16,6500,Sales,Hilton Addis,62107.0,ETB,Travel & Entertainment - Oct 2025
+TXN100241,2024-04-21,4200,Sales,Corporate Client,"38,123.33",ETB,Subscription Revenue - Apr 2024
+TXN101255,2025-06-18,6000,Sales,Internal Payroll,363475.93,ETB,Salaries & Wages - Jun 2025
+TXN101351,09/07/2025,6500,Marketing,Hilton Addis,39965.75,ETB,Travel & Entertainment - Jul 2025
+TXN100459,14/07/2024,4200,Sales,Corporate Client,1334.77,ETB,Subscription Revenue - Jul 2024
+TXN100682,29-Oct-2024,5000,Operations,Habesha Supplies,"496,835.31",ETB,Materials - Oct 2024
+TXN100466,2024-07-06,5000,Operations,Awash Raw Materials,"422,493.49",ETB,Materials - Jul 2024
+TXN101188,07-May-2025,6000,Operations,Internal Payroll,215098.32,ETB,Salaries & Wages - May 2025
+TXN101192,2025-05-28,6000,HR,Internal Payroll,6553.48,ETB,Salaries & Wages - May 2025
+TXN100146,2024-03-08,4000,,Government Contract,151215.09,ETB,Product Sales - Mar 2024
+TXN100207,2024-03-07,6500,Marketing,Skylight Hotel,63753.76,ETB,Travel & Entertainment - Mar 2024
+TXN101213,2025/05/16,7000,Finance,Internal Payroll,55006.9,ETB,Depreciation - May 2025
+TXN101552,2025-10-08,6000,Sales,Internal Payroll,"307,730.76",ETB,Salaries & Wages - Oct 2025
+TXN100325,2024-05-15,5100,Operations,Internal Payroll,739601.25,ETB,Direct Labor - May 2024
+TXN100658,2024-10-31,4000,Sales,Wholesale Customer,"517,404.98",ETB,Product Sales - Oct 2024
+TXN101639,2025-11-16,6200,HR,Coursera Business,33000.0,ETB,Training & Development - Nov 2025
+TXN100715,2024/10/18,6500,Marketing,Skylight Hotel,"18,456.69",ETB,Travel & Entertainment - Oct 2024
+TXN101656,2025/11/02,7000,Finance,Internal Payroll,18710.64,ETB,Depreciation - Nov 2025
+TXN101699,2025-12-29,6000,Sales,Internal Payroll,414419.18,ETB,Salaries & Wages - Dec 2025
+TXN100080,06/02/2024,4000,Sales,Wholesale Customer,231036.54,ETB,Product Sales - Feb 2024
+TXN101634,2025-11-26,6000,IT,Internal Payroll,"105,845.40",ETB,Salaries & Wages - Nov 2025
+TXN101619,2025-11-25,5000,Operations,Rift Valley Inputs,"176,032.02",ETB,Materials - Nov 2025
+TXN100688,08/10/2024,5100,Operations,Internal Payroll,39697.97,ETB,Direct Labor - Oct 2024
+TXN100167,2024-03-14,4200,Sales,Wholesale Customer,"78,443.05",ETB,Subscription Revenue - Mar 2024
+TXN100230,2024-04-26,4000,Sales,Wholesale Customer,"265,753.00",ETB,Product Sales - Apr 2024
+TXN100858,10-Jan-2025,4000,Sales,NGO Client,"154,338.22",ETB,Product Sales - Jan 2025
+TXN101585,2025-10-23,7000,Finance,Internal Payroll,"84,148.02",ETB,Depreciation - Oct 2025
+TXN100741,2024-11-27,4100,Operations,NGO Client,219377.33,ETB,Service Revenue - Nov 2024
+TXN100101,18-Feb-2024,4200,Sales,Retail Customer,2838.76,ETB,Subscription Revenue - Feb 2024
+TXN100291,2024-05-15,4000,Sales,Retail Customer,291257.29,ETB,Product Sales - May 2024
+TXN100445,2024-07-22,4000,Sales,Government Contract,451223.9,ETB,Product Sales - Jul 2024
+TXN100879,11-Jan-2025,4200,Sales,Wholesale Customer,129109.79,ETB,Subscription Revenue - Jan 2025
+TXN101456,2025-09-12,4100,Operations,Retail Customer,69297.32,ETB,Service Revenue - Sep 2025
+TXN101078,2025-04-23,4000,Sales,Government Contract,455905.56,ETB,Product Sales - Apr 2025
+TXN100740,2024-11-24,4000,Sales,NGO Client,22532.07,ETB,Product Sales - Nov 2024
+TXN100392,2024-06-13,5000,  Operations ,Awash Raw Materials,"110,774.06",ETB,Materials - Jun 2024
+TXN100087,15/02/2024,4000,Sales,Government Contract,"191,884.15",ETB,Product Sales - Feb 2024
+REV0008,2024-07-14,5000,Operations,Habesha Supplies,"(21,299.34)",ETB,Adjustment / partial reversal
+TXN100667,2024-10-14,4100,Operations,NGO Client,20570.59,ETB,Service Revenue - Oct 2024
+TXN101276,27-Jun-2025,6500,Marketing,Ethiopian Airlines,12033.48,ETB,Travel & Entertainment - Jun 2025
+TXN101524,2025-10-22,4000,Sales,Wholesale Customer,"295,031.77",ETB,Product Sales - Oct 2025
+TXN101614,2025-11-30,4200,Sales,NGO Client,42589.41,ETB,Subscription Revenue - Nov 2025
+TXN100476,2024-07-24,6000,Marketing,Internal Payroll,"229,119.67",ETB,Salaries & Wages - Jul 2024
+TXN101296,2025-07-08,4000,Sales,Corporate Client,264302.84,ETB,Product Sales - Jul 2025
+TXN100045,2024-01-11,6000,Operations,Internal Payroll,329791.36,ETB,Salaries & Wages - Jan 2024
+TXN100789,2024-11-26,6800,Finance,Office Mart,27055.55,ETB,Office Supplies - Nov 2024
+TXN101003,2025-03-27,4000,Sales,NGO Client,233818.42,ETB,Product Sales - Mar 2025
+TXN101138,2025/04/02,6500,Marketing,Skylight Hotel,"23,938.09",ETB,Travel & Entertainment - Apr 2025
+TXN100025,2024-01-15,4200,SALES,Government Contract,27878.51,ETB,Subscription Revenue - Jan 2024
+TXN101236,23/06/2025,4200,SALES,Wholesale Customer,182105.98,ETB,Subscription Revenue - Jun 2025
+TXN100833,2024-12-04,6000,Operations,Internal Payroll,394784.36,ETB,Salaries & Wages - Dec 2024
+TXN101194,2025-05-08,6000,Finance,Internal Payroll,119882.28,ETB,Salaries & Wages - May 2025
+TXN100592,2024-09-02,4000,Sales,Wholesale Customer,"342,811.78",ETB,Product Sales - Sep 2024
+TXN900000,17/10/2025,4200,Sales,Wholesale Customer,0,ETB,Subscription Revenue - Oct 2025
+TXN100974,2025-02-05,6000,Operations,Internal Payroll,387590.93,ETB,Salaries & Wages - Feb 2025
+TXN101545,2025-10-18,5000,Operations,Rift Valley Inputs,382845.55,ETB,Materials - Oct 2025
+TXN101057,2025-03-01,6300,Operations,,318108.51,ETB,Rent & Utilities - Mar 2025
+TXN100110,2024-02-14,5100,Operations,Internal Payroll,633134.52,ETB,Direct Labor - Feb 2024
+TXN101161,2025/05/15,4000,,NGO Client,34779.45,ETB,Product Sales - May 2025
+TXN101355,2025-07-08,6800,Finance,Office Mart,20372.52,ETB,Office Supplies - Jul 2025
+TXN100223,2024-04-13,4000,  Sales ,Corporate Client,587927.63,ETB,Product Sales - Apr 2024
+TXN101053,2025-03-26,6000,Finance,Internal Payroll,"121,858.63",ETB,Salaries & Wages - Mar 2025
+TXN101312,03/07/2025,4200,Sales,NGO Client,"22,431.19",ETB,Subscription Revenue - Jul 2025
+TXN100723,2024-10-23,6900,finance,Ethiopian Insurance Corp,"30,267.60",ETB,Insurance - Oct 2024
+TXN100056,2024-01-25,6200,HR,Ethiopian Management Institute,14894.86,ETB,Training & Development - Jan 2024
+TXN900002,2024-06-09,5100,Operations,Internal Payroll,0,ETB,Direct Labor - Jun 2024
+TXN100254,09-Apr-2024,5200,operations,Djibouti Corridor Logistics,"71,353.26",ETB,Freight & Logistics - Apr 2024
+TXN101704,2025/12/03,6000,Operations,Internal Payroll,309293.57,ETB,Salaries & Wages - Dec 2025
+TXN101073,2025/04/01,4000,Sales,Government Contract,294937.72,ETB,Product Sales - Apr 2025
+TXN101493,30-Sep-2025,6100,HR,Internal Payroll,52565.35,ETB,Employee Benefits - Sep 2025
+TXN100643,14/09/2024,6600,IT,AWS,209410.46,ETB,Software & IT Services - Sep 2024
+TXN100546,2024-08-01,6000,Sales,Internal Payroll,325469.29,ETB,Salaries & Wages - Aug 2024
+TXN100478,03/07/2024,6000,IT,Internal Payroll,37633.06,ETB,Salaries & Wages - Jul 2024
+TXN100950,25/02/2025,4200,Sales,NGO Client,"195,761.19",ETB,Subscription Revenue - Feb 2025
+TXN101572,2025-10-26,6500,SALES,Hilton Addis,23245.58,ETB,Travel & Entertainment - Oct 2025
+TXN100844,11-Dec-2024,6500,Sales,Ethiopian Airlines,60309.72,ETB,Travel & Entertainment - Dec 2024
+TXN100064,2024-01-17,6600,IT,AWS,94746.66,ETB,Software & IT Services - Jan 2024
+TXN100414,2024-06-23,6100,HR,Internal Payroll,311272.14,ETB,Employee Benefits - Jun 2024
+TXN100385,14/06/2024,4200,  Sales ,Retail Customer,89741.19,ETB,Subscription Revenue - Jun 2024
+TXN101694,2025-12-23,5100,operations,Internal Payroll,68701.71,ETB,Direct Labor - Dec 2025
+TXN100975,09/02/2025,6000,IT,,117479.91,ETB,Salaries & Wages - Feb 2025
+TXN101347,2025/07/28,6400,Marketing,Meta Ads,89308.91,ETB,Marketing & Advertising - Jul 2025
+TXN100885,2025-01-16,5000,Operations,,233422.27,ETB,Materials - Jan 2025
+TXN100452,20/07/2024,4100,Operations,NGO Client,185215.28,ETB,Service Revenue - Jul 2024
+TXN101589,13/11/2025,4000,  Sales ,Government Contract,2829374.9,ETB,Product Sales - Nov 2025
+TXN101259,2025-06-02,6000,IT,Internal Payroll,109869.34,ETB,Salaries & Wages - Jun 2025
+TXN100657,2024-10-07,4000,Sales,Corporate Client,299597.56,ETB,Product Sales - Oct 2024
+TXN101582,2025-10-09,6800,Finance,Shoa Stationery,8331.78,ETB,Office Supplies - Oct 2025
+TXN101487,2025-09-18,6000,HR,Internal Payroll,"31,613.15",ETB,Salaries & Wages - Sep 2025
+TXN101449,2025-09-23,4000,Sales,NGO Client,336199.42,ETB,Product Sales - Sep 2025
+TXN101486,06/09/2025,6000,IT,Internal Payroll,113393.11,ETB,Salaries & Wages - Sep 2025
+TXN101328,2025-07-08,5200,Operations,Djibouti Corridor Logistics,206215.05,ETB,Freight & Logistics - Jul 2025
+TXN100370,15-Jun-2024,4000,Sales,NGO Client,"249,674.73",ETB,Product Sales - Jun 2024
+TXN100690,2024-10-03,5100,Operations,Internal Payroll,22815.44,ETB,Direct Labor - Oct 2024
+TXN100220,2024-04-23,4000,Sales,Government Contract,"1,050,148.45",ETB,Product Sales - Apr 2024
+TXN101677,2025-12-22,4100,operations,NGO Client,326666.38,ETB,Service Revenue - Dec 2025
+TXN101321,2025/07/16,5000,Operations,Rift Valley Inputs,539776.73,ETB,Materials - Jul 2025
+TXN100022,21-Jan-2024,4200,Sales,Government Contract,188738.79,ETB,Subscription Revenue - Jan 2024
+TXN100761,16-Nov-2024,5000,Operations,Rift Valley Inputs,163023.8,ETB,Materials - Nov 2024
+TXN100870,2025-01-22,4000,Sales,NGO Client,30922.8,ETB,Product Sales - Jan 2025
+TXN100421,2024-06-03,6500,SALES,Hilton Addis,"43,677.64",ETB,Travel & Entertainment - Jun 2024
+TXN101350,15/07/2025,6500,Sales,Skylight Hotel,107048.19,ETB,Travel & Entertainment - Jul 2025
+TXN100200,2024-03-29,6300,Operations,Bole Properties,5832.33,ETB,Rent & Utilities - Mar 2024
+TXN100451,2024-07-08,4100,Operations,NGO Client,"510,061.97",ETB,Service Revenue - Jul 2024
+TXN101162,27-May-2025,4100,Operations,Government Contract,"294,826.63",ETB,Service Revenue - May 2025
+TXN101020,2025-03-20,4100,Operations,Wholesale Customer,82474.88,ETB,Service Revenue - Mar 2025
+TXN101561,2025-10-07,6000,Finance,Internal Payroll,"45,899.00",ETB,Salaries & Wages - Oct 2025
+TXN100912,2025-01-16,6100,HR,Internal Payroll,125360.97,ETB,Employee Benefits - Jan 2025
+TXN100697,2024-10-14,6000,IT,Internal Payroll,97458.88,ETB,Salaries & Wages - Oct 2024
+TXN100812,2024-12-31,4100,Operations,Retail Customer,884044.14,ETB,Service Revenue - Dec 2024
+TXN101237,15-Jun-2025,4200,Sales,Retail Customer,177104.22,ETB,Subscription Revenue - Jun 2025
+TXN100489,2024-07-30,6400,Marketing,Addis Media Group,121741.33,ETB,Marketing & Advertising - Jul 2024
+TXN100911,12-Jan-2025,6000,Finance,Internal Payroll,61003.24,ETB,Salaries & Wages - Jan 2025
+TXN101522,2025-10-29,4000,Sales,Government Contract,"374,219.39",ETB,Product Sales - Oct 2025
+TXN101050,2025-03-06,6000,hr,Internal Payroll,"95,648.55",ETB,Salaries & Wages - Mar 2025
+TXN100506,03-Aug-2024,4000,Sales,Retail Customer,289549.37,ETB,Product Sales - Aug 2024
+TXN101624,2025-11-17,5200,Operations,Ethio Freight,199395.24,ETB,Freight & Logistics - Nov 2025
+TXN101256,12/06/2025,6000,Marketing,Internal Payroll,181356.86,ETB,Salaries & Wages - Jun 2025
+TXN100406,2024/06/04,6000,Operations,Internal Payroll,"61,147.27",ETB,Salaries & Wages - Jun 2024
+TXN101593,2025-11-21,4000,Sales,Corporate Client,"10,261.19",ETB,Product Sales - Nov 2025
+TXN100318,2024-05-23,5000,Operations,Awash Raw Materials,"90,165.29",ETB,Materials - May 2024
+TXN100184,2024-03-24,6000,Sales,Internal Payroll,410931.78,ETB,Salaries & Wages - Mar 2024
+TXN101121,2025/04/08,6000,HR,Internal Payroll,51668.45,ETB,Salaries & Wages - Apr 2025
+TXN101662,17-Dec-2025,4000,Sales,Government Contract,738862.33,ETB,Product Sales - Dec 2025
+TXN100610,2024-09-29,5000,Operations,Habesha Supplies,26121.06,ETB,Materials - Sep 2024
+TXN100627,2024/09/11,6000,IT,Internal Payroll,241573.8,ETB,Salaries & Wages - Sep 2024
+TXN100486,2024-07-19,6200,HR,Ethiopian Management Institute,"39,047.24",ETB,Training & Development - Jul 2024
+TXN100279,2024-04-21,6500,Sales,Ethiopian Airlines,60009.69,ETB,Travel & Entertainment - Apr 2024
+TXN100631,2024-09-09,6000,Finance,Internal Payroll,"112,578.67",ETB,Salaries & Wages - Sep 2024
+TXN100021,2024/01/26,4200,Sales,NGO Client,"227,813.80",ETB,Subscription Revenue - Jan 2024
+TXN100171,2024-03-16,4200,Sales,Corporate Client,190091.68,ETB,Subscription Revenue - Mar 2024
+TXN101426,31-Aug-2025,6600,IT,AWS,169746.84,ETB,Software & IT Services - Aug 2025
+TXN100902,2025-01-24,6000,Operations,Internal Payroll,324888.03,ETB,Salaries & Wages - Jan 2025
+TXN101040,2025/03/22,5200,Operations,Ethio Freight,41506.42,ETB,Freight & Logistics - Mar 2025
+TXN101591,09/11/2025,4000,Sales,Retail Customer,"311,934.95",ETB,Product Sales - Nov 2025
+TXN100177,25-Mar-2024,5000,  Operations ,Rift Valley Inputs,"562,975.68",ETB,Materials - Mar 2024
+TXN100328,2024-05-23,6000,  Sales ,Internal Payroll,162715.03,ETB,Salaries & Wages - May 2024
+TXN100707,2024/10/23,6200,HR,Ethiopian Management Institute,33000.0,ETB,Training & Development - Oct 2024
+TXN101223,2025-06-06,4000,Sales,Wholesale Customer,284132.79,ETB,Product Sales - Jun 2025
+TXN100471,2024-07-10,5100,Operations,Internal Payroll,"74,524.74",ETB,Direct Labor - Jul 2024
+TXN101651,2025-11-03,6700,Finance,Tadesse & Partners Law,"54,548.16",ETB,Professional Fees - Nov 2025
+TXN100267,2024-04-02,6000,FINANCE,Internal Payroll,88697.94,ETB,Salaries & Wages - Apr 2024
+TXN100616,2024-09-18,5100,,Internal Payroll,662055.58,ETB,Direct Labor - Sep 2024
+TXN101517,2025/10/05,4000,Sales,Corporate Client,223453.64,ETB,Product Sales - Oct 2025
+TXN100131,25-Feb-2024,6300,Operations,Bole Properties,154984.48,ETB,Rent & Utilities - Feb 2024
+TXN100866,2025-01-23,4000,Sales,Retail Customer,157929.99,ETB,Product Sales - Jan 2025
+TXN101728,2025-12-23,7000,Finance,Internal Payroll,7989.81,ETB,Depreciation - Dec 2025
+TXN101363,2025-08-15,4000,Sales,Retail Customer,72530.76,ETB,Product Sales - Aug 2025
+TXN101658,2025-12-12,4000,Sales,Wholesale Customer,37564.06,ETB,Product Sales - Dec 2025
+TXN100490,06/07/2024,6500,  Sales ,Ethiopian Airlines,56022.0,ETB,Travel & Entertainment - Jul 2024
+TXN101597,2025-11-21,4000,Sales,Corporate Client,333002.51,ETB,Product Sales - Nov 2025
+TXN100607,2024-09-20,4200,Sales,Retail Customer,114923.17,ETB,Subscription Revenue - Sep 2024
+TXN101218,28-Jun-2025,4000,Sales,Retail Customer,"237,766.72",ETB,Product Sales - Jun 2025
+TXN101165,2025-05-08,4100,Operations,NGO Client,410431.95,ETB,Service Revenue - May 2025
+TXN100417,2024-06-24,6300,Operations,Bole Properties,3412.84,ETB,Rent & Utilities - Jun 2024
+TXN101501,2025-09-05,6500,Marketing,Ethiopian Airlines,"17,466.53",ETB,Travel & Entertainment - Sep 2025
+TXN100153,2024-03-29,4000,  Sales ,NGO Client,66554.18,ETB,Product Sales - Mar 2024
+TXN100890,2025-01-03,5000,Operations,Rift Valley Inputs,"438,752.62",ETB,Materials - Jan 2025
+TXN100850,2024/12/01,6800,Finance,Shoa Stationery,"9,113.96",ETB,Office Supplies - Dec 2024
+TXN100280,2024-04-22,6500,Marketing,Skylight Hotel,28923.07,ETB,Travel & Entertainment - Apr 2024
+TXN101035,2025/03/12,5000,Operations,Rift Valley Inputs,750198.76,ETB,Materials - Mar 2025
+TXN100270,2024-04-24,6100,hr,Internal Payroll,"88,300.48",ETB,Employee Benefits - Apr 2024
+TXN100097,04-Feb-2024,4200,Sales,NGO Client,105748.55,ETB,Subscription Revenue - Feb 2024
+TXN100211,2024-03-04,6800,Finance,Office Mart,27023.23,ETB,Office Supplies - Mar 2024
+TXN101533,2025/10/14,4200,Sales,Wholesale Customer,151864.66,ETB,Subscription Revenue - Oct 2025
+TXN100570,2024-08-14,6700,Finance,Tadesse & Partners Law,78048.78,ETB,Professional Fees - Aug 2024
+TXN101258,19/06/2025,6000,Operations,Internal Payroll,422551.99,ETB,Salaries & Wages - Jun 2025
+TXN100872,2025-01-17,4100,Operations,Corporate Client,576544.96,ETB,Service Revenue - Jan 2025
+TXN101573,03/10/2025,6500,marketing,Skylight Hotel,5560.14,ETB,Travel & Entertainment - Oct 2025
+TXN101567,2025-10-26,6300,Operations,EEU Utilities,167193.4,ETB,Rent & Utilities - Oct 2025
+TXN100533,2024-08-24,4200,Sales,Wholesale Customer,191058.1,ETB,Subscription Revenue - Aug 2024
+TXN100622,2024-09-11,6000,Marketing,Internal Payroll,227551.58,ETB,Salaries & Wages - Sep 2024
+TXN101357,22-Jul-2025,6900,Finance,Ethiopian Insurance Corp,50857.73,ETB,Insurance - Jul 2025
+TXN101100,18-Apr-2025,4200,Sales,Wholesale Customer,69435.11,ETB,Subscription Revenue - Apr 2025
+TXN100713,2024-10-08,6500,Sales,Skylight Hotel,93414.89,ETB,Travel & Entertainment - Oct 2024
+TXN100078,2024-02-25,4000,Sales,Corporate Client,215624.47,ETB,Product Sales - Feb 2024
+TXN100264,2024-04-03,6000,HR,Internal Payroll,"25,545.81",ETB,Salaries & Wages - Apr 2024
+REV0004,2025-02-21,4200,Sales,NGO Client,"(7,598.35)",ETB,Adjustment / partial reversal
+TXN100150,2024/03/23,4000,Sales,Retail Customer,"13,779.92",ETB,Product Sales - Mar 2024
+TXN100604,2024-09-17,4200,Sales,Government Contract,88696.89,ETB,Subscription Revenue - Sep 2024
+TXN101539,2025-10-10,4200,Sales,Government Contract,24739.23,ETB,Subscription Revenue - Oct 2025
+TXN100459,14/07/2024,4200,Sales,Corporate Client,1334.77,ETB,Subscription Revenue - Jul 2024
+TXN100470,2024-07-22,5000,Operations,Rift Valley Inputs,48359.05,ETB,Materials - Jul 2024
+TXN100565,2024-08-29,6500,Sales,Ethiopian Airlines,"127,814.44",ETB,Travel & Entertainment - Aug 2024
+TXN100462,2024-07-01,4200,  Sales ,Government Contract,134725.35,ETB,Subscription Revenue - Jul 2024
+TXN101278,2025/06/07,6600,,Microsoft,19970.08,ETB,Software & IT Services - Jun 2025
+TXN100897,09-Jan-2025,6000,Sales,Internal Payroll,260630.79,ETB,Salaries & Wages - Jan 2025
+TXN101394,2025-08-10,5000,Operations,Habesha Supplies,705657.85,ETB,Materials - Aug 2025
+TXN101346,10/07/2025,6300,Operations,EEU Utilities,163716.36,ETB,Rent & Utilities - Jul 2025
+TXN100696,30-Oct-2024,6000,Operations,Internal Payroll,"359,719.64",ETB,Salaries & Wages - Oct 2024
+TXN101176,2025-05-23,5000,Operations,Habesha Supplies,"47,389.86",ETB,Materials - May 2025
+TXN100929,2025-01-02,7000,Finance,Internal Payroll,69686.78,ETB,Depreciation - Jan 2025
+TXN101327,2025-07-08,5100,Operations,Internal Payroll,162511.43,ETB,Direct Labor - Jul 2025
+TXN101215,2025/06/17,4000,Sales,,488380.32,ETB,Product Sales - Jun 2025
+TXN100587,03-Sep-2024,4000,,Government Contract,"169,161.24",ETB,Product Sales - Sep 2024
+TXN101373,2025-08-19,4000,Sales,Wholesale Customer,196955.12,ETB,Product Sales - Aug 2025
+TXN100244,2024-04-10,4200,Sales,Government Contract,42653.03,ETB,Subscription Revenue - Apr 2024
+TXN101112,19/04/2025,5200,Operations,Djibouti Corridor Logistics,226356.81,ETB,Freight & Logistics - Apr 2025
+TXN100752,2024-11-07,4200,Sales,Wholesale Customer,45359.56,ETB,Subscription Revenue - Nov 2024
+TXN101680,2025-12-26,4200,Sales,Corporate Client,119129.23,ETB,Subscription Revenue - Dec 2025
+TXN101713,10/12/2025,6300,Operations,EEU Utilities,322376.73,ETB,Rent & Utilities - Dec 2025
+TXN101443,2025-09-22,4000,Sales,Retail Customer,305653.19,ETB,Product Sales - Sep 2025
+TXN101313,2025-07-08,4200,Sales,Retail Customer,196808.53,ETB,Subscription Revenue - Jul 2025
+TXN100649,15-Sep-2024,6900,Finance,Nyala Insurance,690.94,ETB,Insurance - Sep 2024
+TXN101191,2025-05-21,6000,IT,Internal Payroll,"277,443.46",ETB,Salaries & Wages - May 2025
+TXN100596,05-Sep-2024,4100,  Operations ,Retail Customer,1009275.1,ETB,Service Revenue - Sep 2024
+TXN100314,2024-05-11,4200,Sales,Wholesale Customer,100042.57,ETB,Subscription Revenue - May 2024
+TXN100934,2025-02-28,4000,Sales,Corporate Client,"417,735.64",ETB,Product Sales - Feb 2025
+TXN100156,2024-03-23,4000,Sales,Corporate Client,225011.86,ETB,Product Sales - Mar 2024
+TXN101381,2025-08-08,4200,Sales,Government Contract,91022.75,ETB,Subscription Revenue - Aug 2025
+TXN101406,2025-08-07,6000,Operations,Internal Payroll,122280.42,ETB,Salaries & Wages - Aug 2025
+TXN101304,2025-07-10,4100,Operations,,167349.04,ETB,Service Revenue - Jul 2025
+TXN101151,2025-05-03,4000,Sales,NGO Client,"1,454,913.30",ETB,Product Sales - May 2025
+TXN101000,2025-02-09,6900,  Finance ,Ethiopian Insurance Corp,11008.81,ETB,Insurance - Feb 2025
+TXN101047,2025/03/10,6000,Operations,Internal Payroll,228285.68,ETB,Salaries & Wages - Mar 2025
+TXN101641,2025-11-24,6300,Operations,Bole Properties,"236,031.77",ETB,Rent & Utilities - Nov 2025
+TXN101690,2025-12-04,5000,  Operations ,Habesha Supplies,522022.87,ETB,Materials - Dec 2025
+TXN101307,2025-07-01,4100,Operations,Retail Customer,250791.94,ETB,Service Revenue - Jul 2025
+TXN101496,2025/09/25,6200,HR,Ethiopian Management Institute,8150.66,ETB,Training & Development - Sep 2025
+TXN101392,01/08/2025,5000,Operations,Awash Raw Materials,868074.91,ETB,Materials - Aug 2025
+TXN100026,2024-01-18,4200,Sales,Retail Customer,59607.65,ETB,Subscription Revenue - Jan 2024
+TXN100197,2024-03-05,6200,HR,Ethiopian Management Institute,54522.69,ETB,Training & Development - Mar 2024
+TXN101089,2025-04-11,4100,Operations,Wholesale Customer,144768.07,ETB,Service Revenue - Apr 2025
+TXN100016,2024-01-11,4100,Operations,Wholesale Customer,328749.3,ETB,Service Revenue - Jan 2024
+TXN101491,2025-09-24,6000,Finance,Internal Payroll,3425.06,ETB,Salaries & Wages - Sep 2025
+TXN101322,2025-07-06,5000,operations,Awash Raw Materials,84633.86,ETB,Materials - Jul 2025
+TXN100884,2025-01-19,4200,Sales,,179379.99,ETB,Subscription Revenue - Jan 2025
+TXN100622,2024-09-11,6000,Marketing,Internal Payroll,227551.58,ETB,Salaries & Wages - Sep 2024
+TXN101361,24-Aug-2025,4000,Sales,Corporate Client,"27,425.90",ETB,Product Sales - Aug 2025
+TXN101051,2025-03-24,6000,HR,Internal Payroll,48087.23,ETB,Salaries & Wages - Mar 2025
+TXN101613,2025-11-04,4200,Sales,Government Contract,231275.58,ETB,Subscription Revenue - Nov 2025
+TXN101068,24-Mar-2025,6800,Finance,Shoa Stationery,12634.4,ETB,Office Supplies - Mar 2025
+TXN100498,2024-07-17,6700,finance,Tadesse & Partners Law,17088.81,ETB,Professional Fees - Jul 2024
+TXN100793,2024-11-21,7000,Finance,Internal Payroll,"97,303.35",ETB,Depreciation - Nov 2024
+TXN100965,2025-02-01,5100,Operations,Internal Payroll,49309.56,ETB,Direct Labor - Feb 2025
+TXN100516,2024-08-02,4000,Sales,Corporate Client,106359.37,ETB,Product Sales - Aug 2024
+TXN101386,2025/08/10,4200,Sales,Corporate Client,96320.38,ETB,Subscription Revenue - Aug 2025
+TXN101586,2025-10-14,7000,finance,Internal Payroll,"38,397.34",ETB,Depreciation - Oct 2025
+TXN101479,2025-09-05,6000,sales,Internal Payroll,80578.32,ETB,Salaries & Wages - Sep 2025
+TXN101412,2025-08-03,6000,HR,Internal Payroll,48191.11,ETB,Salaries & Wages - Aug 2025
+TXN101096,2025-04-25,4200,Sales,Wholesale Customer,106022.49,ETB,Subscription Revenue - Apr 2025
+TXN100543,2024-08-04,5200,Operations,Djibouti Corridor Logistics,276971.95,ETB,Freight & Logistics - Aug 2024
+TXN100457,2024-07-19,4200,SALES,Retail Customer,74021.52,ETB,Subscription Revenue - Jul 2024
+TXN100634,25-Sep-2024,6200,HR,,13034.56,ETB,Training & Development - Sep 2024
+TXN100432,2024-06-20,6900,Finance,Nyala Insurance,4979.13,ETB,Insurance - Jun 2024
+TXN100628,2024-09-04,6000,HR,Internal Payroll,"146,622.02",ETB,Salaries & Wages - Sep 2024
+TXN101678,2025-12-29,4200,Sales,Government Contract,"260,954.20",ETB,Subscription Revenue - Dec 2025
+TXN100729,2024-11-18,4000,Sales,Retail Customer,1706621.81,ETB,Product Sales - Nov 2024
+TXN101289,2025/06/01,7000,Finance,Internal Payroll,122056.4,ETB,Depreciation - Jun 2025
+TXN100210,2024-03-14,6700,Finance,KPMG Ethiopia,107606.85,ETB,Professional Fees - Mar 2024
+TXN100317,2024-05-15,4200,Sales,Retail Customer,"73,000.23",ETB,Subscription Revenue - May 2024
+TXN100514,2024-08-13,4000,Sales,Wholesale Customer,804223.33,ETB,Product Sales - Aug 2024
+TXN101338,2025/07/19,6000,IT,Internal Payroll,"153,006.40",ETB,Salaries & Wages - Jul 2025
+TXN101559,2025-10-27,6000,HR,Internal Payroll,56245.02,ETB,Salaries & Wages - Oct 2025
+TXN100830,2024-12-05,5200,Operations,Ethio Freight,377137.81,ETB,Freight & Logistics - Dec 2024
+TXN100320,2024-05-20,5000,Operations,Habesha Supplies,421392.78,ETB,Materials - May 2024
+TXN101032,04-Mar-2025,5000,Operations,Awash Raw Materials,"86,674.15",ETB,Materials - Mar 2025
+TXN101418,2025-08-25,6200,HR,Coursera Business,1207.26,ETB,Training & Development - Aug 2025
+TXN100142,27/02/2024,6800,Finance,Shoa Stationery,32381.16,ETB,Office Supplies - Feb 2024
+TXN101111,2025-04-03,5200,Operations,Ethio Freight,154484.58,ETB,Freight & Logistics - Apr 2025
+TXN101503,2025/09/28,6600,IT,Ethio Telecom,"110,692.53",ETB,Software & IT Services - Sep 2025
+TXN101528,2025-10-12,4100,Operations,Wholesale Customer,247772.85,ETB,Service Revenue - Oct 2025
+TXN100754,2024-11-23,4200,Sales,NGO Client,214487.31,ETB,Subscription Revenue - Nov 2024
+TXN101002,2025-03-02,4000,Sales,NGO Client,629294.88,ETB,Product Sales - Mar 2025
+TXN101240,07/06/2025,4200,Sales,NGO Client,102511.9,ETB,Subscription Revenue - Jun 2025
+TXN100581,2024-09-15,4000,Sales,Government Contract,222934.97,ETB,Product Sales - Sep 2024
+TXN100563,2024-08-06,6400,,Google Ads,274744.27,ETB,Marketing & Advertising - Aug 2024
+TXN100399,05/06/2024,5100,OPERATIONS,Internal Payroll,459839.13,ETB,Direct Labor - Jun 2024
+TXN100669,2024/10/18,4100,Operations,Wholesale Customer,"321,210.17",ETB,Service Revenue - Oct 2024
+TXN101515,10-Oct-2025,4000,Sales,Corporate Client,29116.41,ETB,Product Sales - Oct 2025
+TXN100253,2024-04-16,5200,  Operations ,Djibouti Corridor Logistics,147026.31,ETB,Freight & Logistics - Apr 2024
+TXN100908,2025/01/08,6000,HR,Internal Payroll,2059.17,ETB,Salaries & Wages - Jan 2025
+TXN100469,2024-07-16,5000,Operations,Awash Raw Materials,142329.41,ETB,Materials - Jul 2024
+TXN100915,2025-01-13,6200,  HR ,Coursera Business,69081.23,ETB,Training & Development - Jan 2025
+TXN100358,2024-05-23,6900,Finance,Nyala Insurance,50660.57,ETB,Insurance - May 2024
+TXN101279,08-Jun-2025,6600,  IT ,Ethio Telecom,47082.23,ETB,Software & IT Services - Jun 2025
+TXN101301,2025-07-18,4000,Sales,Corporate Client,194221.36,ETB,Product Sales - Jul 2025
+TXN101203,2025-05-04,6500,Marketing,Skylight Hotel,29901.91,ETB,Travel & Entertainment - May 2025
+TXN101306,2025-07-06,4100,Operations,Wholesale Customer,94908.74,ETB,Service Revenue - Jul 2025
+TXN101415,2025-08-16,6100,HR,Internal Payroll,313060.07,ETB,Employee Benefits - Aug 2025
+TXN100509,2024-08-11,4000,Sales,Wholesale Customer,1587676.08,ETB,Product Sales - Aug 2024
+TXN100750,2024-11-13,4200,Sales,Government Contract,103616.4,ETB,Subscription Revenue - Nov 2024
+TXN101608,19-Nov-2025,4200,Sales,NGO Client,7845.66,ETB,Subscription Revenue - Nov 2025
+TXN100130,2024/02/19,6200,HR,Coursera Business,"16,091.77",ETB,Training & Development - Feb 2024
+TXN100145,2024-02-12,7000,Finance,Internal Payroll,120120.0,ETB,Depreciation - Feb 2024
+TXN100961,2025-02-05,5000,Operations,Awash Raw Materials,85158.04,ETB,Materials - Feb 2025
+TXN100848,25-Dec-2024,6600,IT,Safaricom Business,"45,184.01",ETB,Software & IT Services - Dec 2024
+TXN101670,2025-12-29,4000,Sales,Government Contract,293106.48,ETB,Product Sales - Dec 2025
+TXN100716,2024-10-16,6500,MARKETING,Skylight Hotel,"26,965.67",ETB,Travel & Entertainment - Oct 2024
+TXN100906,18/01/2025,6000,HR,Internal Payroll,"136,612.33",ETB,Salaries & Wages - Jan 2025
+REV0006,2024-06-03,4200,Sales,Wholesale Customer,"(2,485.01)",ETB,Adjustment / partial reversal
+TXN101097,06/04/2025,4200,  Sales ,NGO Client,330369.0,ETB,Subscription Revenue - Apr 2025
+TXN100236,2024/04/15,4100,Operations,Retail Customer,14401.47,ETB,Service Revenue - Apr 2024
+TXN101062,2025-03-18,6500,Marketing,Hilton Addis,"32,103.85",ETB,Travel & Entertainment - Mar 2025

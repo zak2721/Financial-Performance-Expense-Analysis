@@ -1,0 +1,15 @@
+account_category,account_name,spend,pct_of_total_costs,cumulative_pct
+Cost of Goods Sold,Materials,24987405.0,30.7,30.7
+Personnel,Salaries & Wages,20666177.0,25.4,56.1
+Cost of Goods Sold,Direct Labor,9194450.0,11.3,67.4
+Sales & Marketing,Marketing & Advertising,5518131.0,6.8,74.2
+Cost of Goods Sold,Freight & Logistics,4322624.0,5.3,79.5
+Facilities,Rent & Utilities,3924253.0,4.8,84.3
+Personnel,Employee Benefits,3615870.0,4.4,88.8
+Technology,Software & IT Services,3047278.0,3.7,92.5
+Sales & Marketing,Travel & Entertainment,1766735.0,2.2,94.7
+Administrative,Depreciation,1465418.0,1.8,96.5
+Administrative,Professional Fees,1000752.0,1.2,97.7
+Administrative,Insurance,773992.0,1.0,98.7
+Personnel,Training & Development,748159.0,0.9,99.6
+Administrative,Office Supplies,344100.0,0.4,100.0

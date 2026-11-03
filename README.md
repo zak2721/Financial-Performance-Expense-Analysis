@@ -224,4 +224,5 @@ Data cleaning · Data modeling (star schema) · SQL window functions · Financia
 
 ---
 
-**Author:** *[Your Name]* · [LinkedIn](#) · [Power BI live dashboard](#) · [Email](#)
+**Author:** *[Zekarias Adefris ]* ·· [Zekiostheone@gmail.com
+](#)

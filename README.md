@@ -63,7 +63,7 @@ Management saw FY2025 revenue grow, but profit did not follow. Finance leadershi
 7. **One-off anomaly.** Professional fees spiked to 279K in October 2024 (3.2× the normal month) because of a legal dispute. Anomaly detection flags it automatically.
 8. **Data quality.** 545K ETB of FY2025 costs, mainly salaries, had no department in the source system. Department budgets are understated until this is fixed.
 
-![Variance by account](images/02_variance_by_account_fy2025.png)
+![Financial Performance & Expense Analysis](https://raw.githubusercontent.com/zak2721/Financial-Performance-Expense-Analysis/fe673cdd178aa31ffc5bae69cba51f9f1d03a584/Screenshot%202026-11-13%20233835.png)
 
 ## Recommendations
 

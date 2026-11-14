@@ -2,8 +2,9 @@
 
 **Tools:** Python (Pandas) · SQL · Microsoft Excel · Power BI
 **Period:** January 2024 – December 2025 (24 months) · **Currency:** ETB (Ethiopian Birr)
+## 📊 Dashboard Preview
 
-![Monthly revenue vs budget](images/01_revenue_vs_budget.png)
+![Financial Performance Dashboard](https://raw.githubusercontent.com/zak2721/Financial-Performance-Expense-Analysis/main/Screenshot%202026-11-13%20233611.png)
 
 ---
 

@@ -161,8 +161,7 @@ Excel skills shown: `SUMIFS`, `COUNTIF`, `IF`/`IFERROR`, data validation, condit
 ![Budget vs Actual](images/pbi_budget_vs_actual.png)
 -->
 
-![Cost structure](images/04_cost_structure_fy2025.png)
-
+![Financial Performance & Expense Analysis](https://raw.githubusercontent.com/zak2721/Financial-Performance-Expense-Analysis/b892fe6b689a23ba82b082898842de9ad789d22b/Screenshot%202026-11-13%20233942.png)
 ---
 
 ## Deliverables

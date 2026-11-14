@@ -49,7 +49,7 @@ Management saw FY2025 revenue grow, but profit did not follow. Finance leadershi
 
 **Headline:** FY2024 beat its profit budget by +2.0M ETB. FY2025 missed by −8.1M ETB. About 79% of the gap (6.4M) came from **revenue falling short of an 18% growth target**. The remaining 1.7M came from cost overruns in **marketing (+19%)** and **freight (+18%)**.
 
-![YTD net profit](images/03_net_profit_ytd.png)
+[![YTD net profit](images/03_net_profit_ytd.png)](https://github.com/zak2721/Financial-Performance-Expense-Analysis/blob/f98bb038fc34b8a89caac0978e5d18e2d8577f6f/Screenshot%202026-11-13%20233611.png)
 
 ## Key Insights
 
